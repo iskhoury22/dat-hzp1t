@@ -10,6 +10,7 @@ The page is static. `index.html` renders everything from `data.json`; the ticker
    - `kpi`, `pulse`
    - `prorata`: latest issue only; `items` are one-line takeaways + links. Never paste newsletter text (the repo is public).
    - `news.wsj` / `news.econ`: `{title, href}` only.
+   - `x`: `{status:"ok"|"unavailable", asOf, note, news:[{t,src,time,url}], posts:[{t,src,time,url}]}` from the `x` MCP tools, ~3-4 calls: `search_news` (M&A/PE/deals, max_age_hours 36) + `search_news` (markets/Fed/macro, 24h) -> `news`; `search_posts_all` from:business/Reuters/FT/WSJmarkets/DealBook/axios with deal keywords, last 24h, recency -> `posts` (handle as src). One-line paraphrase, ET time, x.com link. 10-15 items each max. If calls fail set status "unavailable". Optionally check US trends (woeid 23424977); include only business-relevant ones.
    No personal info, emails or account names. Don't fabricate; mark gaps "Unavailable".
 2. Validate: `python3 -m json.tool data.json > /dev/null`
 3. Publish:

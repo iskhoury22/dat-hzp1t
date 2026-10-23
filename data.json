@@ -647,5 +647,140 @@
   "tnx": "4.997%",
   "hy": "3.40%",
   "updated": "FRI OCT 23 2026 12:05 PM ET"
+ },
+ "x": {
+  "status": "ok",
+  "asOf": "10/23 2:00 PM ET",
+  "news": [
+   {
+    "t": "Skydance completed $110B WBD deal; Musk reportedly invests ~$1B (unconfirmed)",
+    "src": "X News",
+    "time": "10/23 1:09P",
+    "url": "https://x.com/i/trending/2113674910451007815"
+   },
+   {
+    "t": "Dangote buys 24.8% of Kenya Pipeline Co for Ksh42.5B; plans $1.5B expansion",
+    "src": "X News",
+    "time": "10/22 12:50P",
+    "url": "https://x.com/i/trending/2112936644487577845"
+   },
+   {
+    "t": "Berkshire cash pile hits $365B as Abel takes over",
+    "src": "X News",
+    "time": "10/23 10:10A",
+    "url": "https://x.com/i/trending/2113444540745171022"
+   },
+   {
+    "t": "SpaceX Q3 revenue $14.6B (+161%); early Tesla merger talks via special committees",
+    "src": "X News",
+    "time": "10/22 11:41A",
+    "url": "https://x.com/i/trending/2112588458703433864"
+   },
+   {
+    "t": "Treasury proposes ban on large investors (350+ homes) buying more single-family homes",
+    "src": "X News",
+    "time": "10/22 10:42P",
+    "url": "https://x.com/i/trending/2113379010621358205"
+   },
+   {
+    "t": "Debate over US government equity stakes in 35-43 companies (Intel, US Steel)",
+    "src": "X News",
+    "time": "10/22 12:51P",
+    "url": "https://x.com/i/trending/2113310071811678434"
+   },
+   {
+    "t": "UAE pledges additional EUR15B to Greece; 18 deals worth over EUR12.75B",
+    "src": "X News",
+    "time": "10/23 12:49P",
+    "url": "https://x.com/i/trending/2113313208950042625"
+   },
+   {
+    "t": "Oct flash PMI: composite 57.6, manufacturing 56.0 (53-month high)",
+    "src": "X News",
+    "time": "10/23 1:56P",
+    "url": "https://x.com/i/trending/2113688921565487370"
+   },
+   {
+    "t": "Nasdaq -2.6%, S&P -1.2% Thursday; Apple passes Nvidia as most valuable",
+    "src": "X News",
+    "time": "10/23 1:18P",
+    "url": "https://x.com/i/trending/2113649482546192624"
+   },
+   {
+    "t": "S&P 500 near records while ~59% of members are down 20%+ from highs",
+    "src": "X News",
+    "time": "10/23 1:05P",
+    "url": "https://x.com/i/trending/2113636463753695332"
+   },
+   {
+    "t": "Prediction markets price ~93% odds of Fed hold at Oct 28-29 meeting",
+    "src": "X News",
+    "time": "10/22 5:38P",
+    "url": "https://x.com/i/trending/2113298164337807510"
+   }
+  ],
+  "posts": [
+   {
+    "t": "BASF raises Evonik takeover offer to over EUR11B",
+    "src": "@business",
+    "time": "10/23 11:25A",
+    "url": "https://x.com/business/status/2113652930339344593"
+   },
+   {
+    "t": "US government-backed group nears purchase of stakes in Glencore DRC copper-cobalt mines",
+    "src": "@business",
+    "time": "10/23 12:00P",
+    "url": "https://x.com/business/status/2113661881197920477"
+   },
+   {
+    "t": "CoreWeave-Blackstone 2023 deal became blueprint for chip-backed debt",
+    "src": "@business",
+    "time": "10/23 10:55A",
+    "url": "https://x.com/business/status/2113645377949684120"
+   },
+   {
+    "t": "EyeCare Partners set to close creditor deal to sell assets, repay debt at discount",
+    "src": "@business",
+    "time": "10/23 12:20A",
+    "url": "https://x.com/business/status/2113485580759605293"
+   },
+   {
+    "t": "Bloomberg Deals: data center wobbles, Tesla-SpaceX, Qiagen agrees to takeover",
+    "src": "@business",
+    "time": "10/23 12:05A",
+    "url": "https://x.com/business/status/2113481800370520439"
+   },
+   {
+    "t": "Musk's endorsement of $3.5T SpaceX-Tesla merger rattles insiders; could delay weeks",
+    "src": "@Reuters",
+    "time": "10/22 9:30P",
+    "url": "https://x.com/Reuters/status/2113442784577257869"
+   },
+   {
+    "t": "GM cancels deal with new US rare-earth magnet plant",
+    "src": "@Reuters",
+    "time": "10/22 10:10P",
+    "url": "https://x.com/Reuters/status/2113452871232475293"
+   },
+   {
+    "t": "Anthropic strikes deal to launch European consultancy",
+    "src": "@FT",
+    "time": "10/23 5:17A",
+    "url": "https://x.com/FT/status/2113560478433640773"
+   },
+   {
+    "t": "Rolls-Royce nears UK subsidy deal to develop new engine",
+    "src": "@FT",
+    "time": "10/23 12:54A",
+    "url": "https://x.com/FT/status/2113494353100353596"
+   },
+   {
+    "t": "Weil Gotshal edges toward merger with rival as partners exit",
+    "src": "@WSJmarkets",
+    "time": "10/22 7:58P",
+    "url": "https://x.com/WSJmarkets/status/2113419750726328378"
+   }
+  ],
+  "note": "X News stories are X's own summaries of posts; verify before acting. US trending topics checked but were non-business (sports/politics), so omitted."
  }
 }
