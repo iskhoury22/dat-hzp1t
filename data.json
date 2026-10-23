@@ -1,25 +1,25 @@
 {
- "asOf": "Oct 23, 2026 midday (12:02 PM ET intraday)",
+ "asOf": "Oct 23, 2026 4:00 PM ET close",
  "brief": [
   {
    "k": "CREDIT",
-   "t": "US HY OAS widened 13bp to 3.40% (10/22) as Nasdaq fell 2.6%; 10Y back up 4.4bp to 4.997% today.",
-   "so": "first spread back-up in the rally; price LBO debt now, sponsors should expect tighter flex terms if spreads keep drifting."
-  },
-  {
-   "k": "REGULATORY",
-   "t": "White House proposes curbs on US-China biotech deals (equity, debt, JVs); licensing appears exempt; comments close Dec 7 (Axios).",
-   "so": "cross-border biopharma M&A and China-linked financings face CFIUS-style risk; licensing becomes the default structure."
+   "t": "US HY OAS 3.40% (+13bp, 10/22) after Nasdaq's 2.6% drop; 10Y ends near 5.00% (+4bp) and 2Y 4.69% (+4bp) Friday.",
+   "so": "spreads backing up with 10Y pinned at 5%; lock LBO financing now and expect tighter flex terms if drift continues."
   },
   {
    "k": "BID",
-   "t": "BASF lifts Evonik offer to EUR24/sh, ~EUR11.18B ($12.5B), with job guarantees (Reuters source; Evonik +3.3%).",
+   "t": "BASF lifts Evonik offer to EUR24/sh, ~EUR11.18B ($12.5B), with job guarantees (Reuters source; Bloomberg on X).",
    "so": "German chemicals consolidation back on; political job pledges now table stakes in European public bids."
   },
   {
+   "k": "EQUITIES",
+   "t": "S&P 500 -0.52% to 7,623.68, Dow -1.23%, Nasdaq -0.21%, Russell -0.25% at the close; VIX 19.72 (+3.6%).",
+   "so": "second down day after Thursday's tech rout; stock-funded bids and IPO pricing get harder, cash buyers gain leverage."
+  },
+  {
    "k": "ENERGY",
-   "t": "WTI +3.55% to $103.00; Dow -0.95%, S&P -0.11%, Nasdaq +0.31% midday; VIX 19.32.",
-   "so": "oil shock hits input-cost models and consumer/industrial targets; energy sellers gain pricing power in asset sales."
+   "t": "WTI +4.23% to $103.68 (highest in five months per WSJ); gold -1.15% to $4,013.60.",
+   "so": "oil shock hits input-cost models for consumer/industrial targets; energy sellers gain pricing power in asset sales."
   },
   {
    "k": "STRATEGIC",
@@ -35,109 +35,109 @@
  "mk": [
   {
    "n": "S&P 500",
-   "v": "7,655.24",
-   "c": "-0.11%",
-   "d": -0.11,
-   "s": "Yahoo ^GSPC, Oct 23 12:02 PM ET (vs 7,663.43 Oct 22 close)",
+   "v": "7,623.68",
+   "c": "-0.52%",
+   "d": -0.52,
+   "s": "Yahoo ^GSPC, Oct 23 4:04 PM ET close (vs 7,663.43 Oct 22)",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
   {
    "n": "NASDAQ",
-   "v": "26,089.61",
-   "c": "+0.31%",
-   "d": 0.31,
-   "s": "Yahoo ^IXIC, Oct 23 12:02 PM ET",
+   "v": "25,955.34",
+   "c": "-0.21%",
+   "d": -0.21,
+   "s": "Yahoo ^IXIC, Oct 23 4:04 PM ET close (vs 26,008.86 Oct 22)",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
   {
    "n": "DOW",
-   "v": "52,363.25",
-   "c": "-0.95%",
-   "d": -0.95,
-   "s": "Yahoo ^DJI, Oct 23 12:02 PM ET",
+   "v": "52,215.16",
+   "c": "-1.23%",
+   "d": -1.23,
+   "s": "Yahoo ^DJI, Oct 23 4:04 PM ET close (vs 52,867.98 Oct 22)",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,774.49",
-   "c": "-0.34%",
-   "d": -0.34,
-   "s": "Yahoo ^RUT, Oct 23 11:47 AM ET",
+   "v": "2,777.16",
+   "c": "-0.25%",
+   "d": -0.25,
+   "s": "Yahoo ^RUT, Oct 23 3:49 PM ET (vs 2,784.03 Oct 22)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "19.32",
-   "c": "+1.52%",
-   "d": 1.52,
-   "s": "Yahoo ^VIX, Oct 23 11:47 AM ET (vs 19.03 Oct 22)",
+   "v": "19.72",
+   "c": "+3.63%",
+   "d": 3.63,
+   "s": "Yahoo ^VIX, Oct 23 3:49 PM ET (vs 19.03 Oct 22)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
   {
    "n": "UST 2Y",
-   "v": "4.65%",
-   "c": "-16bp (10/22)",
-   "d": -0.16,
-   "s": "US Treasury, Oct 22; FRED DGS2 Oct 22 not yet posted (4.81% Oct 21); intraday Oct 23 unavailable",
+   "v": "4.69%",
+   "c": "+4bp",
+   "d": 0.04,
+   "s": "US Treasury par yield curve, Oct 23 close (4.65% Oct 22); FRED DGS2 latest posted 4.81% Oct 21",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
   {
    "n": "UST 10Y",
-   "v": "4.997%",
-   "c": "+4.4bp",
+   "v": "4.988%",
+   "c": "+3.5bp",
    "d": 0.04,
-   "s": "Yahoo ^TNX, Oct 23 11:47 AM ET (vs 4.953% Oct 22)",
+   "s": "Yahoo ^TNX, Oct 23 2:59 PM ET (vs 4.953% Oct 22); US Treasury Oct 23 close 5.00%",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "101.75",
-   "c": "+0.14%",
-   "d": 0.14,
-   "s": "Yahoo DX-Y.NYB, Oct 23 11:52 AM ET",
+   "v": "101.81",
+   "c": "+0.19%",
+   "d": 0.19,
+   "s": "Yahoo DX-Y.NYB, Oct 23 3:54 PM ET (vs 101.61 Oct 22)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1203",
-   "c": "-0.28%",
-   "d": -0.28,
-   "s": "Yahoo EURUSD=X, Oct 23 12:02 PM ET (vs 1.1235 Oct 21; Oct 22 bar missing)",
+   "v": "1.1198",
+   "c": "-0.20%",
+   "d": -0.2,
+   "s": "Yahoo EURUSD=X, Oct 23 4:04 PM ET (vs 1.1221 Oct 22)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "103.00",
-   "c": "+3.55%",
-   "d": 3.55,
-   "s": "Yahoo CL=F, Oct 23 11:52 AM ET (vs 99.47 Oct 22 settle)",
+   "v": "103.68",
+   "c": "+4.23%",
+   "d": 4.23,
+   "s": "Yahoo CL=F, Oct 23 3:54 PM ET (vs 99.47 Oct 22 settle)",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,017.20",
-   "c": "-1.06%",
-   "d": -1.06,
-   "s": "Yahoo GC=F, Oct 23 11:52 AM ET (vs 4,060.40 Oct 22)",
+   "v": "4,013.60",
+   "c": "-1.15%",
+   "d": -1.15,
+   "s": "Yahoo GC=F, Oct 23 3:54 PM ET (vs 4,060.40 Oct 22)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "81,547",
-   "c": "+0.29%",
-   "d": 0.29,
-   "s": "Yahoo BTC-USD, Oct 23 12:02 PM ET (vs 81,311.89 Oct 21 UTC bar)",
+   "v": "81,192",
+   "c": "-0.15%",
+   "d": -0.15,
+   "s": "Yahoo BTC-USD, Oct 23 4:04 PM ET (vs 81,311.89 Oct 21 UTC bar; 24/7 market)",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
@@ -146,7 +146,7 @@
    "v": "3.40%",
    "c": "+13bp (10/22)",
    "d": 0.13,
-   "s": "FRED BAMLH0A0HYM2, Oct 22",
+   "s": "FRED BAMLH0A0HYM2, Oct 22 (Oct 23 not yet posted)",
    "tv": "FRED:BAMLH0A0HYM2",
    "tvn": "FRED ICE BofA HY OAS, daily"
   }
@@ -548,39 +548,39 @@
    },
    {
     "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
-    "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5"
+    "href": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad"
    },
    {
-    "title": "Buyout Firms Look to Swap Out Portfolio Company CEOs as Holds Lengthen",
-    "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzZQUGxMQVprTDdvY2ZUT3ByWmU1SmFhV2tMT3ZwU3M1Ri1sTExJUW8tUXRuTXp4WmFXSHItMGdoaEZ0ZHNXM0o0SDhKUFRLWGRWeVdSa19xRTdQMm9lelZ0eGVhR3o5V0FJWEhHZ3l5ZnZTd3Ric3Y4eENGY2Q0c1dWb0t3Ujh0SlMzY0ZKZTc1OFlQakVsd1V6WUF3cUVPVXBSakUyc3ZUTngycWdub2ZsRlhraEN3bFE?oc=5"
+    "title": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
+    "href": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d"
    },
    {
-    "title": "H.B. Fuller Rejects Ancora’s Latest Acquisition Bid, Plans to Consider Selling Noncore Businesses",
-    "href": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWlDcXVUdVdfT2dDMFpCM3hIazg4dFFMeV9YX1BqMXZOOE5scjlrWFk0QmRCczhiWnE5OVQ1M3hoeEh0RmFlRUpOQmdCbHFPRWVILUoteHgtVENSM05JNlBfTTJXbVo0Qi1pNW5tRGh0RHp3R1BsN3VCWmZwRjJ0cWRDR3dxMkthWlJuRHhPWTJrMVI2T1NxazRidXpIV00xSzhlNlZKU2xzd2R4WGRNbkhuNkY3djZJajJuUXFUNDlhVjh3dTI2OFhHX2o?oc=5"
+    "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
+    "href": "https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5"
    },
    {
-    "title": "Prudential Financial Sells Prudential of Brazil, Prudential of Mexico for $4 Billion",
-    "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXE0SXQwVlRiWWZSTkY1ZFZmTTgtZzJVdHVFeExxaGNOLXQzRk1WcHJJUkRkX2pXQXpuejhUTUF0V1VFMThoXzltZXdEU1FIOHFYSklXZHlqel82S0pyeXprZ0E3cVRLalhraEM4WE8xN3M5djFmLW5VZUQ0RUh2cFR0SjZTa1VRZXllbHMzbWQzNjVLYkhvbUZzQU9uMk1VdTVtZGhYMDM5cHFIYzN3V2o3b1FxalNiTkhzY25Kanp2TGc1czZ6UQ?oc=5"
+    "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
+    "href": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc"
    },
    {
-    "title": "Optimum Communications Prepares for Bankruptcy to Implement Deal",
-    "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV29sTmdjeklwbFByeVVVaU1kSUticE9jVU15R3hKaDZrZ0RBWjRIV0xVMFlyYmQ1MHBhRkl3VU9GV01ERVpfWjhaZ1ZvOE9HeDJ4TGE1SEZCQjZ2M0VzMUlJeEtWRnE2ZGNsZlpreFZjSEQ4MVZVTXJ5WnVENUZiWXhHMTVkUEF0SDdSbmpqZEdfdWU1R21GWDVyX2wyX0M0dEZOZ0xxTjRhaEl5?oc=5"
+    "title": "Brokerage Firms Want to Yank Away Your Investor Protections",
+    "href": "https://www.wsj.com/finance/investing/brokerage-firms-want-to-yank-away-your-investor-protections-b9fddd88"
    },
    {
-    "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
-    "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5"
+    "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+    "href": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852"
    },
    {
-    "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-    "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HNFhFTFhpTzRXbFdHSzNMY3RaWHFIVllmc0VsdGdrUEYxTzdwNGRqb2Y4b3ZhUUt1RUJnZTN2QlpKdW8xQVRjYTIwQktIOGVyaHhINjJPVjFVTFN1NFEwYUd3?oc=5"
+    "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
+    "href": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21"
    },
    {
-    "title": "American Express to Cut 5% of Global Workforce",
-    "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmpaSkFKXzhJclpJSlJYeTlsZlFMQmd6Tmo5UG53V05tREY5cWNxY2h5T1VYd0x3SnpxNUpmbDlHbk5KV0NSZlBLVDdZemU3VTNWTENFMW5PMVd1TmwybGs5VXBqSm1udHV4dktCUVFLb1BId29QclFDajI0TEp6UU55ckhBQ3JTbG9yRWQ0SWU4LW5kd2NXMGNLN3F0VndnTnhhbDExcEpWQVR2N3ZOWE9fUkM?oc=5"
+    "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
+    "href": "https://www.wsj.com/business/nippons-u-s-steel-to-invest-nearly-3-billion-in-hot-strip-mill-near-pittsburgh-b9784176"
    },
    {
-    "title": "Oil Prices Rise as Middle East Risks Persist",
-    "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
+    "title": "Akzo Nobel in Talks to Shed European Refinishing Unit for Axalta Merger Nod",
+    "href": "https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0"
    }
   ],
   "econ": [
@@ -605,6 +605,10 @@
     "href": "https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites"
    },
    {
+    "title": "Brazil’s weird economy needs serious reform",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform"
+   },
+   {
     "title": "New research tries to defuse the \"China shock\"",
     "href": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock"
    },
@@ -615,6 +619,10 @@
    {
     "title": "Either AI or public debt could crash markets. But probably not both",
     "href": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both"
+   },
+   {
+    "title": "Is Netflix losing the plot?",
+    "href": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot"
    }
   ]
  },
@@ -642,27 +650,69 @@
   "note": "Global/YTD: LSEG via Reuters, Oct 1. Exits: PitchBook, Sep 30. Q1/Q2 split: unavailable."
  },
  "status": {
-  "spx": "7,655.24",
-  "spxChg": -0.11,
-  "tnx": "4.997%",
+  "spx": "7,623.68",
+  "spxChg": -0.52,
+  "tnx": "4.988%",
   "hy": "3.40%",
-  "updated": "FRI OCT 23 2026 12:05 PM ET"
+  "updated": "FRI OCT 23 2026 4:10 PM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "10/23 2:00 PM ET",
+  "asOf": "10/23 4:05 PM ET",
   "news": [
    {
-    "t": "Skydance completed $110B WBD deal; Musk reportedly invests ~$1B (unconfirmed)",
+    "t": "US stocks drop as tech selloff erases ~$500B; Apple retakes most-valuable spot at $5.13T",
     "src": "X News",
-    "time": "10/23 1:09P",
+    "time": "10/23 3:12P",
+    "url": "https://x.com/i/trending/2113649482546192624"
+   },
+   {
+    "t": "Brent tops $117 on fears of renewed US strikes on Iran; DPA invoked for fuel output",
+    "src": "X News",
+    "time": "10/23 3:38P",
+    "url": "https://x.com/i/trending/2113503915501347013"
+   },
+   {
+    "t": "Gold slips below $4,000 for first time since July amid margin calls",
+    "src": "X News",
+    "time": "10/23 4:03P",
+    "url": "https://x.com/i/trending/2113641386868170942"
+   },
+   {
+    "t": "French 10Y yield hits 5.14%; spread over Bunds widest since 2011 at 178bp",
+    "src": "X News",
+    "time": "10/23 10:09A",
+    "url": "https://x.com/i/trending/2113607313634525298"
+   },
+   {
+    "t": "US lends up to 400k bbl from SPR to Phillips 66 Lake Charles refinery",
+    "src": "X News",
+    "time": "10/23 3:51P",
+    "url": "https://x.com/i/trending/2113717875295096936"
+   },
+   {
+    "t": "Prediction markets price ~93% odds of Fed hold at Oct 28-29 meeting",
+    "src": "X News",
+    "time": "10/22 5:38P",
+    "url": "https://x.com/i/trending/2113298164337807510"
+   },
+   {
+    "t": "Skydance closed $110B WBD deal; Musk reportedly invests ~$1B (unconfirmed)",
+    "src": "X News",
+    "time": "10/23 3:25P",
     "url": "https://x.com/i/trending/2113674910451007815"
    },
    {
-    "t": "Dangote buys 24.8% of Kenya Pipeline Co for Ksh42.5B; plans $1.5B expansion",
+    "t": "Jio Platforms IPO closes with record 1.38 crore applications; lists Oct 28",
     "src": "X News",
-    "time": "10/22 12:50P",
-    "url": "https://x.com/i/trending/2112936644487577845"
+    "time": "10/23 3:38P",
+    "url": "https://x.com/i/trending/2113714640039329806"
+   },
+   {
+    "t": "Gilead buys PepStar oral IL-23R IBD program for $1.275B upfront",
+    "src": "X News",
+    "time": "10/22 8:40P",
+    "url": "https://x.com/i/trending/2113428896960086520"
    },
    {
     "t": "Berkshire cash pile hits $365B as Abel takes over",
@@ -671,52 +721,22 @@
     "url": "https://x.com/i/trending/2113444540745171022"
    },
    {
-    "t": "SpaceX Q3 revenue $14.6B (+161%); early Tesla merger talks via special committees",
-    "src": "X News",
-    "time": "10/22 11:41A",
-    "url": "https://x.com/i/trending/2112588458703433864"
-   },
-   {
     "t": "Treasury proposes ban on large investors (350+ homes) buying more single-family homes",
     "src": "X News",
     "time": "10/22 10:42P",
     "url": "https://x.com/i/trending/2113379010621358205"
    },
    {
-    "t": "Debate over US government equity stakes in 35-43 companies (Intel, US Steel)",
+    "t": "Dangote buys 24.8% of Kenya Pipeline Co for Ksh42.5B; plans $1.5B expansion",
     "src": "X News",
-    "time": "10/22 12:51P",
-    "url": "https://x.com/i/trending/2113310071811678434"
+    "time": "10/22 12:50P",
+    "url": "https://x.com/i/trending/2112936644487577845"
    },
    {
-    "t": "UAE pledges additional EUR15B to Greece; 18 deals worth over EUR12.75B",
+    "t": "Indian equities lose ~Rs6 trillion in broad selloff tied to global tech weakness",
     "src": "X News",
-    "time": "10/23 12:49P",
-    "url": "https://x.com/i/trending/2113313208950042625"
-   },
-   {
-    "t": "Oct flash PMI: composite 57.6, manufacturing 56.0 (53-month high)",
-    "src": "X News",
-    "time": "10/23 1:56P",
-    "url": "https://x.com/i/trending/2113688921565487370"
-   },
-   {
-    "t": "Nasdaq -2.6%, S&P -1.2% Thursday; Apple passes Nvidia as most valuable",
-    "src": "X News",
-    "time": "10/23 1:18P",
-    "url": "https://x.com/i/trending/2113649482546192624"
-   },
-   {
-    "t": "S&P 500 near records while ~59% of members are down 20%+ from highs",
-    "src": "X News",
-    "time": "10/23 1:05P",
-    "url": "https://x.com/i/trending/2113636463753695332"
-   },
-   {
-    "t": "Prediction markets price ~93% odds of Fed hold at Oct 28-29 meeting",
-    "src": "X News",
-    "time": "10/22 5:38P",
-    "url": "https://x.com/i/trending/2113298164337807510"
+    "time": "10/23 2:47P",
+    "url": "https://x.com/i/trending/2113428896804966783"
    }
   ],
   "posts": [
@@ -727,40 +747,52 @@
     "url": "https://x.com/business/status/2113652930339344593"
    },
    {
+    "t": "UK court appoints receivers vs VietJet to recover $250M+ owed to London buyout fund",
+    "src": "@business",
+    "time": "10/23 2:20P",
+    "url": "https://x.com/business/status/2113696972162945340"
+   },
+   {
     "t": "US government-backed group nears purchase of stakes in Glencore DRC copper-cobalt mines",
     "src": "@business",
     "time": "10/23 12:00P",
     "url": "https://x.com/business/status/2113661881197920477"
    },
    {
-    "t": "CoreWeave-Blackstone 2023 deal became blueprint for chip-backed debt",
+    "t": "CoreWeave-Blackstone 2023 deal became blueprint for chip-backed debt, heading to $1T market",
     "src": "@business",
     "time": "10/23 10:55A",
     "url": "https://x.com/business/status/2113645377949684120"
    },
    {
-    "t": "EyeCare Partners set to close creditor deal to sell assets, repay debt at discount",
-    "src": "@business",
-    "time": "10/23 12:20A",
-    "url": "https://x.com/business/status/2113485580759605293"
+    "t": "Meta details Zuckerberg arrangement tied to California wealth tax; campaign cheers it",
+    "src": "@FT",
+    "time": "10/23 2:21P",
+    "url": "https://x.com/FT/status/2113697409289089102"
    },
    {
-    "t": "Bloomberg Deals: data center wobbles, Tesla-SpaceX, Qiagen agrees to takeover",
-    "src": "@business",
-    "time": "10/23 12:05A",
-    "url": "https://x.com/business/status/2113481800370520439"
-   },
-   {
-    "t": "Musk's endorsement of $3.5T SpaceX-Tesla merger rattles insiders; could delay weeks",
+    "t": "Markets no longer price a December Fed hike after AI selloff (Morning Bid)",
     "src": "@Reuters",
-    "time": "10/22 9:30P",
-    "url": "https://x.com/Reuters/status/2113442784577257869"
+    "time": "10/23 7:50A",
+    "url": "https://x.com/Reuters/status/2113598841706451199"
    },
    {
-    "t": "GM cancels deal with new US rare-earth magnet plant",
+    "t": "Oil climbs above $114 on reports of possible fresh military action vs Iran",
     "src": "@Reuters",
-    "time": "10/22 10:10P",
-    "url": "https://x.com/Reuters/status/2113452871232475293"
+    "time": "10/23 6:50A",
+    "url": "https://x.com/Reuters/status/2113583752064504100"
+   },
+   {
+    "t": "SoftBank-backed OYO parent faces investor pushback on IPO valuation",
+    "src": "@business",
+    "time": "10/23 7:10A",
+    "url": "https://x.com/business/status/2113588763691458667"
+   },
+   {
+    "t": "Anthropic preparing a massive IPO; competition and regulation flagged as risks",
+    "src": "@business",
+    "time": "10/23 6:55A",
+    "url": "https://x.com/business/status/2113584979099689050"
    },
    {
     "t": "Anthropic strikes deal to launch European consultancy",
@@ -769,18 +801,24 @@
     "url": "https://x.com/FT/status/2113560478433640773"
    },
    {
-    "t": "Rolls-Royce nears UK subsidy deal to develop new engine",
-    "src": "@FT",
-    "time": "10/23 12:54A",
-    "url": "https://x.com/FT/status/2113494353100353596"
+    "t": "Zetwerk rises up to 5.3% on BSE debut after $529M IPO",
+    "src": "@business",
+    "time": "10/23 3:15A",
+    "url": "https://x.com/business/status/2113529618586079248"
    },
    {
-    "t": "Weil Gotshal edges toward merger with rival as partners exit",
+    "t": "GM cancels deal with new US rare-earth magnet plant",
+    "src": "@Reuters",
+    "time": "10/23 2:20A",
+    "url": "https://x.com/Reuters/status/2113515777013764368"
+   },
+   {
+    "t": "First Russian diesel cargo from Trump-Putin deal signals US port",
     "src": "@WSJmarkets",
-    "time": "10/22 7:58P",
-    "url": "https://x.com/WSJmarkets/status/2113419750726328378"
+    "time": "10/23 8:24A",
+    "url": "https://x.com/WSJmarkets/status/2113607533621317952"
    }
   ],
-  "note": "X News stories are X's own summaries of posts; verify before acting. US trending topics checked but were non-business (sports/politics), so omitted."
+  "note": "X News stories are X's own summaries of posts; verify before acting. US trends not checked this refresh."
  }
 }
