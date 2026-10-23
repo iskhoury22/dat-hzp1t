@@ -89,7 +89,7 @@ function render(){
  $("#grid").innerHTML=[
   tile("p-brief","BRIEF","Morning brief",D.brief.length+" ITEMS / "+esc(D.asOf),D.brief.map(b=>`<div class="row"><span class="or b" style="letter-spacing:.02em">${esc(b.k)}&nbsp;&nbsp;</span>${esc(b.t)} <span class="or">→ </span><span class="dim">${esc(b.so)}</span></div>`).join("")),
   tile("","KPI","M&amp;A pulse","LSEG / PITCHBOOK",`<div class="kpis">${D.kpi.items.map(x=>`<div class="kpi"><div class="l">${esc(x.k)}</div><div class="v">${esc(x.v)}</div><div class="c ${dcls(x.dir)}">${esc(x.c)}</div></div>`).join("")}</div><div class="cap">${esc(D.kpi.note)}</div>`),
-  tile("p-mkt","MKT &lt;GO&gt;","Markets",D.mk.length+" SYM / CLOSE 10/22",mkBody(),"mk"),
+  tile("p-mkt","MKT <GO>","Markets",D.mk.length+" SYM / CLOSE 10/22",mkBody(),"mk"),
   `<section class="tile"><div class="hd"><span><span class="code">GP</span><span class="t" id="gp-t"></span><span class="t" id="gp-rng"> 1M</span></span><span class="r" id="gp-r"></span></div><div class="tb chartbox"><div class="tradingview-widget-container" id="gp-chart" style="height:100%;width:100%"></div></div></section>`,
   tile("","VOL","Q3 2026 volume ($B)",D.pulse.length+" SERIES / PUBLISHED",D.pulse.map(x=>`<div style="margin-bottom:5px"><div style="display:flex;justify-content:space-between;flex-wrap:wrap"><span>${esc(x.l)}</span><span class="bl">$${x.v}B</span></div><div class="bar"><div style="width:${x.v/pmax*100}%;background:var(${x.l.includes("PE")?"--or":"--bl"})"></div></div><span class="cap">SRC: ${esc(x.src)}</span></div>`).join("")),
   tile("p-prorata","PRORATA","Axios Pro Rata / Issue of "+esc(D.prorata.issue),D.prorata.items.length+" ITEMS / LATEST ISSUE",prBody(),"pr"),
