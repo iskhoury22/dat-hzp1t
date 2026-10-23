@@ -5,9 +5,9 @@ The page is static. `index.html` renders everything from `data.json`; the ticker
 ## Steps
 1. Regenerate `data.json` with the same keys:
    - `asOf`, `status` (spx, spxChg, tnx, hy, updated)
-   - `brief`: 5-6 items `{k, t, so}` ranked by M&A importance: short TAG, what happened with the number, "So what" for dealmakers (financing, valuations, timing, sectors, regulatory risk). Only use data that is elsewhere in this file. Add `k: "WATCH TODAY"` only for a known, dated catalyst.
+   - `brief`: 5-6 items `{k, t, so}` ranked by M&A importance: short TAG, what happened with the number, "So what" for dealmakers (financing, valuations, timing, sectors). Only use data that is elsewhere in this file. Add `k: "WATCH TODAY"` only for a known, dated catalyst.
    - `mk`: `{n, v, c, d, s, tv, tvn}` (tv = TradingView symbol tested to render in the free widget, tvn = its label; FRED: symbols get daily bars with no range)
-   - `kpi`, `pulse`, `reg`, `regNote`
+   - `kpi`, `pulse`
    - `prorata`: latest issue only; `items` are one-line takeaways + links. Never paste newsletter text (the repo is public).
    - `news.wsj` / `news.econ`: `{title, href}` only.
    No personal info, emails or account names. Don't fabricate; mark gaps "Unavailable".

@@ -178,57 +178,6 @@
    "src": "PitchBook US PE Breakdown, Oct 5"
   }
  ],
- "reg": [
-  {
-   "d": "BASF / EVONIK",
-   "v": "~$12.5B (raised bid)",
-   "s": "EUR24/sh offer; Evonik, RAG no comment",
-   "u": "https://live.euronext.com/en/financial-news/basf-raises-evonik-offer-eu24-share-source-says",
-   "t": "o"
-  },
-  {
-   "d": "US-CHINA BIOTECH RULE",
-   "v": "n/a",
-   "s": "Proposed curbs; comments to Dec 7",
-   "u": "https://www.axios.com/2026/10/23/trump-china-biotech-restrictions",
-   "t": "r"
-  },
-  {
-   "d": "ICE / MARKETAXESS",
-   "v": "n/a",
-   "s": "HSR early termination Oct 21",
-   "u": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526428689/d157425d8k.htm",
-   "t": "o"
-  },
-  {
-   "d": "SPACEX / TESLA",
-   "v": "~$3.5T (talks)",
-   "s": "Special cttees formed; early talks",
-   "u": "https://www.investing.com/news/stock-market-news/musks-public-endorsement-of-spacextesla-deal-may-throw-a-wrench-in-talks-4968181",
-   "t": "o"
-  },
-  {
-   "d": "UNICREDIT / COMMERZBANK",
-   "v": "n/a",
-   "s": "ECB approved; EU Ph1 deadline Nov 16",
-   "u": "https://www.investing.com/news/stock-market-news/eu-antitrust-regulators-to-decide-on-unicredits-commerzbank-deal-by-november-16-4941062",
-   "t": "o"
-  },
-  {
-   "d": "AKZONOBEL / AXALTA",
-   "v": "$25B",
-   "s": "FTC + EU Ph1 near; EU decision Nov",
-   "u": "https://live.euronext.com/en/financial-news/akzonobel-axalta-near-merger-approvals-two-unit-sales",
-   "t": "o"
-  },
-  {
-   "d": "CURIUM / LANTHEUS",
-   "v": "n/a",
-   "s": "FTC 2nd requests issued",
-   "u": "https://www.bullished.co/lantheus-and-curium-each-get-ftc-second-request-extending-merger-review-past-the-standard-7d8fa942/",
-   "t": "r"
-  }
- ],
  "prorata": {
   "issue": "Fri Oct 23, 2026",
   "url": "https://www.axios.com/newsletters/axios-pro-rata-9cbbf683-f661-4dba-8181-8d618b4c13a7.html",
@@ -692,7 +641,6 @@
   ],
   "note": "Global/YTD: LSEG via Reuters, Oct 1. Exits: PitchBook, Sep 30. Q1/Q2 split: unavailable."
  },
- "regNote": "FINANCING: Fed funds 3.75-4.00% (Sept hike, PitchBook Oct 7); Fed decision next week, CME FedWatch sees hold (Reuters Oct 23). 2Y 4.65% (-16bp, UST Oct 22). HY OAS 3.40% (+13bp, FRED Oct 22). Megadeal value -68% QoQ (Fried Frank Q3).",
  "status": {
   "spx": "7,655.24",
   "spxChg": -0.11,
