@@ -1,35 +1,35 @@
 {
- "asOf": "Oct 22, 2026 close",
+ "asOf": "Oct 23, 2026 pre-market (US equities: Oct 22 close)",
  "brief": [
   {
    "k": "RATES",
-   "t": "10Y -19bp to 4.95%; US HY OAS 3.27% (-6bp, 10/21).",
-   "so": "cheaper LBO debt and tighter spreads; refi and recap window opening."
+   "t": "2Y -16bp to 4.65%, 10Y -19bp to 4.95% (Oct 22); US HY OAS 3.27% (10/21).",
+   "so": "sharpest rally in years cuts LBO and refi costs; lock financing while the window is open."
   },
   {
-   "k": "PE",
-   "t": "EQT/Qiagen EUR 46.50/sh, ~EUR 10.8B EV, 40.3% premium, with ADIA + CPP; close mid-2027.",
-   "so": "large-cap take-privates still financeable; LP co-invest filling big equity checks."
+   "k": "MEGA",
+   "t": "SpaceX-Tesla weighing a ~$3.5T combination; special committees formed, talks early (Reuters).",
+   "so": "conflicted-controller process; expect heavy committee scrutiny, litigation risk and a slower timetable."
+  },
+  {
+   "k": "STRATEGIC",
+   "t": "Smith & Nephew talks with J&J ortho unit (up to $22B) collapsed over CEO role (FT via Reuters).",
+   "so": "governance can sink agreed terms; DePuy Synthes back in play for sponsors and strategics."
   },
   {
    "k": "EXITS",
-   "t": "LSEG buys Octus from Permira for $3.535B cash.",
-   "so": "strategics paying cash for sponsor-owned data assets; supports credit-data valuations."
-  },
-  {
-   "k": "VOLUME",
-   "t": "Q3 global M&A -41% QoQ to $993B (LSEG); PE deals $499.2B vs exits $481.6B (PitchBook).",
-   "so": "thinner pipeline; sponsor exits now nearly match deployment."
+   "t": "LSEG buys Octus from Permira for $3.535B cash, debt-financed; Tradeweb buys Trumid for $1.97B.",
+   "so": "strategics paying up for credit data and trading rails; supports sponsor exits in fintech infrastructure."
   },
   {
    "k": "EQUITY",
-   "t": "Nasdaq -2.6%, S&P -1.2%, VIX +14% to 19.03.",
-   "so": "wider bid-ask on tech targets; stock-for-stock and IPO-exit timing harder."
+   "t": "Nasdaq -2.6%, S&P -1.2% Thu; VIX 19.68 (+3.4%) pre-mkt; WTI $100.99.",
+   "so": "tech multiples under pressure; stock-for-stock and IPO exits harder, energy cost risk in models."
   },
   {
-   "k": "REG",
-   "t": "FTC 2nd requests on Curium/Lantheus; EU Phase 2 on XXXLutz/Porta; AkzoNobel selling refinish unit for Axalta.",
-   "so": "longer timelines; build remedies and outside dates into SPAs."
+   "k": "WATCH TODAY",
+   "t": "Flash S&P Global US PMIs today; Fed rate decision next week (CNBC).",
+   "so": "rate path drives debt pricing; hold launch timing on financings until the Fed decision."
   }
  ],
  "mk": [
@@ -38,7 +38,7 @@
    "v": "7,663.43",
    "c": "-1.21%",
    "d": -1.21,
-   "s": "Yahoo ^GSPC",
+   "s": "Yahoo ^GSPC, Oct 22 close",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
@@ -47,7 +47,7 @@
    "v": "26,008.86",
    "c": "-2.60%",
    "d": -2.6,
-   "s": "Yahoo ^IXIC",
+   "s": "Yahoo ^IXIC, Oct 22 close",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
@@ -56,7 +56,7 @@
    "v": "52,867.98",
    "c": "+0.02%",
    "d": 0.02,
-   "s": "Yahoo ^DJI",
+   "s": "Yahoo ^DJI, Oct 22 close",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
@@ -65,25 +65,25 @@
    "v": "2,784.03",
    "c": "+0.11%",
    "d": 0.11,
-   "s": "Yahoo ^RUT",
+   "s": "Yahoo ^RUT, Oct 22 close",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "19.03",
-   "c": "+14.09%",
-   "d": 14.09,
-   "s": "Yahoo ^VIX",
+   "v": "19.68",
+   "c": "+3.42%",
+   "d": 3.42,
+   "s": "Yahoo ^VIX, Oct 23 6:45 AM ET",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
   {
    "n": "UST 2Y",
-   "v": "4.81%",
-   "c": "+2bp (10/21)",
-   "d": 0.02,
-   "s": "FRED DGS2, Oct 21; Oct 22 unavailable",
+   "v": "4.65%",
+   "c": "-16bp (10/22)",
+   "d": -0.16,
+   "s": "US Treasury, Oct 22; FRED DGS2 Oct 22 not yet posted (4.81% Oct 21)",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
@@ -92,52 +92,52 @@
    "v": "4.953%",
    "c": "-19.3bp",
    "d": -0.19,
-   "s": "Yahoo ^TNX",
+   "s": "Yahoo ^TNX, Oct 22",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "101.62",
-   "c": "-0.16%",
-   "d": -0.16,
-   "s": "Yahoo DX-Y.NYB",
+   "v": "101.77",
+   "c": "+0.15%",
+   "d": 0.15,
+   "s": "Yahoo DX-Y.NYB, Oct 23 a.m.",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1223",
-   "c": "-0.10%",
-   "d": -0.1,
-   "s": "Yahoo EURUSD=X",
+   "v": "1.1198",
+   "c": "-0.33%",
+   "d": -0.33,
+   "s": "Yahoo EURUSD=X, Oct 23 a.m.",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "99.62",
-   "c": "+2.54%",
-   "d": 2.54,
-   "s": "Yahoo CL=F",
+   "v": "100.99",
+   "c": "+1.53%",
+   "d": 1.53,
+   "s": "Yahoo CL=F, Oct 23 a.m.",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,042.40",
-   "c": "-2.59%",
-   "d": -2.59,
-   "s": "Yahoo GC=F",
+   "v": "4,037.60",
+   "c": "-0.56%",
+   "d": -0.56,
+   "s": "Yahoo GC=F, Oct 23 a.m.",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "81,228",
-   "c": "-3.31%",
-   "d": -3.31,
-   "s": "Yahoo BTC-USD",
+   "v": "81,534",
+   "c": "+0.27%",
+   "d": 0.27,
+   "s": "Yahoo BTC-USD, Oct 23 a.m.",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
@@ -146,7 +146,7 @@
    "v": "3.27%",
    "c": "-6bp (10/21)",
    "d": -0.06,
-   "s": "FRED BAMLH0A0HYM2, Oct 21",
+   "s": "FRED BAMLH0A0HYM2, Oct 21; Oct 22 unavailable",
    "tv": "FRED:BAMLH0A0HYM2",
    "tvn": "FRED ICE BofA HY OAS, daily"
   }
@@ -180,6 +180,20 @@
  ],
  "reg": [
   {
+   "d": "SPACEX / TESLA",
+   "v": "~$3.5T (talks)",
+   "s": "Special cttees formed; early talks",
+   "u": "https://www.investing.com/news/stock-market-news/musks-public-endorsement-of-spacextesla-deal-may-throw-a-wrench-in-talks-4968181",
+   "t": "o"
+  },
+  {
+   "d": "UNICREDIT / COMMERZBANK",
+   "v": "n/a",
+   "s": "ECB approved; EU Ph1 deadline Nov 16",
+   "u": "https://www.investing.com/news/stock-market-news/eu-antitrust-regulators-to-decide-on-unicredits-commerzbank-deal-by-november-16-4941062",
+   "t": "o"
+  },
+  {
    "d": "AKZONOBEL / AXALTA",
    "v": "$25B",
    "s": "FTC + EU Ph1 near; EU decision Nov",
@@ -192,13 +206,6 @@
    "s": "FTC 2nd requests issued",
    "u": "https://www.bullished.co/lantheus-and-curium-each-get-ftc-second-request-extending-merger-review-past-the-standard-7d8fa942/",
    "t": "r"
-  },
-  {
-   "d": "KIMBERLY-CLARK / KENVUE",
-   "v": "n/a",
-   "s": "EU cleared w/ conditions Oct 13",
-   "u": "https://competition-policy.ec.europa.eu/mergers/latest-news_en",
-   "t": "g"
   },
   {
    "d": "XXXLUTZ / PORTA",
@@ -679,62 +686,66 @@
  "news": {
   "wsj": [
    {
-    "title": "Tech Stocks Fall on AI Concerns",
-    "href": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFVOdlotVGt3b0M5RldZM1gzUjh1c0FUV1dSaUU4OWkyeEZ5cmg3aTl6VWI0ZEdKVkJFQ3A0MnpNbWVucWRiMFdybDBvVmdZeDRwekRHd05pSm02aGRuLWhGZjg3Mngtclc3VjhTNGNxU2hRLTFsUXNWV3FlZi1QS2VER3E?oc=5"
+    "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+    "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HNFhFTFhpTzRXbFdHSzNMY3RaWHFIVllmc0VsdGdrUEYxTzdwNGRqb2Y4b3ZhUUt1RUJnZTN2QlpKdW8xQVRjYTIwQktIOGVyaHhINjJPVjFVTFN1NFEwYUd3?oc=5"
    },
    {
-    "title": "Optimum Communications Prepares for Bankruptcy to Implement Deal",
-    "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV29sTmdjeklwbFByeVVVaU1kSUticE9jVU15R3hKaDZrZ0RBWjRIV0xVMFlyYmQ1MHBhRkl3VU9GV01ERVpfWjhaZ1ZvOE9HeDJ4TGE1SEZCQjZ2M0VzMUlJeEtWRnE2ZGNsZlpreFZjSEQ4MVZVTXJ5WnVENUZiWXhHMTVkUEF0SDdSbmpqZEdfdWU1R21GWDVyX2wyX0M0dEZOZ0xxTjRhaEl5?oc=5"
+    "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+    "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5"
    },
    {
-    "title": "PE Firms Are Holding Investments Longer and Changing Leaders More",
-    "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUFseUNRMlh5dEFFTnVCYVhNWVliUXNoZ2RLeEcwdWhfd2RFa1Byajlvd2tYa3AxVDU0bzU5VHJHV3lKVHBYUVdSM3R0WndKTkRUTmoxSFhlb0RPX21tTFk5VHF3RlVVZDkzRUxjcnRqOWtlcTA1Y3pNbDFDREVueDJXRnJQZDlxeGh0RjdVc0NJVkdwOVFCNnYyZ0ZDXzZiZi1VV2Z1OUM?oc=5"
+    "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
+    "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5"
    },
    {
-    "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-    "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5"
+    "title": "Treasury Yields Rise, Eurozone Bond Yields Fall, Focus Stays on France",
+    "href": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5"
    },
    {
-    "title": "U.S. Jobless Claims Return to Downward Trend",
-    "href": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGJ0enIydGpnaExlUG5GdFJlR25SVE9PR1Q4LVN4eUFKbkhaUmQyT21uNHozaHF0UGM4MnpZQjNiU3hiSDlyU1lHQlJoMEkzQmM3cFNFSC1GaC1yTndWV29rd1NJd253VjNxdEI1NGtNLTJhaDk3d2k4bk1Ga290bTd2OWt1RjFSaUNqVlBB?oc=5"
+    "title": "Oil Prices Rise as Middle East Risks Persist",
+    "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
    },
    {
-    "title": "France's Debt Crisis Deepens as Foreign Investors Look for the Exit",
-    "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5"
+    "title": "Volvo Car Shares Slump After Automaker Adds Job Cuts to Tackle Mounting Headwinds",
+    "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGViRVlCWERGZjExTXFWV2h0R05lcVVQNmdqM2ROMjJCZlY3bVhON19SeUVmZlBZLU9TZ3JfUFh3RWlvVGw3UVh6bDNmdF9jMnVOSEwyN0dSeGx1Sm55Yjc1THJHcEpnRVcyREV0YTlEOVpHR1hUWGQ4b2ZTc001ZXctUFpyVlVjaVAzcWhoak05QUNQdFZCM0s3OXRoMjQ1RlR0NDhIb3pkTFlhdDBnVw?oc=5"
    },
    {
-    "title": "Chinese AI Startup DeepSeek Raises $15 Billion Ahead of Potential IPO",
-    "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHIyeDY3eVpWMmZrYnhzZzNkTnpIN1N1OFhMQ1JVeGN1ejNxZlpPSmN0TTFRdzFLbTBvTlNpVDJvQUowcXB5a2VYYmZSZFJOMHBJYm9fVnBITk1YYWRrWkxXQXVDWkhfbng0eThneEF1MmEzMDhIY1kwTTdpRmtZTW85SVJJVjJZZVFlQURsdkZaT1pCVmlwUVd4V0d0a2pLLVk2NFByQ0c?oc=5"
+    "title": "Western Digital Profit Grows on Data Storage Demand, Higher Pricing",
+    "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzhOYUpZbGl3TkN6ME14eUk1NklhX0dxSk90UkhtSzY2N0NFR2llaW9NSHlMWkpaZ1E3MlFadzIxRl9EbGJzQnZXbnd2NmdXQkZval9uMXBUSlBSLWZTTDk2SXBKRGJETTNBSGhtS2NiX2w1U1NTazNldXZNU2xKczZnc0JwbkdMbTR6bG1fUmdtQm1UZkR3WlZJbkwzWm8?oc=5"
    },
    {
-    "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
-    "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU1idjdCUmJxTHJRbjdJZE9DbnVfRXRiWEw3QV9XejFYMl9ndzBfYUJBTGxQN1BudlJrNjI3V25reDZoYURiSFNVMDJacWV2X3drZGVKUk1qLXJxOExtdEdCYklYSzhFSzlXWk8ySUFQSmRuRkNiMTZ2SWRvVXEwaWFlMi1VMzFZdFNodExYai1lNktZMGE0RjhUZG1vZ0RxaXlN?oc=5"
+    "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+    "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHA1QkQ2Umo3U1o1S0JWXzlhNU9USmdudGdKUDlVanpOVU5NS3I3WWdWMkhURjJFNUVnTXc0OGN5YUVjN240Y2VtLUt5UlM5dTdKT3E0UGlzYV8xTm1rMUJLWjI0b1dMMmlCLWhTLWVQNVA2YTk5MjNOV29BdkVrOEI5Y3RtWTB3U2k4bDFXYXpvLVYzV0lIbHhJNFlVTDM2SHZXLW5TaGhXcEpTSkpXS1hGUWFweGU1cjVNU3R1bDY?oc=5"
    },
    {
-    "title": "Barclays to Cut 5,000 Jobs in AI Cost-Saving Drive",
-    "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYkRyS0R2Mmd6N1k4ZGZoUWJhdVVVSWJ1VFUta1ZWMlAwc09Jd1ljTm1tZVJoczRWN2N3VFhLZGZRaE1WMnVnX1ZNeFR5R2pnSnI2YldFa2thdndDV050UW1iVGVBQk1hRm5vM3NHcThGb25KM0NxUmJCTXk0SnVkUTVSV0NwaE53S3BUbXZfU2NDWWQyOTlBWFhkcTkxWUpLLU11enVOV3VBRVAyR1o2Tg?oc=5"
+    "title": "Gold Falls as Energy Prices Rise Higher",
+    "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVpKUTYybGVMb1hPclJUSE5SNlRqaG5Lc19SRFRwajJiSUg0ejdvYy1MdXduNEhjdFNGc1JUcmxrVjBvVG9HTzRWcVQ1YUNKTHlha09qYXM5Mm1mMjREdngzTUtjbThaX21CVFh2dkJaZTZrMkt3NFVtSWpOMTZLd2hSTG9RMnVDWUJ3MUlVcUxJZzZITTk3a3RlQm1QeVpLdWhpeTdsYw?oc=5"
    }
   ],
   "econ": [
    {
+    "title": "Saudi Arabia and the UAE are sowing chaos",
+    "href": "https://www.economist.com/leaders/2026/10/22/saudi-arabia-and-the-uae-are-sowing-chaos"
+   },
+   {
     "title": "AI compute is the new oil, and needs a new market",
     "href": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
+   },
+   {
+    "title": "Either AI or public debt could crash markets. But probably not both",
+    "href": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both"
    },
    {
     "title": "Multinational businesses are losing confidence in Indonesia",
     "href": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia"
    },
    {
+    "title": "Sam Bankman-Fried says he has paid his debts",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts"
+   },
+   {
     "title": "New research tries to defuse the China shock",
     "href": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock"
-   },
-   {
-    "title": "Brazil's weird economy needs serious reform",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform"
-   },
-   {
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "href": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay"
    },
    {
     "title": "Is Netflix losing the plot?",
@@ -743,10 +754,6 @@
    {
     "title": "The AI industry's gigantic debts are making investors nervous",
     "href": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous"
-   },
-   {
-    "title": "It's not just Commerzbank: Italians are eating up German business",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business"
    }
   ]
  },
@@ -773,12 +780,12 @@
   ],
   "note": "Global/YTD: LSEG via Reuters, Oct 1. Exits: PitchBook, Sep 30. Q1/Q2 split: unavailable."
  },
- "regNote": "FINANCING: Fed funds 3.75-4.00% (Sept hike, PitchBook Oct 7). HY OAS 3.27% (FRED, Oct 21). Megadeal value -68% QoQ (Fried Frank Q3).",
+ "regNote": "FINANCING: Fed funds 3.75-4.00% (Sept hike, PitchBook Oct 7); Fed decision next week. 2Y 4.65% (-16bp, UST Oct 22). HY OAS 3.27% (FRED, Oct 21). Megadeal value -68% QoQ (Fried Frank Q3).",
  "status": {
   "spx": "7,663.43",
   "spxChg": -1.21,
   "tnx": "4.953%",
   "hy": "3.27%",
-  "updated": "THU OCT 22 2026 7:50 PM ET"
+  "updated": "FRI OCT 23 2026 7:03 AM ET"
  }
 }
