@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>DAT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#000;--panel:#0a0a0a;--line:#2a2a2a;--sub:#1a1a1a;--txt:#e6e6e6;--dim:#8a8a8a;--or:#ff8c00;--onor:#000;--bl:#4fa3ff;--gr:#00d26a;--rd:#ff3b3b;--zebra:#0f0f0f;--hov:#1c1c1c;
+--panelf:13px;--tab:12px;--th:12px;--body:14px;--cap:12px;--kpi:30px;--kpil:12px;--lh:1.4;--kpilh:1.1;
+--mono:'IBM Plex Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'Roboto Mono','Liberation Mono',monospace}
+*{box-sizing:border-box;border-radius:0!important;box-shadow:none!important}
+html,body{margin:0;background:var(--bg);color:var(--txt);font-family:var(--mono);font-size:var(--body);line-height:var(--lh);letter-spacing:-0.01em;font-variant-numeric:tabular-nums}
+a{color:var(--bl);text-decoration:none}a:hover{text-decoration:underline}
+button{font-family:var(--mono)}
+.wrap{min-height:100vh;display:flex;flex-direction:column}
+.top{position:sticky;top:0;z-index:3;background:var(--bg)}
+.cmd{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:3px 6px;border-bottom:1px solid var(--line)}
+.cmd .go{color:var(--or);font-weight:700;letter-spacing:1px}
+.cur{display:inline-block;width:.6em;height:1.1em;margin-left:4px;vertical-align:text-bottom;background:var(--or);animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.tape{border-bottom:1px solid var(--line);min-height:46px}
+.grid{display:grid;grid-template-columns:1fr;grid-auto-rows:350px;align-content:start;gap:2px;padding:2px;flex:1}
+@media(min-width:720px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:1400px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.tile{border:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-width:0;min-height:0;height:100%;overflow:hidden;scroll-margin-top:80px}
+.hd{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;padding:2px 6px;background:var(--or);color:var(--onor);font-size:var(--panelf);text-transform:uppercase;font-weight:700;letter-spacing:.02em}
+.hd .code{margin-right:10px}.hd .t{font-weight:500}.hd .r{font-size:var(--cap);font-weight:400}
+.tb{padding:8px;overflow:auto;flex:1;min-height:0;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.tb::-webkit-scrollbar{width:6px;height:6px}.tb::-webkit-scrollbar-thumb{background:var(--line)}
+.row{padding:4px 0;border-bottom:1px solid var(--sub)}
+.dim{color:var(--dim)}.or{color:var(--or)}.bl{color:var(--bl)}.gr{color:var(--gr)}.rd{color:var(--rd)}.b{font-weight:700}
+.cap{color:var(--dim);font-size:var(--cap);margin-top:4px}
+table{width:100%;border-collapse:collapse}td{padding:4px 8px;border-bottom:1px solid var(--sub);vertical-align:top}
+tbody tr:nth-child(even){background:var(--zebra)}tr.dr{cursor:pointer}tr.dr:hover{background:var(--hov)}
+tr.sel,tr.sel:hover{background:var(--or);color:var(--onor)}tr.sel td{color:var(--onor)!important;font-weight:700}
+.ib{margin-left:6px;padding:0 4px;font-size:var(--cap);line-height:1.2;background:transparent;color:var(--dim);border:1px solid var(--line);cursor:pointer}
+tr.sel .ib{color:var(--onor);border-color:var(--onor)}
+.tabs{display:flex;flex-wrap:wrap;gap:2px;margin-bottom:6px}
+.tab{background:transparent;color:var(--dim);border:1px solid var(--line);border-bottom:2px solid var(--line);font-size:var(--tab);padding:2px 8px;cursor:pointer;text-transform:uppercase;font-weight:500;letter-spacing:.02em}
+.tab.on{background:var(--or);color:var(--onor);border-color:var(--or);font-weight:700}
+.kpis{display:flex;flex-wrap:wrap;gap:4px}.kpi{flex:1 1 90px;border:1px solid var(--line);padding:6px}
+.kpi .l{color:var(--dim);font-size:var(--kpil);font-weight:500;letter-spacing:.02em}.kpi .v{color:var(--or);font-size:var(--kpi);line-height:var(--kpilh);font-weight:700;letter-spacing:-0.02em}.kpi .c{font-size:var(--kpil)}
+.bar{height:8px;background:var(--sub)}.bar>div{height:8px}
+.pr{padding:4px 0;border-bottom:1px solid var(--sub);cursor:pointer}.pr:nth-child(even){background:var(--zebra)}.pr:hover{background:var(--hov)}
+.chartbox{flex:1;min-height:0;padding:0}
+.bot{position:sticky;bottom:0;z-index:3;background:var(--bg);border-top:1px solid var(--line)}
+.fks{display:flex;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+.fk{background:transparent;border:none;border-right:1px solid var(--line);padding:2px 10px;cursor:pointer;font-size:var(--tab);color:var(--txt);letter-spacing:1px}
+.fk span{background:var(--or);color:var(--onor);padding:0 4px;margin-right:6px;font-weight:700}
+.fk:hover{background:var(--hov)}
+.stat{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;padding:2px 6px;color:var(--dim)}
+</style></head>
+<body><div class="wrap">
+<div class="top">
+ <div class="cmd"><span class="go">&gt; DAILY ABSORB &lt;GO&gt;<span class="cur"></span></span><span class="dim">M&amp;A DESK&nbsp;&nbsp;<span id="clock" style="color:var(--txt)"></span></span></div>
+ <div class="tape"><div class="tradingview-widget-container" id="tape"><div class="tradingview-widget-container__widget"></div></div></div>
+</div>
+<div class="grid" id="grid"></div>
+<div class="bot">
+ <div class="fks" id="fks"></div>
+ <div class="stat" id="stat"></div>
+</div>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const ext=(u,t,cls)=>`<a ${cls?`class="${cls}"`:""} href="${esc(u)}" target="_blank" rel="noopener noreferrer">${t}</a>`;
+const arrow=d=>d>0?"▲":d<0?"▼":"■";
+const dcls=d=>d>0?"gr":d<0?"rd":"";
+function tick(){$("#clock").textContent=new Date().toLocaleString("en-US",{timeZone:"America/New_York",weekday:"short",month:"short",day:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:false}).toUpperCase()+" ET"}
+tick();setInterval(tick,1000);
+function tv(container,src,cfg){const c=document.getElementById(container);c.innerHTML='<div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>';const s=document.createElement("script");s.src="https://s3.tradingview.com/external-embedding/"+src;s.async=true;s.type="text/javascript";s.innerHTML=JSON.stringify(cfg);c.appendChild(s)}
+const tile=(id,code,title,right,body,bodyId)=>`<section class="tile" ${id?`id="${id}"`:""}><div class="hd"><span><span class="code">${esc(code)}</span><span class="t">${title}</span></span><span class="r" ${bodyId?`id="${bodyId}-r"`:""}>${right}</span></div><div class="tb" ${bodyId?`id="${bodyId}"`:""}>${body}</div></section>`;
+let D,selMk="S&P 500",mkOpen="",prSec="VC",prOpen="",reads="wsj";
+function chart(){const m=D.mk.find(x=>x.n===selMk);const box=$("#gp-chart");$("#gp-t").textContent=selMk;
+ $("#gp-r").innerHTML=m?`<span>${esc(m.v)}</span> <span style="background:#000;padding:0 4px" class="b ${dcls(m.d)}">${arrow(m.d)}${esc(m.c)} 1D</span>`:"";
+ if(!m||!m.tv){box.innerHTML=`<div class="dim" style="padding:24px 8px;text-align:center">[UNAVAILABLE] ${esc(selMk)}: no free TradingView symbol. Snapshot only: ${esc(m?m.v+" "+m.c:"")}</div>`;return}
+ tv("gp-chart","embed-widget-advanced-chart.js",{autosize:true,symbol:m.tv,interval:"D",range:"1M",timezone:"America/New_York",theme:"dark",style:"2",locale:"en",backgroundColor:"#0a0a0a",gridColor:"rgba(42,42,42,0.6)",hide_top_toolbar:true,hide_legend:false,allow_symbol_change:false,save_image:false,calendar:false,support_host:"https://www.tradingview.com"})}
+function mkBody(){return `<table><tbody>${D.mk.map(m=>`<tr class="dr ${m.n===selMk?"sel":""}" data-n="${esc(m.n)}"><td>${esc(m.n)}<button class="ib" data-i="${esc(m.n)}" title="Source">i</button></td><td style="text-align:right" class="bl b">${esc(m.v)}</td><td style="text-align:right" class="${dcls(m.d)}">${arrow(m.d)}${esc(m.c)}</td></tr>`).join("")}</tbody></table>`+
+ (mkOpen?(()=>{const m=D.mk.find(x=>x.n===mkOpen);return `<div class="dim" style="margin-top:6px">${esc(m.n)} SRC: ${ext(m.s.startsWith("FRED")?"https://fred.stlouisfed.org":"https://finance.yahoo.com",esc(m.s)+" ↗")}${m.tv?` · TV ${esc(m.tv)}`:" · no TV symbol"}</div>`})():"")+`<div class="cap">Snapshot: close 10/22. Click a row to chart it.</div>`}
+function prBody(){const P=D.prorata;return `<div class="tabs">${P.secs.map(o=>`<button class="tab ${prSec===o[0]?"on":""}" data-sec="${o[0]}">${esc(o[1])} (${P.items.filter(p=>p.s===o[0]).length})</button>`).join("")}</div>`+
+ P.items.filter(p=>p.s===prSec).map(p=>`<div class="pr" data-pr="${esc(p.t)}"><span class="bl">[AXIOS] </span><span class="or">${esc(p.t.toUpperCase())}</span> <span class="bl b">${esc(p.v)}</span> <span class="dim">${esc(p.sec)} / ${esc(p.b)}</span>${prOpen===p.t?`<div>${esc(p.x)}</div>${ext(p.url,"Go deeper ↗")} ${ext(P.url,"| Pro Rata "+esc(P.issue)+" ↗")}`:""}</div>`).join("")+
+ `<div class="cap">Source: Axios Pro Rata, ${esc(P.issue)}. One-line takeaways only; follow links for the full items.</div>`}
+function newsBody(){const L=D.news[reads];return `<div class="tabs"><button class="tab ${reads==="wsj"?"on":""}" data-rd="wsj">WSJ</button><button class="tab ${reads==="econ"?"on":""}" data-rd="econ">Economist</button></div>`+
+ L.map((r,i)=>`<div class="row"><span class="${i%2?"bl":"or"}">&gt; </span>${ext(r.href,esc(r.title)+" ↗").replace("<a ",'<a style="color:var(--txt)" ')}</div>`).join("")+`<div class="cap">WSJ via Google News RSS; Economist via official RSS. Headlines and links only.</div>`}
+function render(){
+ const pmax=Math.max(...D.pulse.map(x=>x.v));
+ $("#grid").innerHTML=[
+  tile("p-brief","BRIEF","Morning brief",D.brief.length+" ITEMS / "+esc(D.asOf),D.brief.map(b=>`<div class="row"><span class="or b" style="letter-spacing:.02em">${esc(b.k)}&nbsp;&nbsp;</span>${esc(b.t)} <span class="or">→ </span><span class="dim">${esc(b.so)}</span></div>`).join("")),
+  tile("","KPI","M&amp;A pulse","LSEG / PITCHBOOK",`<div class="kpis">${D.kpi.items.map(x=>`<div class="kpi"><div class="l">${esc(x.k)}</div><div class="v">${esc(x.v)}</div><div class="c ${dcls(x.dir)}">${esc(x.c)}</div></div>`).join("")}</div><div class="cap">${esc(D.kpi.note)}</div>`),
+  tile("p-mkt","MKT &lt;GO&gt;","Markets",D.mk.length+" SYM / CLOSE 10/22",mkBody(),"mk"),
+  `<section class="tile"><div class="hd"><span><span class="code">GP</span><span class="t" id="gp-t"></span><span class="t"> 1M</span></span><span class="r" id="gp-r"></span></div><div class="tb chartbox"><div class="tradingview-widget-container" id="gp-chart" style="height:100%;width:100%"></div></div></section>`,
+  tile("","VOL","Q3 2026 volume ($B)",D.pulse.length+" SERIES / PUBLISHED",D.pulse.map(x=>`<div style="margin-bottom:5px"><div style="display:flex;justify-content:space-between;flex-wrap:wrap"><span>${esc(x.l)}</span><span class="bl">$${x.v}B</span></div><div class="bar"><div style="width:${x.v/pmax*100}%;background:var(${x.l.includes("PE")?"--or":"--bl"})"></div></div><span class="cap">SRC: ${esc(x.src)}</span></div>`).join("")),
+  tile("p-prorata","PRORATA","Axios Pro Rata / Issue of "+esc(D.prorata.issue),D.prorata.items.length+" ITEMS / LATEST ISSUE",prBody(),"pr"),
+  tile("","REG","Pending / regulatory",D.reg.length+" ITEMS / ANTITRUST",D.reg.map(p=>`<div class="row">${ext(p.u,esc(p.d)+" ↗","or")} <span class="bl b">${esc(p.v)}</span><div class="${p.t==="g"?"gr":p.t==="r"?"rd":""}">${esc(p.s)}</div></div>`).join("")+`<div class="dim" style="margin-top:6px">${esc(D.regNote)}</div>`),
+  tile("p-news","NEWS","News wire",`<span id="nw-c">${D.news[reads].length} HEADLINES</span>`,newsBody(),"nw")
+ ].join("");
+ $("#fks").innerHTML=[["F1","BRIEF","p-brief"],["F2","MKT","p-mkt"],["F3","PRORATA","p-prorata"],["F4","NEWS","p-news"]].map(k=>`<button class="fk" data-go="${k[2]}"><span>${k[0]}</span>${k[1]}</button>`).join("");
+ const S=D.status;$("#stat").innerHTML=`<span>SPX <span class="bl">${esc(S.spx)}</span> <span class="${dcls(S.spxChg)}">${arrow(S.spxChg)}${Math.abs(S.spxChg)}%</span>&nbsp;&nbsp;10Y <span class="bl">${esc(S.tnx)}</span>&nbsp;&nbsp;HY <span class="bl">${esc(S.hy)}</span></span><span>TAPE + CHART LIVE (TRADINGVIEW); TABLES ARE SNAPSHOTS</span><span class="or">DATA UPDATED ${esc(S.updated)}</span>`;
+ chart();
+}
+document.addEventListener("click",e=>{const t=e.target.closest("[data-i],[data-n],[data-sec],[data-pr],[data-rd],[data-go]");if(!t)return;
+ if(t.dataset.i){e.stopPropagation();mkOpen=mkOpen===t.dataset.i?"":t.dataset.i;$("#mk").innerHTML=mkBody();return}
+ if(t.dataset.n){selMk=t.dataset.n;$("#mk").innerHTML=mkBody();chart();return}
+ if(t.dataset.sec){prSec=t.dataset.sec;$("#pr").innerHTML=prBody();return}
+ if(t.dataset.pr){if(e.target.closest("a"))return;prOpen=prOpen===t.dataset.pr?"":t.dataset.pr;$("#pr").innerHTML=prBody();return}
+ if(t.dataset.rd){reads=t.dataset.rd;$("#nw").innerHTML=newsBody();$("#nw-c").textContent=D.news[reads].length+" HEADLINES";return}
+ if(t.dataset.go){document.getElementById(t.dataset.go).scrollIntoView({behavior:"smooth",block:"start"})}
+});
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{D=d;render();
+ tv("tape","embed-widget-ticker-tape.js",{symbols:D.mk.filter(m=>m.tv).map(m=>({proName:m.tv,title:m.n})),showSymbolLogo:false,isTransparent:true,displayMode:"regular",colorTheme:"dark",locale:"en"});
+}).catch(()=>{$("#grid").innerHTML='<div class="rd" style="padding:8px">data.json failed to load.</div>'});
+</script>
+</body></html>
