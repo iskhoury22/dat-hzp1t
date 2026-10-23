@@ -39,7 +39,8 @@
    "c": "-1.21%",
    "d": -1.21,
    "s": "Yahoo ^GSPC",
-   "tv": "SP:SPX"
+   "tv": "FOREXCOM:SPXUSD",
+   "tvn": "S&P 500 CFD (FOREXCOM)"
   },
   {
    "n": "NASDAQ",
@@ -47,7 +48,8 @@
    "c": "-2.60%",
    "d": -2.6,
    "s": "Yahoo ^IXIC",
-   "tv": "NASDAQ:IXIC"
+   "tv": "FOREXCOM:NSXUSD",
+   "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
   {
    "n": "DOW",
@@ -55,7 +57,8 @@
    "c": "+0.02%",
    "d": 0.02,
    "s": "Yahoo ^DJI",
-   "tv": "DJ:DJI"
+   "tv": "FOREXCOM:DJI",
+   "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
@@ -63,7 +66,8 @@
    "c": "+0.11%",
    "d": 0.11,
    "s": "Yahoo ^RUT",
-   "tv": "TVC:RUT"
+   "tv": "AMEX:IWM",
+   "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
@@ -71,7 +75,8 @@
    "c": "+14.09%",
    "d": 14.09,
    "s": "Yahoo ^VIX",
-   "tv": "TVC:VIX"
+   "tv": "CAPITALCOM:VIX",
+   "tvn": "VIX CFD (Capital.com)"
   },
   {
    "n": "UST 2Y",
@@ -79,7 +84,8 @@
    "c": "+2bp (10/21)",
    "d": 0.02,
    "s": "FRED DGS2, Oct 21; Oct 22 unavailable",
-   "tv": "TVC:US02Y"
+   "tv": "FRED:DGS2",
+   "tvn": "FRED DGS2, daily"
   },
   {
    "n": "UST 10Y",
@@ -87,7 +93,8 @@
    "c": "-19.3bp",
    "d": -0.19,
    "s": "Yahoo ^TNX",
-   "tv": "TVC:US10Y"
+   "tv": "FRED:DGS10",
+   "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
@@ -95,7 +102,8 @@
    "c": "-0.16%",
    "d": -0.16,
    "s": "Yahoo DX-Y.NYB",
-   "tv": "TVC:DXY"
+   "tv": "CAPITALCOM:DXY",
+   "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
@@ -103,7 +111,8 @@
    "c": "-0.10%",
    "d": -0.1,
    "s": "Yahoo EURUSD=X",
-   "tv": "FX:EURUSD"
+   "tv": "FX:EURUSD",
+   "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
@@ -111,7 +120,8 @@
    "c": "+2.54%",
    "d": 2.54,
    "s": "Yahoo CL=F",
-   "tv": "TVC:USOIL"
+   "tv": "TVC:USOIL",
+   "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
@@ -119,7 +129,8 @@
    "c": "-2.59%",
    "d": -2.59,
    "s": "Yahoo GC=F",
-   "tv": "TVC:GOLD"
+   "tv": "TVC:GOLD",
+   "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
@@ -127,7 +138,8 @@
    "c": "-3.31%",
    "d": -3.31,
    "s": "Yahoo BTC-USD",
-   "tv": "BITSTAMP:BTCUSD"
+   "tv": "BITSTAMP:BTCUSD",
+   "tvn": "Bitstamp spot"
   },
   {
    "n": "US HY OAS",
@@ -135,7 +147,8 @@
    "c": "-6bp (10/21)",
    "d": -0.06,
    "s": "FRED BAMLH0A0HYM2, Oct 21",
-   "tv": null
+   "tv": "FRED:BAMLH0A0HYM2",
+   "tvn": "FRED ICE BofA HY OAS, daily"
   }
  ],
  "pulse": [
