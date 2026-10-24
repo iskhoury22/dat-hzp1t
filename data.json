@@ -1,37 +1,5 @@
 {
  "asOf": "Oct 23, 2026 4:00 PM ET close",
- "brief": [
-  {
-   "k": "CREDIT",
-   "t": "US HY OAS 3.40% (+13bp, 10/22) after Nasdaq's 2.6% drop; 10Y ends near 5.00% (+4bp) and 2Y 4.69% (+4bp) Friday.",
-   "so": "spreads backing up with 10Y pinned at 5%; lock LBO financing now and expect tighter flex terms if drift continues."
-  },
-  {
-   "k": "BID",
-   "t": "BASF lifts Evonik offer to EUR24/sh, ~EUR11.18B ($12.5B), with job guarantees (Reuters source; Bloomberg on X).",
-   "so": "German chemicals consolidation back on; political job pledges now table stakes in European public bids."
-  },
-  {
-   "k": "EQUITIES",
-   "t": "S&P 500 -0.52% to 7,623.68, Dow -1.23%, Nasdaq -0.21%, Russell -0.25% at the close; VIX 19.72 (+3.6%).",
-   "so": "second down day after Thursday's tech rout; stock-funded bids and IPO pricing get harder, cash buyers gain leverage."
-  },
-  {
-   "k": "ENERGY",
-   "t": "WTI +4.23% to $103.68 (highest in five months per WSJ); gold -1.15% to $4,013.60.",
-   "so": "oil shock hits input-cost models for consumer/industrial targets; energy sellers gain pricing power in asset sales."
-  },
-  {
-   "k": "STRATEGIC",
-   "t": "Smith & Nephew talks with J&J ortho unit (up to $22B) collapsed over CEO role (FT via Reuters).",
-   "so": "governance can sink agreed terms; DePuy Synthes back in play for sponsors and strategics."
-  },
-  {
-   "k": "EXITS",
-   "t": "Ares exploring sale of Duly Health and Care (bought for $1.45B in 2017); Shell/Exxon shopping Infineum (~$8B) (Pro Rata).",
-   "so": "sponsors and corporates pushing carve-outs and healthcare exits despite volatility; expect auctions into year-end."
-  }
- ],
  "mk": [
   {
    "n": "S&P 500",
@@ -820,5 +788,117 @@
    }
   ],
   "note": "X News stories are X's own summaries of posts; verify before acting. US trends not checked this refresh."
+ },
+ "world": {
+  "status": "ok",
+  "asOf": "Oct 24 19:45 ET",
+  "sources": "Google News World/Business RSS, BBC World/Business RSS",
+  "items": [
+   {
+    "t": "China urges US to halt proposed expansion of outbound investment curbs",
+    "src": "Reuters",
+    "time": "Oct 24 09:51 ET",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
+    "src": "The Washington Post",
+    "time": "Oct 24 19:33 ET",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
+    "src": "Bloomberg.com",
+    "time": "Oct 24 11:21 ET",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdkV3gxaDZHd2ZxRDVhaFlBdWtLNFJ3Y0c5MXZiWktESnRPNmJlTWczMVdRZ29JaUVHa0R2Mmdabm5NdXhyLWlYam5xaU54Ty1UdHphaVotVkx5RGo1a1hYUkpsS1IxSlhsd3ZJcGxkWEh0Q016YkJHS1J1Sk4xS1pub0tnTjlCbDdrWU5sTi14dXNrZDVOLTdkUnFxQkdvQ2Y5TFROY3JFcGVQbWtjYTlnUQ?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "src": "BBC",
+    "time": "Oct 23 20:36 ET",
+    "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+    "r": "US"
+   },
+   {
+    "t": "Chart of the Week: French government and corporate bond yields are converging",
+    "src": "Financial Times",
+    "time": "Oct 24 05:30 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEwtYnR3b0xGWTl5V29OaTd1c0RiaHBQZkpfMzNsVUpGNllFYVpHMzRsN2toZ09mVDJMR2F5NDMyNDhEbUJvcWNvXzIyLW5DYS0xMmx0bTBIU2NRc2M0RUFiTDNLbm42djN0RC1EOGQzcC1kX0Ziei1GYmdGbGdXY0R3Yzc?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "Violence flares in Paris after largely peaceful protests across France",
+    "src": "Reuters",
+    "time": "Oct 24 17:27 ET",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+    "src": "Bloomberg.com",
+    "time": "Oct 24 13:40 ET",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
+    "src": "AP News",
+    "time": "Oct 24 05:50 ET",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "Ukraine Confirms Hits on Proton Plant, Tolyatti and Yeysk Airfield",
+    "src": "Kyiv Post",
+    "time": "Oct 24 04:59 ET",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFdFFzLWV4cnR5YkVTYmE1ampQbzRwekxsTi1ka1d6dGtfOGRhbHNuN28wWjRQSGZud2JkOHlzYVV0NmJVQWZ2a05hQQ?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+    "src": "AP News",
+    "time": "Oct 24 08:16 ET",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+    "r": "ASIA"
+   },
+   {
+    "t": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink",
+    "src": "WSJ",
+    "time": "Oct 23 22:35 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGNXMUZPOXJzRVEySm1hY2trdEJ5MGhJWlN0eUlPLU11WEZSTlJ5WG16TFdLQjg2aU43bDZRakRBYXJTb2hKZ3pyQmRBNFBfLUx0Mlh5UDZDN1JjWHF0alUyamwyVEt2bExqZjN0VW81NjYtNnlwLUpyTTZSdHRHWU9GNFVCTHhHSnNjZTRVcHhTTnFiQ1MwZk54MnRpUzVnSDlXZG1Dc0RUMkpEb2lPY2JNcnpIZFk?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Rosebank: Life on the oil field at the centre of a political storm",
+    "src": "BBC",
+    "time": "Oct 24 19:15 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+    "r": "EUROPE"
+   },
+   {
+    "t": "How Brazil's changing working class is reshaping the presidential race",
+    "src": "BBC",
+    "time": "Oct 24 01:05 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+    "r": "LATAM"
+   },
+   {
+    "t": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+    "src": "Al Jazeera",
+    "time": "Oct 23 21:32 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHU5M3hnTDZhTGdwWFFRZ1EyNEFyV1hkX1JNTEpUdEQtdmc0TE5GMExYbEdhTVNPLUVFWmRfTG85YXV4akRTOWdCajFoeUFzZzQ1SmU1eVl2RVdINDYta3ZQR3h1SnN4UjQycjVlcUJMRGFfQ1phZHBCY2t0bC1OWDA4eU5RcHlJbllsdkxGaVRNRkhKem9NNElqMlBRMEVjMXR4TUVUdFV1Y1I3YlFfcVRFX1UzVm_SAbwBQVVfeXFMUDh6NC1xQjFZM0tzeEc5SE9YVGlpZUFsUU1vVlVnd0lhWXBpSXdyLWFGYjlCVXQzdE5EYV9zbU11ZGc0T0xaanlGM0dJZnVjcG1IbE5kRDZRSzdZRUwzZ3RXTUhIRVRHUjhKdzFFcDA0anJ5eXdwdEthM0NrQ29KeVNhOGU0RS1wOXN1TFh6cndVN2FxTkxpOERwXzR6dXBJSFlEQS1zcnVWak5aWUZyWWhPQklDZUUwcGlhZGs?oc=5",
+    "r": "LATAM"
+   },
+   {
+    "t": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+    "src": "BBC",
+    "time": "Oct 23 19:08 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+    "r": "EUROPE"
+   }
+  ]
  }
 }

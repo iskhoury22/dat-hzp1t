@@ -89,7 +89,7 @@ function xBody(){const X=D.x;if(!X||X.status!=="ok")return `<div class="dim">X f
 function render(){
  const pmax=Math.max(...D.pulse.map(x=>x.v));
  $("#grid").innerHTML=[
-  tile("p-brief","BRIEF","Morning brief",D.brief.length+" ITEMS / "+esc(D.asOf),D.brief.map(b=>`<div class="row"><span class="or b" style="letter-spacing:.02em">${esc(b.k)}&nbsp;&nbsp;</span>${esc(b.t)} <span class="or">→ </span><span class="dim">${esc(b.so)}</span></div>`).join("")),
+  tile("p-world","GLOBAL NEWS","World headlines",D.world&&D.world.status==="ok"?D.world.items.length+" HEADLINES / "+esc(D.world.asOf):"UNAVAILABLE",D.world&&D.world.status==="ok"?D.world.items.map(w=>`<div class="row"><span class="or b">${esc(w.r)}&nbsp;&nbsp;</span><a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.t)}</a> <span class="dim">${esc(w.src)} · ${esc(w.time)}</span></div>`).join(""):'<div class="row dim">Unavailable: feed fetch failed</div>'),
   tile("","KPI","M&amp;A pulse","LSEG / PITCHBOOK",`<div class="kpis">${D.kpi.items.map(x=>`<div class="kpi"><div class="l">${esc(x.k)}</div><div class="v">${esc(x.v)}</div><div class="c ${dcls(x.dir)}">${esc(x.c)}</div></div>`).join("")}</div><div class="cap">${esc(D.kpi.note)}</div>`),
   tile("p-mkt","MKT <GO>","Markets",D.mk.length+" SYM / CLOSE 10/22",mkBody(),"mk"),
   `<section class="tile"><div class="hd"><span><span class="code">GP</span><span class="t" id="gp-t"></span><span class="t" id="gp-rng"> 1M</span></span><span class="r" id="gp-r"></span></div><div class="tb chartbox"><div class="tradingview-widget-container" id="gp-chart" style="height:100%;width:100%"></div></div></section>`,
@@ -98,7 +98,7 @@ function render(){
   tile("p-news","NEWS","News wire",`<span id="nw-c">${D.news[reads].length} HEADLINES</span>`,newsBody(),"nw"),
   tile("p-x","X","X wire",D.x&&D.x.status==="ok"?"LIVE SNAPSHOT / "+esc(D.x.asOf):"UNAVAILABLE",xBody(),"xw")
  ].join("");
- $("#fks").innerHTML=[["F1","BRIEF","p-brief"],["F2","MKT","p-mkt"],["F3","PRORATA","p-prorata"],["F4","NEWS","p-news"],["F5","X","p-x"]].map(k=>`<button class="fk" data-go="${k[2]}"><span>${k[0]}</span>${k[1]}</button>`).join("");
+ $("#fks").innerHTML=[["F1","WORLD","p-world"],["F2","MKT","p-mkt"],["F3","PRORATA","p-prorata"],["F4","NEWS","p-news"],["F5","X","p-x"]].map(k=>`<button class="fk" data-go="${k[2]}"><span>${k[0]}</span>${k[1]}</button>`).join("");
  const S=D.status;$("#stat").innerHTML=`<span>SPX <span class="bl">${esc(S.spx)}</span> <span class="${dcls(S.spxChg)}">${arrow(S.spxChg)}${Math.abs(S.spxChg)}%</span>&nbsp;&nbsp;10Y <span class="bl">${esc(S.tnx)}</span>&nbsp;&nbsp;HY <span class="bl">${esc(S.hy)}</span></span><span>TAPE + CHART LIVE (TRADINGVIEW); TABLES ARE SNAPSHOTS</span><span class="or">DATA UPDATED ${esc(S.updated)}</span>`;
  chart();
 }

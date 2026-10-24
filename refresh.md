@@ -5,7 +5,7 @@ The page is static. `index.html` renders everything from `data.json`; the ticker
 ## Steps
 1. Regenerate `data.json` with the same keys:
    - `asOf`, `status` (spx, spxChg, tnx, hy, updated)
-   - `brief`: 5-6 items `{k, t, so}` ranked by M&A importance: short TAG, what happened with the number, "So what" for dealmakers (financing, valuations, timing, sectors). Only use data that is elsewhere in this file. Add `k: "WATCH TODAY"` only for a known, dated catalyst.
+   - `world`: `{status:"ok"|"unavailable", asOf, sources, items:[{r,t,src,time,url}]}`. Fetch Google News World + Business RSS (news.google.com/rss/headlines/section/topic/WORLD|BUSINESS?hl=en-US&gl=US&ceid=US:en) and BBC World/Business RSS (feeds.bbci.co.uk/news/world|business/rss.xml); Reuters/AP/FT via Google News source. Pick 12-15 recent headlines (last ~36h) on geopolitics, macro, central banks, energy, trade, policy, biased to markets/M&A; skip lifestyle/crime. `r` = region tag US/EUROPE/CHINA/MIDEAST/ASIA/LATAM/GLOBAL; `t` = headline verbatim (strip " - Source"); `src`; `time` = "Mon DD HH:MM ET"; `url` = feed link. No commentary. If all fetches fail set status "unavailable".
    - `mk`: `{n, v, c, d, s, tv, tvn}` (tv = TradingView symbol tested to render in the free widget, tvn = its label; FRED: symbols get daily bars with no range)
    - `kpi`, `pulse`
    - `prorata`: latest issue only; `items` are one-line takeaways + links. Never paste newsletter text (the repo is public).
