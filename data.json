@@ -1,48 +1,48 @@
 {
- "asOf": "Oct 26, 2026 12:10 PM ET (Mon intraday)",
+ "asOf": "Oct 26, 2026 4:15 PM ET (Mon close)",
  "mk": [
   {
    "n": "S&P 500",
-   "v": "7,681.11",
-   "c": "+0.75%",
-   "d": 0.75,
-   "s": "Yahoo ^GSPC, Mon Oct 26 12:06 PM ET intraday (vs 7,623.68 Fri Oct 23 close)",
+   "v": "7,676.77",
+   "c": "+0.70%",
+   "d": 0.7,
+   "s": "Yahoo ^GSPC, Mon Oct 26 04:10 PM ET close (vs 7,623.68 Fri Oct 23 close)",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
   {
    "n": "NASDAQ",
-   "v": "26,216.08",
-   "c": "+1.00%",
-   "d": 1.0,
-   "s": "Yahoo ^IXIC, Mon Oct 26 12:06 PM ET intraday (vs 25,955.34 Fri Oct 23 close)",
+   "v": "26,169.38",
+   "c": "+0.82%",
+   "d": 0.82,
+   "s": "Yahoo ^IXIC, Mon Oct 26 04:10 PM ET close (vs 25,955.34 Fri Oct 23 close)",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
   {
    "n": "DOW",
-   "v": "52,346.19",
-   "c": "+0.25%",
-   "d": 0.25,
-   "s": "Yahoo ^DJI, Mon Oct 26 12:06 PM ET intraday (vs 52,215.16 Fri Oct 23 close)",
+   "v": "52,361.58",
+   "c": "+0.28%",
+   "d": 0.28,
+   "s": "Yahoo ^DJI, Mon Oct 26 04:10 PM ET close (vs 52,215.16 Fri Oct 23 close)",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,794.88",
-   "c": "+0.68%",
-   "d": 0.68,
-   "s": "Yahoo ^RUT, Mon Oct 26 11:51 AM ET intraday (vs 2,775.90 Fri Oct 23 close)",
+   "v": "2,786.12",
+   "c": "+0.37%",
+   "d": 0.37,
+   "s": "Yahoo ^RUT, Mon Oct 26 03:55 PM ET close (vs 2,775.90 Fri Oct 23 close)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "18.03",
-   "c": "-7.30%",
-   "d": -7.3,
-   "s": "Yahoo ^VIX, Mon Oct 26 11:51 AM ET intraday (vs 19.45 Fri Oct 23 close)",
+   "v": "18.42",
+   "c": "-5.30%",
+   "d": -5.3,
+   "s": "Yahoo ^VIX, Mon Oct 26 03:55 PM ET close (vs 19.45 Fri Oct 23 close)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
@@ -57,55 +57,55 @@
   },
   {
    "n": "UST 10Y",
-   "v": "4.982%",
-   "c": "-0.6bp",
-   "d": -0.01,
-   "s": "Yahoo ^TNX, Mon Oct 26 11:51 AM ET (vs 4.988% Fri Oct 23); US Treasury Oct 23 close 5.00%",
+   "v": "4.986%",
+   "c": "-0.2bp",
+   "d": -0.0,
+   "s": "Yahoo ^TNX, Mon Oct 26 02:59 PM ET (vs 4.988% Fri Oct 23)",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "102.01",
+   "v": "102.00",
    "c": "+0.19%",
    "d": 0.19,
-   "s": "Yahoo DX-Y.NYB, Mon Oct 26 11:56 AM ET intraday (vs 101.81 Fri Oct 23 close)",
+   "s": "Yahoo DX-Y.NYB, Mon Oct 26 04:00 PM ET last (vs 101.81 Fri Oct 23 close)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1183",
-   "c": "-0.13%",
-   "d": -0.13,
-   "s": "Yahoo EURUSD=X, Mon Oct 26 12:06 PM ET (vs 1.1198 Fri Oct 23 4:04 PM ET)",
+   "v": "1.1181",
+   "c": "-0.15%",
+   "d": -0.15,
+   "s": "Yahoo EURUSD=X, Mon Oct 26 04:09 PM ET (vs 1.1198 Fri Oct 23 4:04 PM ET)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "102.73",
-   "c": "-0.52%",
-   "d": -0.52,
-   "s": "Yahoo CL=F, Mon Oct 26 11:56 AM ET (vs 103.27 Fri Oct 23 settle) ; Brent BZ=F 111.81, -4.21% vs 116.72 Fri",
+   "v": "101.51",
+   "c": "-1.70%",
+   "d": -1.7,
+   "s": "Yahoo CL=F, Mon Oct 26 04:00 PM ET (vs 103.27 Fri Oct 23 settle); Brent BZ=F 110.50, -5.33% vs 116.72 Fri",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,031.80",
-   "c": "+0.60%",
-   "d": 0.6,
-   "s": "Yahoo GC=F, Mon Oct 26 11:56 AM ET (vs 4,007.90 Fri Oct 23 settle)",
+   "v": "4,027.40",
+   "c": "+0.49%",
+   "d": 0.49,
+   "s": "Yahoo GC=F, Mon Oct 26 04:00 PM ET (vs 4,007.90 Fri Oct 23 settle)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "80,160",
-   "c": "-1.27%",
-   "d": -1.27,
-   "s": "Yahoo BTC-USD, Mon Oct 26 12:06 PM ET (vs 81,192 Fri Oct 23 4:04 PM ET; 24/7 market)",
+   "v": "79,805",
+   "c": "-1.71%",
+   "d": -1.71,
+   "s": "Yahoo BTC-USD, Mon Oct 26 04:10 PM ET (vs 81,192 Fri Oct 23 4:04 PM ET; 24/7 market)",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
@@ -491,44 +491,36 @@
  "news": {
   "wsj": [
    {
-    "title": "Anthropic Unveils Paperwork for Blockbuster IPO",
-    "href": "https://www.wsj.com/tech/anthropic-unveils-paperwork-for-blockbuster-ipo-291a684b"
+    "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+    "href": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18"
    },
    {
-    "title": "Meta Plans $35 Billion Stock Offering to Power AI Buildout, Eyes $95 Billion Total Plan",
-    "href": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e"
+    "title": "Ben & Jerry’s Founders Have Been Exploring Deal With KKR Executive",
+    "href": "https://www.wsj.com/business/deals/ben-jerrys-founders-have-been-exploring-deal-with-kkr-executive-8a9572de"
    },
    {
-    "title": "Stock Futures, Treasurys Steady as Brazilian Assets Slide",
-    "href": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905"
+    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
+    "href": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f"
    },
    {
-    "title": "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
-    "href": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f"
+    "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
+    "href": "https://www.wsj.com/pro/private-equity/bon-secours-affiliate-to-acquire-surgery-partners-in-5-7-billion-take-private-deal-10321162"
+   },
+   {
+    "title": "Stock Market Today: Tech Shares Rally After Anthropic Files for Historic IPO",
+    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026"
+   },
+   {
+    "title": "JetBlue Shares in Tailspin as High Fuel Prices Threaten Turnaround",
+    "href": "https://www.wsj.com/business/airlines/jetblue-shares-in-tailspin-as-high-fuel-prices-threaten-turnaround-38f32c31"
    },
    {
     "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
     "href": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd"
    },
    {
-    "title": "Frasers Group to Make Hugo Boss a Subsidiary After Taking Majority Ownership",
-    "href": "https://www.wsj.com/business/retail/frasers-group-to-make-hugo-boss-a-subsidiary-after-taking-majority-ownership-04591dd8"
-   },
-   {
-    "title": "The Shifting Ground for Private Equity-Backed CEOs",
-    "href": "https://www.wsj.com/articles/the-shifting-ground-for-private-equity-backed-ceos-cf380bb0"
-   },
-   {
-    "title": "An IPO Paused as AI Valuation Fears Mount",
-    "href": "https://www.wsj.com/finance/investing/an-ipo-paused-as-ai-valuation-fears-mount-fa1688c9"
-   },
-   {
-    "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion",
-    "href": "https://www.wsj.com/business/earnings/verizon-lifts-outlook-inks-amazon-deal-worth-more-than-2-billion-989c8e0f"
-   },
-   {
-    "title": "Brazil's Surprise Election Outcome Set to Batter Stocks, Real",
-    "href": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8"
+    "title": "Lula Wins Fourth Term in Brazil Election Upset",
+    "href": "https://www.wsj.com/world/americas/lula-clings-to-power-in-brazil-election-upset-dba88f6c"
    }
   ],
   "econ": [
@@ -537,40 +529,40 @@
     "href": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise"
    },
    {
-    "title": "The “let-it-rip” camp is wrong on AI",
-    "href": "https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai"
+    "title": "Multinational businesses are losing confidence in Indonesia",
+    "href": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia"
    },
    {
-    "title": "Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students",
-    "href": "https://www.economist.com/europe/2026/10/26/aleksandar-vucic-serbias-autocrat-loses-to-a-bunch-of-students"
+    "title": "If AI displaces human workers, they will lose more than just pay",
+    "href": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay"
    },
    {
-    "title": "Lula, the great survivor, makes history",
-    "href": "https://www.economist.com/the-americas/2026/10/26/lula-the-great-survivor-makes-history"
+    "title": "AI compute is the new oil—and needs a new market",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
    },
    {
-    "title": "Europe’s centrist rulers have fallen dangerously short",
-    "href": "https://www.economist.com/podcasts/2026/10/26/europes-centrist-rulers-have-fallen-dangerously-short"
+    "title": "Brazil’s weird economy needs serious reform",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform"
    },
    {
-    "title": "Back in Venezuela, María Machado may speed the return of democracy",
-    "href": "https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy"
+    "title": "New research tries to defuse the “China shock”",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock"
    },
    {
-    "title": "Politics, not strategy, could mean more Israeli strikes on Iran",
-    "href": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran"
+    "title": "Sam Bankman-Fried says he has paid his debts",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts"
    },
    {
-    "title": "China increasingly depends on copying American AI",
-    "href": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai"
+    "title": "Is Netflix losing the plot?",
+    "href": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot"
    },
    {
-    "title": "The winners and losers of Trumponomics",
-    "href": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics"
+    "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds"
    },
    {
-    "title": "India has stabilised its currency. But at what cost?",
-    "href": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost"
+    "title": "The AI industry’s gigantic debts are making investors nervous",
+    "href": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous"
    }
   ]
  },
@@ -598,246 +590,220 @@
   "note": "Global/YTD: LSEG via Reuters, Oct 1. Exits: PitchBook, Sep 30. Q1/Q2 split: unavailable."
  },
  "status": {
-  "spx": "7,681.11",
-  "spxChg": 0.75,
-  "tnx": "4.982%",
+  "spx": "7,676.77",
+  "spxChg": 0.7,
+  "tnx": "4.986%",
   "hy": "3.38%",
-  "updated": "MON OCT 26 2026 12:10 PM ET"
+  "updated": "MON OCT 26 2026 4:15 PM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "10/26 12:07 PM ET",
-  "note": "X News stories (search_news, M&A 36h + markets 24h) and posts from @business/@Reuters/@FT/@axios (deal keywords, since Sun noon ET). One-line paraphrases.",
+  "asOf": "10/26 4:12 PM ET",
+  "note": "X News stories (search_news, M&A 36h + markets 24h) and posts from @business/@Reuters/@FT/@WSJ (deal keywords, since Mon midnight ET). One-line paraphrases.",
   "news": [
    {
-    "t": "EQT agrees all-stock buy of Range Resources; combined value $50B+, close Q1 2027",
+    "t": "Tesla and SpaceX special committees exploring a possible merger; no terms set",
     "src": "X News",
-    "time": "10/26 12:05P",
+    "time": "10/26 3:53P",
+    "url": "https://x.com/i/trending/2114805620297850959"
+   },
+   {
+    "t": "~9,700 Tesla holders (~$10.2B of shares) petition board to pursue SpaceX merger",
+    "src": "X News",
+    "time": "10/26 3:41P",
+    "url": "https://x.com/i/trending/2114802672473944436"
+   },
+   {
+    "t": "EQT agrees all-stock buy of Range Resources; $50B+ incl. debt, close Q1 2027",
+    "src": "X News",
+    "time": "10/26 3:16P",
     "url": "https://x.com/i/trending/2114682209445851374"
    },
    {
-    "t": "US stocks rally as Trump holds off Iran strikes; tech leads",
+    "t": "Skydance offers buyouts, five-day office mandate after $111B Warner Bros. deal",
     "src": "X News",
-    "time": "10/26 11:58A",
+    "time": "10/26 3:05P",
+    "url": "https://x.com/i/trending/2114793849738731547"
+   },
+   {
+    "t": "Nevis raises $70M Series B led by EQT Ventures for AI wealth-advisor tools",
+    "src": "X News",
+    "time": "10/26 2:19P",
+    "url": "https://x.com/i/trending/2114782251141521459"
+   },
+   {
+    "t": "Anthropic S-1 shows staggered insider lock-up releases on day 1, 27 and 48",
+    "src": "X News",
+    "time": "10/26 1:33P",
+    "url": "https://x.com/i/trending/2114770632139559415"
+   },
+   {
+    "t": "Bon Secours affiliate to take Surgery Partners private for $5.7B; Bain rolls stake",
+    "src": "X News",
+    "time": "10/26 12:46P",
+    "url": "https://x.com/i/trending/2114759230255198423"
+   },
+   {
+    "t": "Stocks rally after Trump holds off Iran strikes; tech leads",
+    "src": "X News",
+    "time": "10/26 3:40P",
     "url": "https://x.com/i/trending/2114746075487907875"
    },
    {
-    "t": "Gold slips below $4,000 even as gold ETF holdings rise",
+    "t": "Week ahead: FOMC Oct 27-28 seen on hold; MSFT/GOOGL Wed, GDP Thu, BoJ Fri",
     "src": "X News",
-    "time": "10/26 11:30A",
-    "url": "https://x.com/i/trending/2114694392086921365"
-   },
-   {
-    "t": "Week ahead: FOMC Oct 27-28 seen on hold; MSFT/GOOGL Wed, GDP/PCE Thu, BoJ Fri",
-    "src": "X News",
-    "time": "10/26 11:29A",
+    "time": "10/26 3:41P",
     "url": "https://x.com/i/trending/2114432803248959935"
    },
    {
-    "t": "Apollo's Slok: AI shows no financial payoff yet outside Magnificent 7",
+    "t": "US Strategic Petroleum Reserve falls to 282.6M bbl, lowest since 1982",
     "src": "X News",
-    "time": "10/26 11:16A",
-    "url": "https://x.com/i/trending/2114067820980109751"
+    "time": "10/26 2:19P",
+    "url": "https://x.com/i/trending/2114782255746884069"
    },
    {
-    "t": "Central bank gold holdings hit record 36,963 tonnes (IMF, Aug)",
+    "t": "Gold holds near $4,020 after slipping below $4,000; ETF holdings still rising",
     "src": "X News",
-    "time": "10/26 10:33A",
-    "url": "https://x.com/i/trending/2114717287718785138"
+    "time": "10/26 4:05P",
+    "url": "https://x.com/i/trending/2114694392086921365"
    },
    {
-    "t": "SpaceX signs $40B GPU master lease; Apollo-managed, Goldman-structured",
-    "src": "X News",
-    "time": "10/26 10:08A",
-    "url": "https://x.com/i/trending/2114719118586720594"
-   },
-   {
-    "t": "SPY 763 in focus as dealer gamma turns most negative since July",
-    "src": "X News",
-    "time": "10/26 9:36A",
-    "url": "https://x.com/i/trending/2114711313217982861"
-   },
-   {
-    "t": "Quickmart anchors take 48% of Sh15B Nairobi IPO; lists Oct 30",
-    "src": "X News",
-    "time": "10/26 8:54A",
-    "url": "https://x.com/i/trending/2114612794955866508"
-   },
-   {
-    "t": "Jio Platforms IPO draws record 13.9M applications; lists Oct 28",
-    "src": "X News",
-    "time": "10/26 8:27A",
-    "url": "https://x.com/i/trending/2114626093571572174"
-   },
-   {
-    "t": "Oil eases from six-month highs; Brent ~$114 on diplomacy hopes",
+    "t": "Oil dips from six-month highs on U.S.-Iran diplomacy; WTI near $101",
     "src": "X News",
     "time": "10/26 7:57A",
     "url": "https://x.com/i/trending/2114587170023653559"
-   },
-   {
-    "t": "Dangote Refinery IPO closes Oct 27 amid strong demand",
-    "src": "X News",
-    "time": "10/26 6:05A",
-    "url": "https://x.com/i/trending/2114658280203333730"
    }
   ],
   "posts": [
    {
-    "t": "Bloomberg: five key takeaways from Anthropic's IPO filing",
+    "t": "BNP Paribas working on one of the biggest significant risk transfers ever, tied to ~EUR16B of loans",
     "src": "@business",
-    "time": "10/26 11:55A",
-    "url": "https://x.com/business/status/2114747674389877122"
+    "time": "10/26 4:10P",
+    "url": "https://x.com/business/status/2114811862759973083"
+   },
+   {
+    "t": "Exclusive: DoorDash in advanced talks to buy Instacart",
+    "src": "@WSJ",
+    "time": "10/26 3:26P",
+    "url": "https://x.com/WSJ/status/2114800910073278962"
+   },
+   {
+    "t": "Exclusive: US and Canada working on deal to ease steel and auto tariffs",
+    "src": "@Reuters",
+    "time": "10/26 3:40P",
+    "url": "https://x.com/Reuters/status/2114804339445268614"
+   },
+   {
+    "t": "Anthropic discloses month-long training pause and security breaches in IPO filing",
+    "src": "@Reuters",
+    "time": "10/26 3:30P",
+    "url": "https://x.com/Reuters/status/2114801901002719739"
+   },
+   {
+    "t": "Crypto firm Redotpay weighing confidential US IPO filing by year-end",
+    "src": "@business",
+    "time": "10/26 2:40P",
+    "url": "https://x.com/business/status/2114789216739525046"
+   },
+   {
+    "t": "What we learnt from Anthropic's 240,000-word IPO filing",
+    "src": "@FT",
+    "time": "10/26 1:52P",
+    "url": "https://x.com/FT/status/2114777129602666826"
+   },
+   {
+    "t": "Anthropic's seven co-founders each hold ~1.4%, per IPO filing",
+    "src": "@business",
+    "time": "10/26 2:10P",
+    "url": "https://x.com/business/status/2114781650693341390"
+   },
+   {
+    "t": "Trump's campaign against wind power puts permitting deal in doubt",
+    "src": "@FT",
+    "time": "10/26 12:17P",
+    "url": "https://x.com/FT/status/2114753362264502336"
+   },
+   {
+    "t": "Russian refiners ramp up diesel output after US deal, sources say",
+    "src": "@Reuters",
+    "time": "10/26 3:45P",
+    "url": "https://x.com/Reuters/status/2114805561761960085"
    },
    {
     "t": "Surgery Partners to be taken private by Bon Secours affiliate for $5.7B",
     "src": "@Reuters",
     "time": "10/26 11:50A",
     "url": "https://x.com/Reuters/status/2114746447081988182"
-   },
-   {
-    "t": "Couche-Tard makes new bid for Cumberland Farms, per The Times",
-    "src": "@business",
-    "time": "10/26 11:05A",
-    "url": "https://x.com/business/status/2114735091884687534"
-   },
-   {
-    "t": "Apollo nears deal for ~10% of Mubadala Capital",
-    "src": "@business",
-    "time": "10/26 10:35A",
-    "url": "https://x.com/business/status/2114727543982997519"
-   },
-   {
-    "t": "View: Anthropic IPO filing puts AI investment boom to the test",
-    "src": "@Reuters",
-    "time": "10/26 10:35A",
-    "url": "https://x.com/Reuters/status/2114727557476000172"
-   },
-   {
-    "t": "Ovintiv to buy Logan Energy for ~C$1.26B in cash",
-    "src": "@business",
-    "time": "10/26 9:45A",
-    "url": "https://x.com/business/status/2114714964489310360"
-   },
-   {
-    "t": "Anthropic publishes long-awaited IPO prospectus",
-    "src": "@FT",
-    "time": "10/26 9:22A",
-    "url": "https://x.com/FT/status/2114709299834269844"
-   },
-   {
-    "t": "Anthropic files for IPO",
-    "src": "@axios",
-    "time": "10/26 9:04A",
-    "url": "https://x.com/axios/status/2114704619406262620"
-   },
-   {
-    "t": "EQT to buy Range Resources in all-stock deal; combined value $50B+",
-    "src": "@business",
-    "time": "10/26 8:35A",
-    "url": "https://x.com/business/status/2114697346772509008"
-   },
-   {
-    "t": "Jio IPO raised a record but paid bankers relatively little",
-    "src": "@business",
-    "time": "10/26 7:45A",
-    "url": "https://x.com/business/status/2114684760639361224"
-   },
-   {
-    "t": "Musk must sell Tesla holders on a SpaceX merger",
-    "src": "@business",
-    "time": "10/26 7:10A",
-    "url": "https://x.com/business/status/2114675952999334005"
-   },
-   {
-    "t": "Itau buys Brazilian AI startup NeoSpace for 2.9B reais (~$580M)",
-    "src": "@business",
-    "time": "10/26 6:50A",
-    "url": "https://x.com/business/status/2114670917976498177"
    }
   ]
  },
  "world": {
   "status": "ok",
-  "asOf": "Oct 26 12:08 ET",
+  "asOf": "Oct 26 16:15 ET",
   "sources": "Google News World/Business RSS, BBC World/Business RSS",
   "items": [
    {
-    "t": "Anthropic IPO live updates: AI lab has $6.2B in debt, flags data center moratoriums as key risk",
-    "src": "CNBC",
-    "time": "Oct 26 11:54 ET",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "EQT to buy Range Resources in all-stock Appalachian blockbuster deal",
-    "src": "Pittsburgh Post-Gazette",
-    "time": "Oct 26 11:45 ET",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ3S3lRWHFIM3g0V2FEVVIwYl9INnZqX3o5cjVZZGlhWEVicFAxbjdhQUhacEVPLTR5S0d0cF90UWthNVJsajVSeVl0dldvcFFHRmdhRTlwUlRLSlhjTWd0MS1xSTR1YmthM3ZBQmc3ZXB6bmhXN0JvQXUzTE5iT0JEVTZnTnN0SjBQUmp2cFhaUHlOX0tDWUthWFkwWEtoUDdGdU42ekxyYWNzNGc3VTFSSQ?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "US stocks rise after oil prices give back some of their big gains",
+    "t": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
     "src": "AP News",
-    "time": "Oct 26 11:29 ET",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVDbFMzWWNkWEw1NzNQRUJLek52UWF2ZUh1dDVXM2FHNXhYekVEOUpNejc5djNNX0hTWDZiLVpaWUNnaGZ6b29iMS0wNHM0M0Y1eG9MdC1yVUVpTV9QbDlieDVrS3NLemIzTFdPOHFRTG1JSEpzbEc5MFR2aUhRMmFpSGJaZDJRV1d6bW1hUlVJUDdUSkFkMg?oc=5",
+    "time": "Oct 26 15:11 ET",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
     "r": "US"
    },
    {
-    "t": "Fed to hit pause on rate hikes, but maybe not for long",
+    "t": "EQT to buy Range Resources in $13 billion deal to create top US gas producer",
     "src": "Reuters",
-    "time": "Oct 26 06:22 ET",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
+    "time": "Oct 26 11:18 ET",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDJYcWR4d21YUDJHMFFqVWNnWFlwZDQ2M25TQmFzcVZKNGUzb0lGeWRCcEUxclB5eWJBV3ExWjBDTEVvY1RiYkd0cUlHaGx4SE5sMFpGV2ZCM2JJSWdYUFBvNUhzd0s5amc3NUtBbVZxbVVMQU5JU3JTbVhxOFFRak1IZTliVlRsM2llLThFRWVRZU0?oc=5",
     "r": "US"
    },
    {
-    "t": "Meta announces $95 billion stock offering to fund AI expansion",
+    "t": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+    "src": "WSJ",
+    "time": "Oct 26 15:52 ET",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZvRlVFSjNDTHZIeTlnUWhXdjdyTkVZQk1rV0xtTmdjT3VBN05YeVI3cUpGLUlBRC1KaTdKVzMtekd4emZ5TU1nclhrajVLV0VlbmhfRGVOVHpCRG83RmdkOElvOHhyUkRKVkd6VU1LajNUa1JvcUdjdnlVLXBreF9nV3dhOHYzWnJLSm5XVVhmVnlHS0dJRmpxMWpEY2hBMl9Fd1pCNFpiZzBRaWRwcHlEZ1I1Zw?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
     "src": "CNBC",
-    "time": "Oct 26 07:34 ET",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
+    "time": "Oct 26 12:03 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
     "r": "US"
    },
    {
-    "t": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting",
-    "src": "AP News",
-    "time": "Oct 26 11:14 ET",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWJncVBjVnZqc1hWNmxhZFFWZUZkS1hXLXcyOXJSeFphV0lJR3dGX3loYTVKVmdFMzFuN1ZNYktiRFAyWW1mdkhBcE9UaE01V1NveFJ2SUlzU1h5YW5sN084S19oeXBaRWRRZVdCWnlWR2kzN3F2ZVUwMmUtMlh1STBSUXZDdVc3clRBb3VESi1FNWM?oc=5",
-    "r": "MIDEAST"
+    "t": "Meta announces plans to raise up to $95 billion for AI build-out",
+    "src": "Yahoo Finance",
+    "time": "Oct 26 10:01 ET",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnJhM0tsOW5sM3U1dmN1ejJhVVl3T1F6MlZPTVdIVndzODZwYURqbDNLOThWcW1Cd3pwYWxCNGFLenotRTNqMGlRTUN6VFJ3WkVvYVU0ZXNsZjVWcXFxbVNZNTJLVDJQOVFfdElLbTBqajZyaDAzSmRSRU1fQmw4X0pQQ0tiQlJTSERZeGpfeFlja3R5b01WR0E0dmtpNWgwRmlORGlicHN5cndsSTNpb1E2U3F6Nk5rSS04?oc=5",
+    "r": "US"
    },
    {
     "t": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
     "src": "Reuters",
-    "time": "Oct 26 10:00 ET",
+    "time": "Oct 26 15:18 ET",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
     "r": "MIDEAST"
    },
    {
-    "t": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
-    "src": "Reuters",
-    "time": "Oct 25 23:48 ET",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlYwOVl3Z1hlOFdacWVmeXZVNnVhejFlWDVOR0toczJ2MWNjT1FMRWZjVU0xd1hGaGtzNU9VcGdYSnR1Z2NVQjFfRVpKallEcEVuTzNweldmeEdYOE05UXFOejl1ekR1ZjlxUlhHT1NLa3J0cmZYWUxhSEs2eXNGb2xNNUJycVNWci1ZVzZUOXBSNGc0bzRJNWVTTnVlWHhXRlBrLWRTOV9HbmlJTmVfZk95N0FIQnBLQTlTa3N3eFBaVDJMWGptVU1VN3A?oc=5",
+    "t": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+    "src": "Al Jazeera",
+    "time": "Oct 26 13:48 ET",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONk1ubVptNEpFS3lXMGZ6TnEwaHN4aVh1c3ZhMkc3T0xoYzBXWHpJYXgyZ20tMmRhQTQ0X1ptZ3RJd2c0bjVuN19kaDRHS1hKdjM5R1dNbjN2Y1ZCRkhpdndVYXlibUFreS13QmN3dC1NcmJSel9aUHdBcEE0QUxUcTlHS2NkdGhwSjFGc0lGT2lIOWY5OW9aX2dNX3RLdTNvWEF3NVI5dGNIa3pnalFiT0hMVEFoZ9IBuwFBVV95cUxOUEFzeTRiSDlJa0pLZXVPUVI3NVRqSjVfSzlxMnJGQWNtMzNTcmdwVTFkR2dTXzB5MXRzLUF2ZEFqcHVyRDE2Z0IwaW94UUVDQTltQjFKbGNJd1RTRjV3UTBXY0NxQmh1aExGWEVaMnJscUZmRkJLTWJoaG1aU2drSDRMcnJYVXBVUVYxbmZ3MFpnYkFjLWp4b2dSMFdpdkphbE90UHFfZHBVUTJyQXVNcFVGV0JRM2REZ18w?oc=5",
     "r": "MIDEAST"
    },
    {
-    "t": "A Rout in Brazilian Financial Markets",
-    "src": "WSJ",
-    "time": "Oct 26 09:56 ET",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMldGQm5jNDRzZnZkb3VrUkEwQzNKZm1tR09vSjhRdHpjX0w0RFFOWVp2ZmtRenc0M1NiR3cycUU5SzJOdlF3cmxTUFZ6TVNJOFhRd1pBNWxhRXZLdTlVVUJhQ1Aybm5iSTFweVJrVTF5Zmg5VUt6bzAxNzVkQXBUeHNUV21SY0JOOVc0dTlHek1JbktkSmRnV2ZkNTUwVDlCdVdZeFhicXlVcXpNeVRxa2hvNllHbW1iNmIwY040bTlLWFlEdTJUWF9qNGlNbXJpSVoxdV9qVl93UFdkYmZTSDZsUXUxQksxVndjSjNVeklsS1lzbkNBb01tOUpBVlR1NUdFSGR6bUpCOUtNUEVFQWhR?oc=5",
-    "r": "LATAM"
+    "t": "Oil plunges more than 6% from near wartime highs as diplomacy over Iran seemingly gathers pace",
+    "src": "Euronews.com",
+    "time": "Oct 26 06:18 ET",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTdnVlplQW9YdjFTdVNqclFzZWJLVlIzQlhFSjAxM09uQk1MMldla0htRjk3WHFQUHA2WG1ZbnVQUkIzRWFxcE5xSHpyR0o5WDNPVVlfWGdlOE5iTnVGbDBycElqbTNYRERUR3BQdEJQSFlXR0JQNHFMVTFuVF8yWVduUDI3bzVSdTBDMkRORS1ZNlVLYWdRSlliZG44WUhkN29sZzJTLXVTU0lzV21lTGpsWUF2d1o3MGhwa2VhRDkydw?oc=5",
+    "r": "GLOBAL"
    },
    {
     "t": "Lula wins fourth term in dramatic Brazil election comeback",
     "src": "BBC",
-    "time": "Oct 26 09:54 ET",
+    "time": "Oct 26 16:00 ET",
     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
     "r": "LATAM"
-   },
-   {
-    "t": "EU Plans to Hit China With More Import Curbs in Early 2027",
-    "src": "Bloomberg.com",
-    "time": "Oct 26 09:55 ET",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c?oc=5",
-    "r": "EUROPE"
    },
    {
     "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
@@ -847,24 +813,38 @@
     "r": "EUROPE"
    },
    {
-    "t": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
-    "src": "The New York Times",
-    "time": "Oct 26 09:14 ET",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZUdVNzNoeEZIRjZKQ2xkaFQ2YVpaREtDNmdLbnJsbXNyQk0xOUZMOHhGRENiRjJaZ3BKUGxzZXpDTFFyQ2dPZFZuSzNaRHJ5YW01eUxORVlhRUpxdzFfTFBCal9Sb1piQVZ0Ym1BSVF5VXctNHN5WS1YaGdpUEFaN2NsQVd3bmYxc01zY2xZWE1zRDg?oc=5",
-    "r": "CHINA"
+    "t": "France pledges new university admissions to quell student anger. But only after Macron leaves office",
+    "src": "AP News",
+    "time": "Oct 26 15:49 ET",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTRQMlQwek5XUXRNMzFGM0JJOTJxSEYyZzduREpKelFhYk1oZFRXaHR4TTRad0NzZlZWSEtDZHYzVkJMRUhsbVNCSFA4cmZLRExrbllDQTFWbnFOaENHRVlpa0dNVXFGWGgwNlZaNlBZNDQ0bU51ZXBLSGZTRmVvT1lEaGdhWHJmeFlXdkd3LUpha2E2eWM0YjZnaw?oc=5",
+    "r": "EUROPE"
    },
    {
-    "t": "In China, the AI bubble has already burst",
-    "src": "Reuters",
-    "time": "Oct 26 08:09 ET",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-    "r": "CHINA"
+    "t": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
+    "src": "CNN",
+    "time": "Oct 26 10:04 ET",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkRHA3UXFXdzNKOXZ0TS1EZjNtcnhYVS1FeHlNUHE0NUtiZ2c1UW1RcjhXbF95aDdRV1dCWWtKX2x6THJ3SFdRV25LWlZERl9wbW8xamd6NlhNSEo4M283cENsSjVmeHhKa3ByVXZxOGxoSUtobkE?oc=5",
+    "r": "EUROPE"
    },
    {
-    "t": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
+    "t": "EU Plans to Hit China With More Import Curbs in Early 2027",
     "src": "Bloomberg.com",
-    "time": "Oct 26 04:08 ET",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzZNQk5wdXJObmtzQTQ4bmphZl96bHp5VldRY3dhdTI4eVVEa2JLdjVxTjJwTVF6bW9TbXFnYl9remY0SGhzcHNvRkpiRHI2Z1ZiVWg3Wkl2TWtJb1RoRG9GTXUzQ3lYdngzZVVfTkMzM0dtSDlIemN5S0NvVkhDMmhjMnF6WVlRa0pOZUM3SkRDS1VTVm5pV2Qzb3BPNkZhM2NvTHRWUWlBd2k4NC1odFdCTFFXdw?oc=5",
+    "time": "Oct 26 09:55 ET",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+    "src": "The Guardian",
+    "time": "Oct 26 13:20 ET",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDRFc3AxTEo4WkdsTmE5RzVMcEhkOWlsUGoxVDJBVlNCaVJIeWRSN0tjMDdHOVV1MVlGLUhJX3ViNFhjYnZQQVlveUM3S1ZleFBWWkpJRTdtUjJNZ2hmR0h4NHhKN21vbVN0VjluV2JSUkNCcHgwNHN3aVdtTXcyMXFSd1VwNThlTHVRMnF0SUF1bGNYUHRZM0V3ZHQ?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+    "src": "Reuters",
+    "time": "Oct 26 01:56 ET",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
     "r": "GLOBAL"
    }
   ]
