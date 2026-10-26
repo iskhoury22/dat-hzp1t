@@ -1,12 +1,12 @@
 {
- "asOf": "Oct 23, 2026 4:00 PM ET close",
+ "asOf": "Oct 26, 2026 7:15 AM ET (Fri Oct 23 closes + Mon premarket)",
  "mk": [
   {
    "n": "S&P 500",
    "v": "7,623.68",
    "c": "-0.52%",
    "d": -0.52,
-   "s": "Yahoo ^GSPC, Oct 23 4:04 PM ET close (vs 7,663.43 Oct 22)",
+   "s": "Yahoo ^GSPC, Fri Oct 23 close (vs 7,663.43 Oct 22). Mon premarket: ES=F 7,670.25 at 6:52 AM ET, +0.14% vs Fri settle 7,659.75",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
@@ -15,7 +15,7 @@
    "v": "25,955.34",
    "c": "-0.21%",
    "d": -0.21,
-   "s": "Yahoo ^IXIC, Oct 23 4:04 PM ET close (vs 26,008.86 Oct 22)",
+   "s": "Yahoo ^IXIC, Fri Oct 23 close (vs 26,008.86 Oct 22). Mon premarket: NQ=F 29,125.25 at 6:52 AM ET, +0.03% vs Fri 29,117.75",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
@@ -24,25 +24,25 @@
    "v": "52,215.16",
    "c": "-1.23%",
    "d": -1.23,
-   "s": "Yahoo ^DJI, Oct 23 4:04 PM ET close (vs 52,867.98 Oct 22)",
+   "s": "Yahoo ^DJI, Fri Oct 23 close (vs 52,867.98 Oct 22). Mon premarket: YM=F 52,612 at 6:52 AM ET, +0.42% vs Fri 52,394",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,777.16",
-   "c": "-0.25%",
-   "d": -0.25,
-   "s": "Yahoo ^RUT, Oct 23 3:49 PM ET (vs 2,784.03 Oct 22)",
+   "v": "2,775.90",
+   "c": "-0.29%",
+   "d": -0.29,
+   "s": "Yahoo ^RUT, Fri Oct 23 close (vs 2,784.03 Oct 22)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "19.72",
-   "c": "+3.63%",
-   "d": 3.63,
-   "s": "Yahoo ^VIX, Oct 23 3:49 PM ET (vs 19.03 Oct 22)",
+   "v": "19.60",
+   "c": "+0.77%",
+   "d": 0.77,
+   "s": "Yahoo ^VIX, Mon Oct 26 6:47 AM ET (vs 19.45 Fri Oct 23 close)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
@@ -51,7 +51,7 @@
    "v": "4.69%",
    "c": "+4bp",
    "d": 0.04,
-   "s": "US Treasury par yield curve, Oct 23 close (4.65% Oct 22); FRED DGS2 latest posted 4.81% Oct 21",
+   "s": "US Treasury par yield curve, Fri Oct 23 close (4.65% Oct 22); FRED DGS2 latest posted 4.65% Oct 22",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
@@ -60,52 +60,52 @@
    "v": "4.988%",
    "c": "+3.5bp",
    "d": 0.04,
-   "s": "Yahoo ^TNX, Oct 23 2:59 PM ET (vs 4.953% Oct 22); US Treasury Oct 23 close 5.00%",
+   "s": "Yahoo ^TNX, Fri Oct 23 last (vs 4.953% Oct 22); US Treasury Oct 23 close 5.00%. Monday cash quote not yet available",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "101.81",
-   "c": "+0.19%",
-   "d": 0.19,
-   "s": "Yahoo DX-Y.NYB, Oct 23 3:54 PM ET (vs 101.61 Oct 22)",
+   "v": "101.87",
+   "c": "+0.06%",
+   "d": 0.06,
+   "s": "Yahoo DX-Y.NYB, Mon Oct 26 6:52 AM ET (vs 101.81 Fri Oct 23)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1198",
-   "c": "-0.20%",
-   "d": -0.2,
-   "s": "Yahoo EURUSD=X, Oct 23 4:04 PM ET (vs 1.1221 Oct 22)",
+   "v": "1.1202",
+   "c": "+0.04%",
+   "d": 0.04,
+   "s": "Yahoo EURUSD=X, Mon Oct 26 7:01 AM ET (vs 1.1198 Fri Oct 23 4:04 PM ET)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "103.68",
-   "c": "+4.23%",
-   "d": 4.23,
-   "s": "Yahoo CL=F, Oct 23 3:54 PM ET (vs 99.47 Oct 22 settle)",
+   "v": "101.00",
+   "c": "-2.20%",
+   "d": -2.2,
+   "s": "Yahoo CL=F, Mon Oct 26 6:52 AM ET (vs 103.27 Fri Oct 23 settle)",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,013.60",
-   "c": "-1.15%",
-   "d": -1.15,
-   "s": "Yahoo GC=F, Oct 23 3:54 PM ET (vs 4,060.40 Oct 22)",
+   "v": "4,026.30",
+   "c": "+0.46%",
+   "d": 0.46,
+   "s": "Yahoo GC=F, Mon Oct 26 6:52 AM ET (vs 4,007.90 Fri Oct 23 settle)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "81,192",
-   "c": "-0.15%",
-   "d": -0.15,
-   "s": "Yahoo BTC-USD, Oct 23 4:04 PM ET (vs 81,311.89 Oct 21 UTC bar; 24/7 market)",
+   "v": "80,214",
+   "c": "-1.20%",
+   "d": -1.2,
+   "s": "Yahoo BTC-USD, Mon Oct 26 7:02 AM ET (vs 81,192 Fri Oct 23 4:04 PM ET; 24/7 market)",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
@@ -511,86 +511,86 @@
  "news": {
   "wsj": [
    {
-    "title": "Stock Market Today: Dow Slides as Oil Prices Climb to Highest in Five Months",
-    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026"
+    "title": "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
+    "href": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f"
    },
    {
-    "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
-    "href": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad"
+    "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+    "href": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd"
    },
    {
-    "title": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
-    "href": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d"
+    "title": "Brazil’s Surprise Election Outcome Set to Batter Stocks, Real",
+    "href": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8"
    },
    {
-    "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
-    "href": "https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5"
+    "title": "Ingenia Removes Warburg Pincus From Data Room Following Rival $1.55 Billion Offer",
+    "href": "https://www.wsj.com/business/deals/ingenia-removes-warburg-pincus-from-data-room-following-rival-1-55b-offer-47c8f800"
    },
    {
-    "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
-    "href": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc"
+    "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+    "href": "https://www.wsj.com/pro/central-banking/ecb-expected-to-leave-key-rate-unchanged-amid-french-bond-drama-3d511cb4"
    },
    {
-    "title": "Brokerage Firms Want to Yank Away Your Investor Protections",
-    "href": "https://www.wsj.com/finance/investing/brokerage-firms-want-to-yank-away-your-investor-protections-b9fddd88"
+    "title": "Santander Shares Drop After Surprise Result in Brazilian Election",
+    "href": "https://www.wsj.com/world/americas/santander-shares-drop-after-surprise-result-in-brazilian-election-96677e78"
    },
    {
-    "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
-    "href": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852"
+    "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
+    "href": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce"
    },
    {
-    "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
-    "href": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21"
+    "title": "The Once Obscure Corner of Commercial Real Estate Now Riding the AI Boom",
+    "href": "https://www.wsj.com/real-estate/commercial/the-once-obscure-corner-of-commercial-real-estate-now-riding-the-ai-boom-0bce5259"
    },
    {
-    "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
-    "href": "https://www.wsj.com/business/nippons-u-s-steel-to-invest-nearly-3-billion-in-hot-strip-mill-near-pittsburgh-b9784176"
+    "title": "Lula Wins Fourth Term in Brazil Election Upset",
+    "href": "https://www.wsj.com/world/americas/lula-clings-to-power-in-brazil-election-upset-dba88f6c"
    },
    {
-    "title": "Akzo Nobel in Talks to Shed European Refinishing Unit for Axalta Merger Nod",
-    "href": "https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0"
+    "title": "Meta’s Unending AI Spending",
+    "href": "https://www.wsj.com/tech/ai/metas-unending-ai-spending-34e53011"
    }
   ],
   "econ": [
    {
-    "title": "Sam Bankman-Fried says he has paid his debts",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts"
+    "title": "The “let-it-rip” camp are wrong on AI",
+    "href": "https://www.economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-are-wrong-on-ai"
+   },
+   {
+    "title": "Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students",
+    "href": "https://www.economist.com/europe/2026/10/26/aleksandar-vucic-serbias-autocrat-loses-to-a-bunch-of-students"
+   },
+   {
+    "title": "Lula, the great survivor, makes history",
+    "href": "https://www.economist.com/the-americas/2026/10/26/lula-the-great-survivor-makes-history"
+   },
+   {
+    "title": "Back in Venezuela, María Machado may speed the return of democracy",
+    "href": "https://www.economist.com/the-americas/2026/10/25/back-in-venezuela-maria-machado-may-speed-the-return-of-democracy"
+   },
+   {
+    "title": "Politics, not strategy, could mean more Israeli strikes on Iran",
+    "href": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran"
+   },
+   {
+    "title": "China increasingly depends on copying American AI",
+    "href": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai"
+   },
+   {
+    "title": "The winners and losers of Trumponomics",
+    "href": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics"
+   },
+   {
+    "title": "India has stabilised its currency. But at what cost?",
+    "href": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost"
+   },
+   {
+    "title": "AI models may not be so opaque after all",
+    "href": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all"
    },
    {
     "title": "Saudi Arabia and the UAE are sowing chaos",
     "href": "https://www.economist.com/leaders/2026/10/22/saudi-arabia-and-the-uae-are-sowing-chaos"
-   },
-   {
-    "title": "Multinational businesses are losing confidence in Indonesia",
-    "href": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia"
-   },
-   {
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "href": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay"
-   },
-   {
-    "title": "Europe must escape its reliance on American satellites",
-    "href": "https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites"
-   },
-   {
-    "title": "Brazil’s weird economy needs serious reform",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform"
-   },
-   {
-    "title": "New research tries to defuse the \"China shock\"",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock"
-   },
-   {
-    "title": "AI compute is the new oil, and needs a new market",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
-   },
-   {
-    "title": "Either AI or public debt could crash markets. But probably not both",
-    "href": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both"
-   },
-   {
-    "title": "Is Netflix losing the plot?",
-    "href": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot"
    }
   ]
  },
@@ -622,282 +622,258 @@
   "spxChg": -0.52,
   "tnx": "4.988%",
   "hy": "3.40%",
-  "updated": "FRI OCT 23 2026 4:10 PM ET"
+  "updated": "MON OCT 26 2026 7:15 AM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "10/23 4:05 PM ET",
+  "asOf": "10/26 7:05 AM ET",
+  "note": "X News stories (search_news, M&A 36h + markets 24h) and posts from @business/@Reuters/@FT (deal keywords, since Sun 7 AM ET). One-line paraphrases.",
   "news": [
    {
-    "t": "US stocks drop as tech selloff erases ~$500B; Apple retakes most-valuable spot at $5.13T",
+    "t": "US futures edge up after losing week; S&P +0.5%, Nasdaq 100 +0.7% early Sunday",
     "src": "X News",
-    "time": "10/23 3:12P",
-    "url": "https://x.com/i/trending/2113649482546192624"
+    "time": "10/25 9:57P",
+    "url": "https://x.com/i/trending/2114487860556362239"
    },
    {
-    "t": "Brent tops $117 on fears of renewed US strikes on Iran; DPA invoked for fuel output",
+    "t": "Oil dips from six-month highs on profit-taking and diplomacy hopes; Brent ~$114-115",
     "src": "X News",
-    "time": "10/23 3:38P",
-    "url": "https://x.com/i/trending/2113503915501347013"
+    "time": "10/26 6:30A",
+    "url": "https://x.com/i/trending/2114587170023653559"
    },
    {
-    "t": "Gold slips below $4,000 for first time since July amid margin calls",
+    "t": "Week ahead: FOMC Oct 27-28 expected to hold; MSFT/GOOGL report Wed; GDP and PCE Thu",
     "src": "X News",
-    "time": "10/23 4:03P",
-    "url": "https://x.com/i/trending/2113641386868170942"
+    "time": "10/26 6:48A",
+    "url": "https://x.com/i/trending/2114432803248959935"
    },
    {
-    "t": "French 10Y yield hits 5.14%; spread over Bunds widest since 2011 at 178bp",
+    "t": "Gold rebounds to ~$4,010 after dipping below $4,000",
     "src": "X News",
-    "time": "10/23 10:09A",
-    "url": "https://x.com/i/trending/2113607313634525298"
+    "time": "10/26 4:56A",
+    "url": "https://x.com/i/trending/2114391218142556244"
    },
    {
-    "t": "US lends up to 400k bbl from SPR to Phillips 66 Lake Charles refinery",
+    "t": "Goldman cuts KOSPI target to 9,000 after 35% drop",
     "src": "X News",
-    "time": "10/23 3:51P",
-    "url": "https://x.com/i/trending/2113717875295096936"
+    "time": "10/25 10:45P",
+    "url": "https://x.com/i/trending/2114388667909144849"
    },
    {
-    "t": "Prediction markets price ~93% odds of Fed hold at Oct 28-29 meeting",
+    "t": "China stocks lose $2.4T since May peak on AI doubts",
     "src": "X News",
-    "time": "10/22 5:38P",
-    "url": "https://x.com/i/trending/2113298164337807510"
+    "time": "10/25 3:14P",
+    "url": "https://x.com/i/trending/2114432803764932682"
    },
    {
-    "t": "Skydance closed $110B WBD deal; Musk reportedly invests ~$1B (unconfirmed)",
+    "t": "Barclays upgrades Tesla to Overweight, $450 price target",
     "src": "X News",
-    "time": "10/23 3:25P",
-    "url": "https://x.com/i/trending/2113674910451007815"
+    "time": "10/26 6:59A",
+    "url": "https://x.com/i/trending/2114671982172336183"
    },
    {
-    "t": "Jio Platforms IPO closes with record 1.38 crore applications; lists Oct 28",
+    "t": "Jio Platforms IPO draws record 13.9M applications; lists Oct 28",
     "src": "X News",
-    "time": "10/23 3:38P",
-    "url": "https://x.com/i/trending/2113714640039329806"
+    "time": "10/26 6:11A",
+    "url": "https://x.com/i/trending/2114626093571572174"
    },
    {
-    "t": "Gilead buys PepStar oral IL-23R IBD program for $1.275B upfront",
+    "t": "JetBlue creditors hire PJT, Akin as debt concerns grow",
     "src": "X News",
-    "time": "10/22 8:40P",
-    "url": "https://x.com/i/trending/2113428896960086520"
+    "time": "10/25 2:09A",
+    "url": "https://x.com/i/trending/2114133218966307192"
    },
    {
-    "t": "Berkshire cash pile hits $365B as Abel takes over",
+    "t": "BIS flags circular financing in the AI sector",
     "src": "X News",
-    "time": "10/23 10:10A",
-    "url": "https://x.com/i/trending/2113444540745171022"
+    "time": "10/24 10:20P",
+    "url": "https://x.com/i/trending/2114179270192820666"
    },
    {
-    "t": "Treasury proposes ban on large investors (350+ homes) buying more single-family homes",
+    "t": "EA pauses Sims project, ~400 job cuts after $55B PIF-led buyout",
     "src": "X News",
-    "time": "10/22 10:42P",
-    "url": "https://x.com/i/trending/2113379010621358205"
+    "time": "10/26 12:33A",
+    "url": "https://x.com/i/trending/2114574977437458685"
    },
    {
-    "t": "Dangote buys 24.8% of Kenya Pipeline Co for Ksh42.5B; plans $1.5B expansion",
+    "t": "Dangote Refinery IPO closes Oct 27",
     "src": "X News",
-    "time": "10/22 12:50P",
-    "url": "https://x.com/i/trending/2112936644487577845"
-   },
-   {
-    "t": "Indian equities lose ~Rs6 trillion in broad selloff tied to global tech weakness",
-    "src": "X News",
-    "time": "10/23 2:47P",
-    "url": "https://x.com/i/trending/2113428896804966783"
+    "time": "10/26 6:05A",
+    "url": "https://x.com/i/trending/2114658280203333730"
    }
   ],
   "posts": [
    {
-    "t": "BASF raises Evonik takeover offer to over EUR11B",
+    "t": "Itau buys Brazilian AI startup NeoSpace for 2.9B reais (~$580M)",
     "src": "@business",
-    "time": "10/23 11:25A",
-    "url": "https://x.com/business/status/2113652930339344593"
+    "time": "10/26 6:50A",
+    "url": "https://x.com/business/status/2114670917976498177"
    },
    {
-    "t": "UK court appoints receivers vs VietJet to recover $250M+ owed to London buyout fund",
+    "t": "Banque du Caire IPO placement prices at top of range",
     "src": "@business",
-    "time": "10/23 2:20P",
-    "url": "https://x.com/business/status/2113696972162945340"
+    "time": "10/26 3:35A",
+    "url": "https://x.com/business/status/2114621860155424972"
    },
    {
-    "t": "US government-backed group nears purchase of stakes in Glencore DRC copper-cobalt mines",
-    "src": "@business",
-    "time": "10/23 12:00P",
-    "url": "https://x.com/business/status/2113661881197920477"
+    "t": "Trump says Canada tariff deal coming 'soon'",
+    "src": "@Reuters",
+    "time": "10/26 2:35A",
+    "url": "https://x.com/Reuters/status/2114606739576307979"
    },
    {
-    "t": "CoreWeave-Blackstone 2023 deal became blueprint for chip-backed debt, heading to $1T market",
+    "t": "Jio's record IPO proved far less lucrative for the bankers on the deal",
     "src": "@business",
-    "time": "10/23 10:55A",
-    "url": "https://x.com/business/status/2113645377949684120"
+    "time": "10/26 2:00A",
+    "url": "https://x.com/business/status/2114597964907708866"
    },
    {
-    "t": "Meta details Zuckerberg arrangement tied to California wealth tax; campaign cheers it",
+    "t": "DP World set to unveil deal backing development of Canada's port of Churchill",
+    "src": "@business",
+    "time": "10/26 1:30A",
+    "url": "https://x.com/business/status/2114590385456500932"
+   },
+   {
+    "t": "Sources say SpaceX's $40B debt deal still in pricing talks, not closed, after Musk said it was raised",
+    "src": "@business",
+    "time": "10/25 9:15P",
+    "url": "https://x.com/business/status/2114526226341638145"
+   },
+   {
+    "t": "Ingenia shares soar on AVID Property takeover bid as bidding war ramps up",
+    "src": "@business",
+    "time": "10/25 8:25P",
+    "url": "https://x.com/business/status/2114513625280885081"
+   },
+   {
+    "t": "Bon Secours nears ~$6B takeover of Bain-backed Surgery Partners, per FT",
     "src": "@FT",
-    "time": "10/23 2:21P",
-    "url": "https://x.com/FT/status/2113697409289089102"
+    "time": "10/25 2:28P",
+    "url": "https://x.com/FT/status/2114423814989721960"
    },
    {
-    "t": "Markets no longer price a December Fed hike after AI selloff (Morning Bid)",
-    "src": "@Reuters",
-    "time": "10/23 7:50A",
-    "url": "https://x.com/Reuters/status/2113598841706451199"
-   },
-   {
-    "t": "Oil climbs above $114 on reports of possible fresh military action vs Iran",
-    "src": "@Reuters",
-    "time": "10/23 6:50A",
-    "url": "https://x.com/Reuters/status/2113583752064504100"
-   },
-   {
-    "t": "SoftBank-backed OYO parent faces investor pushback on IPO valuation",
+    "t": "Del Vecchio weighs EUR 7.15M bid for Il Fatto Quotidiano publisher",
     "src": "@business",
-    "time": "10/23 7:10A",
-    "url": "https://x.com/business/status/2113588763691458667"
+    "time": "10/25 5:05P",
+    "url": "https://x.com/business/status/2114463296157782447"
    },
    {
-    "t": "Anthropic preparing a massive IPO; competition and regulation flagged as risks",
+    "t": "Trump says it's 'getting to be decision time' on Iran deal vs. resuming attacks",
     "src": "@business",
-    "time": "10/23 6:55A",
-    "url": "https://x.com/business/status/2113584979099689050"
-   },
-   {
-    "t": "Anthropic strikes deal to launch European consultancy",
-    "src": "@FT",
-    "time": "10/23 5:17A",
-    "url": "https://x.com/FT/status/2113560478433640773"
-   },
-   {
-    "t": "Zetwerk rises up to 5.3% on BSE debut after $529M IPO",
-    "src": "@business",
-    "time": "10/23 3:15A",
-    "url": "https://x.com/business/status/2113529618586079248"
-   },
-   {
-    "t": "GM cancels deal with new US rare-earth magnet plant",
-    "src": "@Reuters",
-    "time": "10/23 2:20A",
-    "url": "https://x.com/Reuters/status/2113515777013764368"
-   },
-   {
-    "t": "First Russian diesel cargo from Trump-Putin deal signals US port",
-    "src": "@WSJmarkets",
-    "time": "10/23 8:24A",
-    "url": "https://x.com/WSJmarkets/status/2113607533621317952"
+    "time": "10/25 11:10A",
+    "url": "https://x.com/business/status/2114373958908686840"
    }
-  ],
-  "note": "X News stories are X's own summaries of posts; verify before acting. US trends not checked this refresh."
+  ]
  },
  "world": {
   "status": "ok",
-  "asOf": "Oct 24 19:45 ET",
+  "asOf": "Oct 26 07:15 ET",
   "sources": "Google News World/Business RSS, BBC World/Business RSS",
   "items": [
    {
-    "t": "China urges US to halt proposed expansion of outbound investment curbs",
+    "t": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
     "src": "Reuters",
-    "time": "Oct 24 09:51 ET",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
-    "r": "CHINA"
-   },
-   {
-    "t": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
-    "src": "The Washington Post",
-    "time": "Oct 24 19:33 ET",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5",
+    "time": "Oct 25 23:48 ET",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlYwOVl3Z1hlOFdacWVmeXZVNnVhejFlWDVOR0toczJ2MWNjT1FMRWZjVU0xd1hGaGtzNU9VcGdYSnR1Z2NVQjFfRVpKallEcEVuTzNweldmeEdYOE05UXFOejl1ekR1ZjlxUlhHT1NLa3J0cmZYWUxhSEs2eXNGb2xNNUJycVNWci1ZVzZUOXBSNGc0bzRJNWVTTnVlWHhXRlBrLWRTOV9HbmlJTmVfZk95N0FIQnBLQTlTa3N3eFBaVDJMWGptVU1VN3A?oc=5",
     "r": "MIDEAST"
    },
    {
-    "t": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-    "src": "Bloomberg.com",
-    "time": "Oct 24 11:21 ET",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdkV3gxaDZHd2ZxRDVhaFlBdWtLNFJ3Y0c5MXZiWktESnRPNmJlTWczMVdRZ29JaUVHa0R2Mmdabm5NdXhyLWlYam5xaU54Ty1UdHphaVotVkx5RGo1a1hYUkpsS1IxSlhsd3ZJcGxkWEh0Q016YkJHS1J1Sk4xS1pub0tnTjlCbDdrWU5sTi14dXNrZDVOLTdkUnFxQkdvQ2Y5TFROY3JFcGVQbWtjYTlnUQ?oc=5",
-    "r": "US"
+    "t": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
+    "src": "Reuters",
+    "time": "Oct 25 23:20 ET",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnpERmd3Z1pYM2xFeTBMOEVnY21scU00QlNJOTdFdE5wbFhmcjdQU1ljTk9vWlJmd1JKdDRvT1p1LVZLT2hpM3h4UmVKYTRhTkJnVmJKZFhkRmFuUF9CZzA1YXNON1VmQ0ZOODVVTkJDZndUUzUzRUxEZmdDa2YyZlA4N1IyVGVCaVlNN2lGRnVXZWxQeTVlYTZnMmRJOHhrRGxYVTFNSXNEZTZfOGhWRGQ4RVlGSWNyTXZoSi1Zb1N0VW1EODBSdFBn?oc=5",
+    "r": "MIDEAST"
    },
    {
-    "t": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "t": "Deeply divided Israel braces for pivotal election",
     "src": "BBC",
-    "time": "Oct 23 20:36 ET",
-    "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-    "r": "US"
-   },
-   {
-    "t": "Chart of the Week: French government and corporate bond yields are converging",
-    "src": "Financial Times",
-    "time": "Oct 24 05:30 ET",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEwtYnR3b0xGWTl5V29OaTd1c0RiaHBQZkpfMzNsVUpGNllFYVpHMzRsN2toZ09mVDJMR2F5NDMyNDhEbUJvcWNvXzIyLW5DYS0xMmx0bTBIU2NRc2M0RUFiTDNLbm42djN0RC1EOGQzcC1kX0Ziei1GYmdGbGdXY0R3Yzc?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "Violence flares in Paris after largely peaceful protests across France",
-    "src": "Reuters",
-    "time": "Oct 24 17:27 ET",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-    "src": "Bloomberg.com",
-    "time": "Oct 24 13:40 ET",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+    "time": "Oct 25 18:11 ET",
+    "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
     "r": "MIDEAST"
    },
    {
-    "t": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
-    "src": "AP News",
-    "time": "Oct 24 05:50 ET",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
+    "t": "EQT, Range Resources tie up in $50 billion-plus deal to create US gas giant",
+    "src": "Reuters",
+    "time": "Oct 26 06:45 ET",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDJYcWR4d21YUDJHMFFqVWNnWFlwZDQ2M25TQmFzcVZKNGUzb0lGeWRCcEUxclB5eWJBV3ExWjBDTEVvY1RiYkd0cUlHaGx4SE5sMFpGV2ZCM2JJSWdYUFBvNUhzd0s5amc3NUtBbVZxbVVMQU5JU3JTbVhxOFFRak1IZTliVlRsM2llLThFRWVRZU0?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+    "src": "CNBC",
+    "time": "Oct 26 04:48 ET",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Gold gains as oil slide cools some inflation concerns",
+    "src": "Reuters",
+    "time": "Oct 26 01:56 ET",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+    "r": "GLOBAL"
+   },
+   {
+    "t": "Investors expect Brazilian stocks, currency to fall after Lula reelected",
+    "src": "Reuters",
+    "time": "Oct 26 00:09 ET",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
+    "r": "LATAM"
+   },
+   {
+    "t": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+    "src": "The New York Times",
+    "time": "Oct 26 06:37 ET",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMEpNNTMtaGhtbExPZTI4ME1rVk5DRENnWlRJSUJuMTQxc2V6Z01xdzU0V0xyTU4zSXdHMVZqN0RMU1VLQ2NCcnpQYXRVZTBKaHhQRGJzaWNYUXBmQVk0Q1JmVHhoVjdmeGlUd1BqeF9lMG83ZGpPWGRQbzRJQ2U1UENXYUY0LXdp?oc=5",
     "r": "EUROPE"
    },
    {
-    "t": "Ukraine Confirms Hits on Proton Plant, Tolyatti and Yeysk Airfield",
-    "src": "Kyiv Post",
-    "time": "Oct 24 04:59 ET",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFdFFzLWV4cnR5YkVTYmE1ampQbzRwekxsTi1ka1d6dGtfOGRhbHNuN28wWjRQSGZud2JkOHlzYVV0NmJVQWZ2a05hQQ?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
-    "src": "AP News",
-    "time": "Oct 24 08:16 ET",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+    "t": "Asia stocks slip as chipmakers retreat; earnings, central bank meetings loom",
+    "src": "Investing.com",
+    "time": "Oct 26 03:36 ET",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHVMam5yOWVucklMVGd3ZEJRTml6c3pIYnU0Y2h6cWoyUHhMSG9zeEhWQm5RX0ZaVHN1Ylhwb0RBUjFubDEwOFM2a0FxTklPSks1YXVQWmJIYWgzdlJjOWVsTk1teWNPeHF2aWRlaWp6QVhUVFg3S2llWGYyTGZuMVlLcnREMUE0NThqanQ3OWF3YVNvMTBZREFlVnB3QTVObkc0VGJyMTBTTVN6dzlBQVNZazRhX2RfbHNpVmYwSG9qbnMzek5aR05mZw?oc=5",
     "r": "ASIA"
    },
    {
-    "t": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink",
-    "src": "WSJ",
-    "time": "Oct 23 22:35 ET",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGNXMUZPOXJzRVEySm1hY2trdEJ5MGhJWlN0eUlPLU11WEZSTlJ5WG16TFdLQjg2aU43bDZRakRBYXJTb2hKZ3pyQmRBNFBfLUx0Mlh5UDZDN1JjWHF0alUyamwyVEt2bExqZjN0VW81NjYtNnlwLUpyTTZSdHRHWU9GNFVCTHhHSnNjZTRVcHhTTnFiQ1MwZk54MnRpUzVnSDlXZG1Dc0RUMkpEb2lPY2JNcnpIZFk?oc=5",
+    "t": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+    "src": "The Guardian",
+    "time": "Oct 26 00:21 ET",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDRFc3AxTEo4WkdsTmE5RzVMcEhkOWlsUGoxVDJBVlNCaVJIeWRSN0tjMDdHOVV1MVlGLUhJX3ViNFhjYnZQQVlveUM3S1ZleFBWWkpJRTdtUjJNZ2hmR0h4NHhKN21vbVN0VjluV2JSUkNCcHgwNHN3aVdtTXcyMXFSd1VwNThlTHVRMnF0SUF1bGNYUHRZM0V3ZHQ?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
+    "src": "Financial Times",
+    "time": "Oct 25 14:16 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5",
     "r": "US"
    },
    {
-    "t": "Rosebank: Life on the oil field at the centre of a political storm",
-    "src": "BBC",
-    "time": "Oct 24 19:15 ET",
-    "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+    "t": "French protest groups demand more rallies as Macron faces tough choices",
+    "src": "Reuters",
+    "time": "Oct 25 17:27 ET",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
     "r": "EUROPE"
    },
    {
-    "t": "How Brazil's changing working class is reshaping the presidential race",
+    "t": "Healey to shield low-income pensioners from income tax in the Budget",
     "src": "BBC",
-    "time": "Oct 24 01:05 ET",
-    "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-    "r": "LATAM"
-   },
-   {
-    "t": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-    "src": "Al Jazeera",
-    "time": "Oct 23 21:32 ET",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHU5M3hnTDZhTGdwWFFRZ1EyNEFyV1hkX1JNTEpUdEQtdmc0TE5GMExYbEdhTVNPLUVFWmRfTG85YXV4akRTOWdCajFoeUFzZzQ1SmU1eVl2RVdINDYta3ZQR3h1SnN4UjQycjVlcUJMRGFfQ1phZHBCY2t0bC1OWDA4eU5RcHlJbllsdkxGaVRNRkhKem9NNElqMlBRMEVjMXR4TUVUdFV1Y1I3YlFfcVRFX1UzVm_SAbwBQVVfeXFMUDh6NC1xQjFZM0tzeEc5SE9YVGlpZUFsUU1vVlVnd0lhWXBpSXdyLWFGYjlCVXQzdE5EYV9zbU11ZGc0T0xaanlGM0dJZnVjcG1IbE5kRDZRSzdZRUwzZ3RXTUhIRVRHUjhKdzFFcDA0anJ5eXdwdEthM0NrQ29KeVNhOGU0RS1wOXN1TFh6cndVN2FxTkxpOERwXzR6dXBJSFlEQS1zcnVWak5aWUZyWWhPQklDZUUwcGlhZGs?oc=5",
-    "r": "LATAM"
-   },
-   {
-    "t": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    "src": "BBC",
-    "time": "Oct 23 19:08 ET",
-    "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+    "time": "Oct 26 06:28 ET",
+    "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
     "r": "EUROPE"
+   },
+   {
+    "t": "Venezuelan opposition leader María Machado returns after months in exile",
+    "src": "BBC",
+    "time": "Oct 26 01:20 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+    "r": "LATAM"
+   },
+   {
+    "t": "Black Sea is now the world’s deadliest shipping route",
+    "src": "Financial Times",
+    "time": "Oct 25 01:00 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0FtVEhrS2dCX2ZRcFExOTlMeUdZSXVjVjRUU2lUNHZiaWJMQTRQUVo0cV9DSVd4V1NINGVuZ1czaDJLMGxKRnJtX1psZWRlQUlBOU9oRGhwWnNIRi1PWTRlNjJoeEhCMHpVTkh2REtvYVhmbFk2X3VuaklFZDE5ZVQyZFc?oc=5",
+    "r": "GLOBAL"
    }
   ]
  }
