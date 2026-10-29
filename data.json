@@ -1,48 +1,48 @@
 {
- "asOf": "Oct 29, 2026 7:10 AM ET (Thu pre-market)",
+ "asOf": "Oct 29, 2026 12:08 PM ET (Thu intraday)",
  "mk": [
   {
    "n": "S&P 500",
-   "v": "7,743.98",
-   "c": "+0.28%",
-   "d": 0.28,
-   "s": "Yahoo ^GSPC, Wed Oct 28 close (vs 7,722.60 Tue close). Thu pre-market: ES=F 7,768.25 (-0.19%) 7:08 AM ET.",
+   "v": "7,721.51",
+   "c": "-0.29%",
+   "d": -0.29,
+   "s": "Yahoo ^GSPC, Thu Oct 29 12:05 PM ET intraday (vs 7,743.98 Wed close)",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
   {
    "n": "NASDAQ",
-   "v": "26,549.85",
-   "c": "+0.27%",
-   "d": 0.27,
-   "s": "Yahoo ^IXIC, Wed Oct 28 close (vs 26,477.81 Tue close). Thu pre-market: NQ=F 29,721.25 (-0.86%) 7:08 AM ET after Alphabet earnings.",
+   "v": "26,227.24",
+   "c": "-1.22%",
+   "d": -1.22,
+   "s": "Yahoo ^IXIC, Thu Oct 29 12:05 PM ET intraday (vs 26,549.85 Wed close); Alphabet -11% after earnings",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
   {
    "n": "DOW",
-   "v": "52,475.10",
-   "c": "+0.19%",
-   "d": 0.19,
-   "s": "Yahoo ^DJI, Wed Oct 28 close (vs 52,377.57 Tue close). Thu pre-market: YM=F 52,654 (-0.08%) 7:08 AM ET.",
+   "v": "52,334.94",
+   "c": "-0.27%",
+   "d": -0.27,
+   "s": "Yahoo ^DJI, Thu Oct 29 12:05 PM ET intraday (vs 52,475.10 Wed close)",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,830.51",
-   "c": "+0.41%",
-   "d": 0.41,
-   "s": "Yahoo ^RUT, Wed Oct 28 close (vs 2,818.87 Tue close)",
+   "v": "2,863.62",
+   "c": "+1.17%",
+   "d": 1.17,
+   "s": "Yahoo ^RUT, Thu Oct 29 11:50 AM ET intraday (vs 2,830.51 Wed close)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "16.97",
-   "c": "+0.35%",
-   "d": 0.35,
-   "s": "Yahoo ^VIX, Thu Oct 29 6:55 AM ET (vs 16.91 Wed close)",
+   "v": "16.47",
+   "c": "-2.60%",
+   "d": -2.6,
+   "s": "Yahoo ^VIX, Thu Oct 29 11:50 AM ET (vs 16.91 Wed close)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
@@ -51,70 +51,70 @@
    "v": "4.70%",
    "c": "+2bp (10/27)",
    "d": 0.02,
-   "s": "FRED DGS2, Tue Oct 27 (4.68% Oct 26); Oct 28 not yet posted (checked Thu 7:10 AM ET)",
+   "s": "FRED DGS2, Tue Oct 27 (4.68% Oct 26); Oct 28 not yet posted (checked Thu 12:05 PM ET)",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
   {
    "n": "UST 10Y",
-   "v": "5.045%",
-   "c": "+5.2bp",
-   "d": 0.05,
-   "s": "Yahoo ^TNX, Wed Oct 28 close (CBOE; vs 4.993% Tue close); Thu cash session not yet open",
+   "v": "4.995%",
+   "c": "-5.0bp",
+   "d": -0.05,
+   "s": "Yahoo ^TNX, Thu Oct 29 ~12:05 PM ET intraday (CBOE; vs 5.045% Wed close); Q3 GDP +3.4% out 8:30 AM",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "102.17",
-   "c": "-0.03%",
-   "d": -0.03,
-   "s": "Yahoo DX-Y.NYB, Thu Oct 29 7:00 AM ET (vs 102.19 prior close)",
+   "v": "101.99",
+   "c": "-0.20%",
+   "d": -0.2,
+   "s": "Yahoo DX-Y.NYB, Thu Oct 29 ~12:05 PM ET (vs 102.19 prior close)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1154",
-   "c": "-0.03%",
-   "d": -0.03,
-   "s": "Yahoo EURUSD=X, Thu Oct 29 7:09 AM ET (vs 1.1157 prior close)",
+   "v": "1.1164",
+   "c": "+0.06%",
+   "d": 0.06,
+   "s": "Yahoo EURUSD=X, Thu Oct 29 ~12:05 PM ET (vs 1.1157 prior close)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "101.20",
-   "c": "-1.54%",
-   "d": -1.54,
-   "s": "Yahoo CL=F (Dec), Thu Oct 29 7:00 AM ET (vs 102.78 Wed settle); Brent BZ=F 110.00 (-1.46% vs 111.64)",
+   "v": "100.62",
+   "c": "-2.10%",
+   "d": -2.1,
+   "s": "Yahoo CL=F (Dec), Thu Oct 29 ~12:05 PM ET (vs 102.78 Wed settle); Brent BZ=F 109.70 (-1.74% vs 111.64)",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,042.00",
-   "c": "-0.24%",
-   "d": -0.24,
-   "s": "Yahoo GC=F, Thu Oct 29 7:00 AM ET (vs 4,051.60 Wed settle)",
+   "v": "4,036.20",
+   "c": "-0.38%",
+   "d": -0.38,
+   "s": "Yahoo GC=F, Thu Oct 29 ~12:05 PM ET (vs 4,051.60 Wed settle)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "80,145",
-   "c": "-1.37%",
-   "d": -1.37,
-   "s": "Yahoo BTC-USD, Thu Oct 29 7:10 AM ET (vs 81,262 prior daily close; 24/7 market)",
+   "v": "81,728",
+   "c": "+0.57%",
+   "d": 0.57,
+   "s": "Yahoo BTC-USD, Thu Oct 29 ~12:05 PM ET (vs 81,262 prior daily close; 24/7 market)",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
   {
    "n": "US HY OAS",
-   "v": "3.18%",
-   "c": "-12bp (10/27)",
-   "d": -0.12,
-   "s": "FRED BAMLH0A0HYM2, Tue Oct 27 (3.30% Oct 26); Oct 28 not yet posted",
+   "v": "3.14%",
+   "c": "-4bp (10/28)",
+   "d": -0.04,
+   "s": "FRED BAMLH0A0HYM2, Wed Oct 28 (3.18% Oct 27)",
    "tv": "FRED:BAMLH0A0HYM2",
    "tvn": "FRED ICE BofA HY OAS, daily"
   }
@@ -147,8 +147,8 @@
   }
  ],
  "prorata": {
-  "issue": "Wed Oct 28, 2026",
-  "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c.html",
+  "issue": "Thu Oct 29, 2026",
+  "url": "https://www.axios.com/newsletters/axios-pro-rata-d6650505-6d92-4483-babf-3ba65f8d0e83.html",
   "secs": [
    [
     "VC",
@@ -173,346 +173,236 @@
   ],
   "items": [
    {
-    "s": "IPO",
-    "t": "Jio Platforms",
-    "b": "India IPO (Reliance carveout)",
-    "v": "$3.2B raised; ~$106B val.",
-    "sec": "Telecom / digital",
-    "ty": "IPO (The BFD)",
-    "x": "India's largest IPO ever; shares jumped on debut.",
-    "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c.html"
-   },
-   {
     "s": "MA",
     "t": "Instacart (CART)",
     "b": "DoorDash (DASH)",
-    "v": "~$17B (reported)",
+    "v": "$17B ($65/sh)",
     "sec": "Grocery delivery",
+    "ty": "Definitive agreement",
+    "x": "Deal made official after Wednesday reports.",
+    "url": "https://www.axios.com/newsletters/axios-pro-rata-d6650505-6d92-4483-babf-3ba65f8d0e83.html"
+   },
+   {
+    "s": "PE",
+    "t": "ADT (ADT)",
+    "b": "Thrive Holdings",
+    "v": "~$15.3B",
+    "sec": "Home security",
+    "ty": "Take-private",
+    "x": "Largest of a busy morning of deals.",
+    "url": "https://axios.link/3Whithk"
+   },
+   {
+    "s": "MA",
+    "t": "Lumentum (LITE)",
+    "b": "Marvell (MRVL)",
+    "v": "~$83B mkt cap (target)",
+    "sec": "AI data-center optics",
+    "ty": "Advanced talks",
+    "x": "Possibly the largest tech merger ever; per Bloomberg.",
+    "url": "https://axios.link/4ipMrHg"
+   },
+   {
+    "s": "MA",
+    "t": "VTTI",
+    "b": "Adani Group",
+    "v": "~€3B",
+    "sec": "Energy storage",
+    "ty": "Weighing bid",
+    "x": "Per Bloomberg.",
+    "url": "https://axios.link/4BvCwZp"
+   },
+   {
+    "s": "MA",
+    "t": "Weil, Gotshal & Manges",
+    "b": "n/a",
+    "v": "~$2B revenue",
+    "sec": "Law firm",
+    "ty": "Wind-down (The BFD)",
+    "x": "Leadership recommends dissolving; partner vote pending.",
+    "url": "https://www.axios.com/newsletters/axios-pro-rata-d6650505-6d92-4483-babf-3ba65f8d0e83.html"
+   },
+   {
+    "s": "PE",
+    "t": "Dine Brands (DIN)",
+    "b": "Cobblers Cove Capital, Arkhouse",
+    "v": "~$494M ($39/sh)",
+    "sec": "Restaurant franchising",
+    "ty": "Cash offer",
+    "x": "Applebee's and IHOP parent; per Bloomberg.",
+    "url": "https://axios.link/3UUmI1Z"
+   },
+   {
+    "s": "PE",
+    "t": "LCI Industries (LCII)",
+    "b": "Monomoy Capital Partners",
+    "v": "$101/sh",
+    "sec": "RV and transport components",
+    "ty": "Nonbinding bid",
+    "x": "Challenges LCI's all-stock deal with Patrick Industries.",
+    "url": "https://axios.link/3WeTzin"
+   },
+   {
+    "s": "PE",
+    "t": "EDP",
+    "b": "Platinum Equity",
+    "v": "Undisclosed",
+    "sec": "Propane distribution",
+    "ty": "Acquisition",
+    "x": "Carve-out from PPC.",
+    "url": "https://axios.link/4sqOKhS"
+   },
+   {
+    "s": "LIQ",
+    "t": "AdvancedPCB",
+    "b": "Amphenol (APH)",
+    "v": "Undisclosed",
+    "sec": "Printed circuit boards",
+    "ty": "Sponsor exit",
+    "x": "Industrial Growth Partners sells.",
+    "url": "https://axios.link/4eY6awK"
+   },
+   {
+    "s": "LIQ",
+    "t": "Ferric",
+    "b": "Onsemi (ON)",
+    "v": "~$1B",
+    "sec": "Power chips",
     "ty": "Talks",
-    "x": "Shares near record on sale reports (Final Numbers).",
-    "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c.html"
-   },
-   {
-    "s": "MA",
-    "t": "Globalstar (GSAT)",
-    "b": "Amazon (AMZN)",
-    "v": "$11.57B",
-    "sec": "Satellite telco",
-    "ty": "FCC approval",
-    "x": "Regulatory clearance for pending deal.",
-    "url": "https://axios.link/4yOfEC3"
-   },
-   {
-    "s": "MA",
-    "t": "UniFirst (UNF)",
-    "b": "Cintas (CTAS)",
-    "v": "$5.5B",
-    "sec": "Uniform services",
-    "ty": "FTC to sue to block",
-    "x": "Per Semafor.",
-    "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c.html"
-   },
-   {
-    "s": "MA",
-    "t": "MidCap Financial (MFIC)",
-    "b": "Ares Capital (ARCC)",
-    "v": "$2.6B",
-    "sec": "BDC / direct lending",
-    "ty": "Merger",
-    "x": "Cash and stock.",
-    "url": "https://axios.link/4Br8ciR"
-   },
-   {
-    "s": "LIQ",
-    "t": "Trench Group",
-    "b": "GE Vernova (GEV)",
-    "v": "$9B",
-    "sec": "High-voltage grid equipment",
-    "ty": "Acquisition",
-    "x": "Seller: Triton Partners.",
-    "url": "https://axios.link/4eyrTeA"
-   },
-   {
-    "s": "LIQ",
-    "t": "Classiq",
-    "b": "Intel (INTC)",
-    "v": "$2.3B",
-    "sec": "Quantum software",
-    "ty": "Acquisition",
-    "x": "Israeli startup; VC-backed.",
-    "url": "https://axios.link/4iLoMS7"
-   },
-   {
-    "s": "LIQ",
-    "t": "Hyperexponential",
-    "b": "Guidewire (GWRE)",
-    "v": "$1.7B + up to $400M earnout",
-    "sec": "Insurance pricing software",
-    "ty": "Acquisition",
-    "x": "London-based; VC-backed.",
-    "url": "https://axios.link/3Wf3lRC"
-   },
-   {
-    "s": "LIQ",
-    "t": "Vexcel",
-    "b": "CoStar (CSGP)",
-    "v": "$730M",
-    "sec": "Aerial imagery",
-    "ty": "Acquisition",
-    "x": "Sellers incl. Riverwood Capital.",
-    "url": "https://axios.link/4yK6ari"
-   },
-   {
-    "s": "LIQ",
-    "t": "Onrad",
-    "b": "RadNet (RDNT)",
-    "v": "~$717M + $210M earnouts",
-    "sec": "Teleradiology",
-    "ty": "Acquisition",
-    "x": "Seller: Housatonic Partners.",
-    "url": "https://axios.link/4zX4aNE"
-   },
-   {
-    "s": "LIQ",
-    "t": "Orbus",
-    "b": "US WorldMeds",
-    "v": "Unavailable",
-    "sec": "Brain tumor biotech",
-    "ty": "Acquisition",
-    "x": "VC-backed.",
-    "url": "https://axios.link/3WzUkmh"
-   },
-   {
-    "s": "PE",
-    "t": "Wendy's (WEN)",
-    "b": "Trian-led group",
-    "v": "~$1.4B ($7.35/sh)",
-    "sec": "Quick-service restaurants",
-    "ty": "Take-private offer",
-    "x": "20% premium to Tue close.",
-    "url": "https://axios.link/4eE2lgb"
-   },
-   {
-    "s": "PE",
-    "t": "Ark Data Centres",
-    "b": "TPG (from Elliott)",
-    "v": "~$5B",
-    "sec": "UK data centers",
-    "ty": "Talks",
-    "x": "Per the FT.",
-    "url": "https://axios.link/3WQR99S"
-   },
-   {
-    "s": "PE",
-    "t": "Orizon Aerostructures",
-    "b": "I Squared Capital",
-    "v": "~$2B",
-    "sec": "Aerospace parts",
-    "ty": "Acquisition",
-    "x": "Sellers incl. American Industrial Partners.",
-    "url": "https://axios.link/4svenyi"
-   },
-   {
-    "s": "PE",
-    "t": "Parfums de Marly",
-    "b": "CVC, Cinven, Puig (circling)",
-    "v": "Unavailable",
-    "sec": "Luxury fragrance",
-    "ty": "Sale process",
-    "x": "Advent-owned; per Reuters.",
-    "url": "https://axios.link/47PYlFF"
-   },
-   {
-    "s": "PE",
-    "t": "JCI intrusion products business",
-    "b": "Truelink Capital",
-    "v": "Unavailable",
-    "sec": "Security products",
-    "ty": "Carveout",
-    "x": "",
-    "url": "https://axios.link/4e0uWvX"
-   },
-   {
-    "s": "PE",
-    "t": "Radon Medical Imaging",
-    "b": "Leonard Green",
-    "v": "Unavailable",
-    "sec": "Medical equipment service",
-    "ty": "Acquisition",
-    "x": "From 5th Century Partners.",
-    "url": "https://axios.link/4yMBWUH"
-   },
-   {
-    "s": "PE",
-    "t": "PRVN Consultants",
-    "b": "Burns Engineering (OceanSound)",
-    "v": "Unavailable",
-    "sec": "Energy engineering",
-    "ty": "Add-on",
-    "x": "",
-    "url": "https://axios.link/4eXaGvs"
-   },
-   {
-    "s": "PE",
-    "t": "TempusDirect",
-    "b": "Aldrich Capital Partners",
-    "v": "Unavailable",
-    "sec": "P&C claims cost containment",
-    "ty": "Growth equity",
-    "x": "",
-    "url": "https://axios.link/48jX1ee"
-   },
-   {
-    "s": "IPO",
-    "t": "Syngenta",
-    "b": "Hong Kong IPO (possible)",
-    "v": "~$10B at $66B val.",
-    "sec": "Ag chemicals / seeds",
-    "ty": "IPO plan",
-    "x": "Early next year; per Reuters.",
-    "url": "https://axios.link/4yOfZoj"
-   },
-   {
-    "s": "IPO",
-    "t": "Heroic Empire Acquisition",
-    "b": "SPAC",
-    "v": "$100M",
-    "sec": "SPAC",
-    "ty": "IPO filing",
-    "x": "",
-    "url": "https://axios.link/4yGGJXH"
+    "x": "Per The Information.",
+    "url": "https://axios.link/4idif3x"
    },
    {
     "s": "VC",
-    "t": "Upwind",
-    "b": "Bessemer (lead)",
-    "v": "$400M Series C; $3.8B val.",
-    "sec": "Cloud security",
-    "ty": "VC",
-    "x": "Israeli.",
-    "url": "https://axios.link/4zdZ1k3"
+    "t": "Formation Bio",
+    "b": "University endowments, foundations, hospitals",
+    "v": "$600M fund",
+    "sec": "AI drug development",
+    "ty": "Fund (Top of the Morning)",
+    "x": "Biotech acting as GP to buy and develop drug programs.",
+    "url": "https://www.axios.com/newsletters/axios-pro-rata-d6650505-6d92-4483-babf-3ba65f8d0e83.html"
    },
    {
     "s": "VC",
-    "t": "Lumaril",
-    "b": "Elad Gil (lead)",
-    "v": "$66M Series A; $400M val.",
-    "sec": "Factory optimization",
-    "ty": "VC",
+    "t": "Firehawk",
+    "b": "Advent International, Rochefort (lead)",
+    "v": "$150M Series D @ $1.4B",
+    "sec": "Rocket motors",
+    "ty": "Venture",
     "x": "",
-    "url": "https://axios.link/47G2YlF"
+    "url": "https://axios.link/4idqxbC"
    },
    {
     "s": "VC",
-    "t": "Intake Breathing",
-    "b": "Camino Partners",
-    "v": "$62M",
-    "sec": "Consumer health",
-    "ty": "Growth",
+    "t": "Serval",
+    "b": "Sequoia Capital (lead)",
+    "v": "$150M Series C @ $3B",
+    "sec": "IT service management",
+    "ty": "Venture",
     "x": "",
-    "url": "https://axios.link/4jMkxYr"
+    "url": "https://axios.link/4e7xSHf"
    },
    {
     "s": "VC",
-    "t": "Fragment",
-    "b": "8VC (lead, Series A)",
-    "v": "$56M seed + A",
-    "sec": "Procurement software",
-    "ty": "VC",
+    "t": "Foundry Robotics",
+    "b": "Marlinspike Partners (lead)",
+    "v": "$100M Series A",
+    "sec": "Autonomous factories",
+    "ty": "Venture",
     "x": "",
-    "url": "https://axios.link/4sqA3eO"
+    "url": "https://axios.link/3UNFeJr"
    },
    {
     "s": "VC",
-    "t": "Infisical",
-    "b": "Elad Gil (lead)",
-    "v": "$40M Series B; $600M val.",
-    "sec": "Cybersecurity",
-    "ty": "VC",
-    "x": "",
-    "url": "https://axios.link/3Uq5jy2"
-   },
-   {
-    "s": "VC",
-    "t": "Maxinsights",
-    "b": "Peak XV (lead)",
-    "v": "$30M seed",
-    "sec": "Robot training data",
-    "ty": "VC",
-    "x": "",
-    "url": "https://axios.link/4iJd7nI"
-   },
-   {
-    "s": "VC",
-    "t": "Vera Health",
-    "b": "Threshold Ventures (lead)",
-    "v": "$28.5M Series A",
-    "sec": "Clinical AI search",
-    "ty": "VC",
-    "x": "",
-    "url": "https://axios.link/4e3Q84l"
+    "t": "Lightspeed",
+    "b": "LPs",
+    "v": "$750M",
+    "sec": "AI-focused fund",
+    "ty": "Fundraise",
+    "x": "Per WSJ.",
+    "url": "https://axios.link/4ikTbHX"
    }
   ]
  },
  "news": {
   "wsj": [
    {
+    "title": "DoorDash to Buy Instacart for $17 Billion",
+    "href": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f"
+   },
+   {
+    "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
+    "href": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a"
+   },
+   {
+    "title": "Stock Market Today: Alphabet Stock Sinks After Earnings, Dragging the Nasdaq",
+    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+   },
+   {
     "title": "Christine Lagarde to Resign Early as ECB President",
     "href": "https://www.wsj.com/world/europe/christine-lagarde-to-resign-early-as-ecb-president-2ad844e6"
    },
    {
-    "title": "Stock Market Today: Nasdaq Futures Slump After Google Earnings Disappoint",
-    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+    "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
+    "href": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c"
    },
    {
-    "title": "Weil Gotshal Says It Is Shutting Its Doors",
-    "href": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10"
+    "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More",
+    "href": "https://www.wsj.com/business/earnings/caterpillar-sales-jump-but-wall-street-wanted-more-5762eee6"
    },
    {
-    "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
-    "href": "https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f"
-   },
-   {
-    "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
-    "href": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d"
+    "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
+    "href": "https://www.wsj.com/world/china/chinas-xi-demands-more-loyalty-as-purges-trim-party-elite-e2cc90ab"
    },
    {
     "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
     "href": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9"
    },
    {
-    "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
-    "href": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4"
+    "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
+    "href": "https://www.wsj.com/business/autos/trump-administration-promised-tariff-relief-in-talks-to-secure-u-s-audi-factory-da037c3f"
    },
    {
-    "title": "As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production",
-    "href": "https://www.wsj.com/world/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-8d314cd7"
+    "title": "Weil Gotshal Says It Is Shutting Its Doors",
+    "href": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10"
+   },
+   {
+    "title": "What Big Oil Tells Us About AI Memory Stocks",
+    "href": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00"
    },
    {
     "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
     "href": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1"
-   },
-   {
-    "title": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
-    "href": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef"
-   },
-   {
-    "title": "Vance Reaches Out to Iranian Hard-Liner in Bid to Restart Peace Talks",
-    "href": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8"
-   },
-   {
-    "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
-    "href": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae"
    }
   ],
   "econ": [
    {
-    "title": "Weil’s collapse and the death of corporate loyalty",
-    "href": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty"
+    "title": "Christine Lagarde departs at a moment of peril",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril"
    },
    {
-    "title": "The task facing the new head of India’s biggest private bank",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank"
+    "title": "The never-ending absurdity of global oil markets",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets"
+   },
+   {
+    "title": "The countries making a fortune from the US-China rivalry",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/29/the-countries-making-a-fortune-from-the-us-china-rivalry"
+   },
+   {
+    "title": "Let China copy American AI",
+    "href": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai"
+   },
+   {
+    "title": "The world’s biggest maker of spectacles faces a crisis",
+    "href": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis"
+   },
+   {
+    "title": "What to make of 25 years of Narendra Modi",
+    "href": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi"
+   },
+   {
+    "title": "Weil’s collapse and the death of corporate loyalty",
+    "href": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty"
    },
    {
     "title": "China’s stock markets are the great global exception",
@@ -523,28 +413,8 @@
     "href": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing"
    },
    {
-    "title": "Israel’s Jewish and Arab opposition parties should work together",
-    "href": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together"
-   },
-   {
     "title": "India’s ultra-cheap internet is about to get more expensive",
     "href": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive"
-   },
-   {
-    "title": "In an AI blow-up, would insurance pay out?",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out"
-   },
-   {
-    "title": "Ignore AI and ask for that pay rise",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise"
-   },
-   {
-    "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
-    "href": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason"
-   },
-   {
-    "title": "Don’t expect supersize profits from Anthropic soon",
-    "href": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon"
    }
   ]
  },
@@ -572,103 +442,121 @@
   "note": "Global/YTD: LSEG via Reuters, Oct 1 (Mergermarket 9M: $4.44T, +27%). Exits: PitchBook, Sep 30. Sep 2026 (Dealogic via Paul, Weiss M&A at a Glance, Oct 12): global $387.2B flat m/m; strategic $297.4B vs sponsor $89.8B (-46% m/m). Re-checked Oct 29 7 AM ET; no newer quarterly totals. Q1/Q2 split: unavailable."
  },
  "status": {
-  "spx": "7,743.98",
-  "spxChg": 0.28,
-  "tnx": "5.045%",
-  "hy": "3.18%",
-  "updated": "THU OCT 29 2026 7:10 AM ET"
+  "spx": "7,721.51",
+  "spxChg": -0.29,
+  "tnx": "4.995%",
+  "hy": "3.14%",
+  "updated": "THU OCT 29 2026 12:08 PM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "10/29 7:10 AM ET",
-  "note": "X News stories (search_news, M&A 36h + markets 24h) and posts from @business/@Reuters/@FT/@WSJ/@axios (deal keywords, since Wed afternoon). One-line paraphrases.",
+  "asOf": "10/29 12:08 PM ET",
+  "note": "X News stories (search_news, M&A 24h + markets 12h) and posts from @business/@Reuters/@FT/@WSJmarkets/@DealBook/@axios (deal keywords, since Thu 7 AM ET plus earlier). One-line paraphrases.",
   "news": [
    {
-    "t": "Marvell in advanced talks to buy Lumentum (~$83B mkt cap) for AI optics; MRVL fell, LITE rose after hours; no price reported",
+    "t": "Bitcoin consolidates around $80K after FOMC",
     "src": "X News",
-    "time": "10/29 6:18A",
+    "time": "10/29 12:00P",
+    "url": "https://x.com/i/trending/2115834701029998982"
+   },
+   {
+    "t": "China STAR 50 down ~40% from July peak, ~$480B AI-stock wipeout",
+    "src": "X News",
+    "time": "10/29 11:51A",
+    "url": "https://x.com/i/trending/2115156146776666520"
+   },
+   {
+    "t": "S&P 500 choppy near 7,700 after Fed hold and GDP beat",
+    "src": "X News",
+    "time": "10/29 11:51A",
+    "url": "https://x.com/i/trending/2115832016176574722"
+   },
+   {
+    "t": "Marvell in advanced talks for Lumentum (~$83B mkt cap); announcement possible next week",
+    "src": "X News",
+    "time": "10/29 11:42A",
     "url": "https://x.com/i/trending/2115553119920672895"
+   },
+   {
+    "t": "Anthropic IPO: S-1 targets mid-Nov Nasdaq debut (ANT) at $1.5T-$2T",
+    "src": "X News",
+    "time": "10/29 11:31A",
+    "url": "https://x.com/i/trending/2115826681193890284"
+   },
+   {
+    "t": "UK living standards face weakest decade since 1950s, per OBR after Budget",
+    "src": "X News",
+    "time": "10/29 11:31A",
+    "url": "https://x.com/i/trending/2115786618107998410"
    },
    {
     "t": "Fed holds at 3.75%-4.00% in 10-2 vote; Cook and Hammack dissented for a hike",
     "src": "X News",
-    "time": "10/29 4:31A",
+    "time": "10/29 11:30A",
     "url": "https://x.com/i/trending/2115497447732445567"
    },
    {
-    "t": "Gold steadies near $4,000/oz after sharp drop post-FOMC",
+    "t": "Thrive Holdings to buy ADT for ~$15.3B EV ($10/sh, 45.6% premium); Apollo financing, Q1 2027 close",
     "src": "X News",
-    "time": "10/29 2:34A",
-    "url": "https://x.com/i/trending/2115116231204508121"
+    "time": "10/29 11:14A",
+    "url": "https://x.com/i/trending/2115806833093017750"
    },
    {
-    "t": "Trian-led group offers $1.4B ($7.35/sh, ~20% premium) to take Wendy's private",
+    "t": "Q3 GDP +3.4% annualized vs 3.2% expected; core PCE 3.1% y/y",
+    "src": "X News",
+    "time": "10/29 10:59A",
+    "url": "https://x.com/i/trending/2115784882685428127"
+   },
+   {
+    "t": "Kalshi raises $1B Series G at $40B valuation amid Utah charges",
+    "src": "X News",
+    "time": "10/29 9:37A",
+    "url": "https://x.com/i/trending/2115798600798089301"
+   },
+   {
+    "t": "Record foreign outflows from Indian equities spark LTCG tax-cut debate",
+    "src": "X News",
+    "time": "10/29 9:20A",
+    "url": "https://x.com/i/trending/2115658945100648745"
+   },
+   {
+    "t": "Equitas Small Finance Bank shares fall 14% as CEO resigns",
+    "src": "X News",
+    "time": "10/29 8:26A",
+    "url": "https://x.com/i/trending/2115781245414080641"
+   },
+   {
+    "t": "Trian-led group offers $1.4B ($7.35/sh) to take Wendy's private",
     "src": "X News",
     "time": "10/29 12:51A",
     "url": "https://x.com/i/trending/2115424847480422769"
-   },
-   {
-    "t": "Anthropic acquires one-person biotech Mithril Medicine",
-    "src": "X News",
-    "time": "10/28 5:46P",
-    "url": "https://x.com/i/trending/2115187301261423089"
-   },
-   {
-    "t": "Fed hold: stocks edged up ~0.2% after Warsh presser",
-    "src": "X News",
-    "time": "10/28 4:11P",
-    "url": "https://x.com/i/trending/2115287583785644308"
-   },
-   {
-    "t": "UBS sees two more Fed hikes by mid-2027, still targets S&P 8,400",
-    "src": "X News",
-    "time": "10/28 2:20P",
-    "url": "https://x.com/i/trending/2115506904369643659"
-   },
-   {
-    "t": "Indian FIIs and DIIs both net buyers as Nifty dips 0.22%",
-    "src": "X News",
-    "time": "10/28 1:54P",
-    "url": "https://x.com/i/trending/2115460759874310317"
-   },
-   {
-    "t": "US gas averages ~$4.25/gal with crude near $100",
-    "src": "X News",
-    "time": "10/28 1:20P",
-    "url": "https://x.com/i/trending/2115491458245439964"
-   },
-   {
-    "t": "Stock-bond correlation turns positive as Treasuries resume hedge role",
-    "src": "X News",
-    "time": "10/28 10:54A",
-    "url": "https://x.com/i/trending/2115455889746583957"
-   },
-   {
-    "t": "UK cabinet split over Rosebank oilfield approval",
-    "src": "X News",
-    "time": "10/28 8:58A",
-    "url": "https://x.com/i/trending/2115371088062607372"
-   },
-   {
-    "t": "Dangote's 24.76% Kenya Pipeline stake defended by President Ruto",
-    "src": "X News",
-    "time": "10/28 6:35A",
-    "url": "https://x.com/i/trending/2115338251946922469"
-   },
-   {
-    "t": "US sold seized Anthropic shares for $627M before IPO, S-1 shows",
-    "src": "X News",
-    "time": "10/28 5:55A",
-    "url": "https://x.com/i/trending/2115140093749186599"
-   },
-   {
-    "t": "Broadcom CEO secured record $63B AI debt deal for Anthropic",
-    "src": "X News",
-    "time": "10/27 9:11P",
-    "url": "https://x.com/i/trending/2114837913443934381"
    }
   ],
   "posts": [
+   {
+    "t": "Two fears will decide the fate of Anthropic's giant IPO",
+    "src": "@FT",
+    "time": "10/29 11:07A",
+    "url": "https://x.com/FT/status/2115822793723908225"
+   },
+   {
+    "t": "DoorDash agrees to buy rival Instacart at ~$17B valuation amid delivery consolidation",
+    "src": "@business",
+    "time": "10/29 9:15A",
+    "url": "https://x.com/business/status/2115794572248838328"
+   },
+   {
+    "t": "AI Weekly: Anthropic IPO nears",
+    "src": "@Reuters",
+    "time": "10/29 9:03A",
+    "url": "https://x.com/Reuters/status/2115791682171990398"
+   },
+   {
+    "t": "DoorDash to acquire Instacart for $17B",
+    "src": "@FT",
+    "time": "10/29 8:11A",
+    "url": "https://x.com/FT/status/2115778667087368654"
+   },
    {
     "t": "Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal",
     "src": "@Reuters",
@@ -734,142 +622,118 @@
     "src": "@Reuters",
     "time": "10/28 2:43P",
     "url": "https://x.com/Reuters/status/2115514689962615172"
-   },
-   {
-    "t": "Dangote refinery closes $1.6B IPO, drawing investors across Africa",
-    "src": "@Reuters",
-    "time": "10/28 1:00P",
-    "url": "https://x.com/Reuters/status/2115488772598936035"
-   },
-   {
-    "t": "Trian offers to buy Wendy's for about $1.4B to pursue a turnaround as a private company",
-    "src": "@business",
-    "time": "10/28 11:40A",
-    "url": "https://x.com/business/status/2115468684646851026"
-   },
-   {
-    "t": "Instacart shares soar on DoorDash takeover talk",
-    "src": "@axios",
-    "time": "10/28 10:51A",
-    "url": "https://x.com/axios/status/2115456448909946911"
-   },
-   {
-    "t": "Monzo enters Spain as it refocuses growth on Europe and the UK",
-    "src": "@business",
-    "time": "10/28 10:05A",
-    "url": "https://x.com/business/status/2115444760282378473"
    }
   ]
  },
  "world": {
   "status": "ok",
-  "asOf": "Oct 29 07:10 ET",
+  "asOf": "Oct 29 12:08 ET",
   "sources": "Google News World/Business RSS, BBC World/Business RSS",
   "items": [
    {
-    "t": "Christine Lagarde to Step Down as Chief of European Central Bank",
+    "t": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
     "src": "The New York Times",
-    "time": "Oct 29 06:10 ET",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlNTZHA1c0ZVYjVybG1UOVAzU09UdjAydEpmOHgtWmZfWlFDNlpGSjNqWEFyamxqb1V4Rm5fcmhnc0FIUVprMzRoWnp2eGxJaEZrbHlDNUpmRDlIblBrZXRaNDhsZFB0Nl9naElYMHdBa2VtdmJ0bTY2MGFsV0pVT2pGaGY?oc=5",
+    "time": "Oct 29 10:10 ET",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEZlUUZDV0lCZXVLRkpodmN6VnF4WWtHdHpqNmVhWnFLZUZlNS1CUUlSWEpOR2lUTzBjSExoNm5KLWtTOVA1dzk3dmZSSTM5MWVpRmJxZDIzRlowTW1OYS16VVJzUkpNd1FMX19OZ0c4T0dNc1c4aXlaRzZWZlhqMjUxX0RweVJWVlhxZnRoaG5WbEJ5?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "U.S. GDP Increased 3.4% in Third Quarter",
+    "src": "The New York Times",
+    "time": "Oct 29 09:55 ET",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hWjFpUjZyQ0d1ZlRFNVlnTzFDMURuVDZOZ3pqaGg2UmppclZEclgwTFNQQmNFY0JpYzdmWms0Yjd3X3RsS2pDTlZXOTNkRU9fUk0yanVlclh6UmlkYWtNWFRDQzVBMEJMWjVKYXZBSW9KOS0zRVhxVzdQMA?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+    "src": "Fox Business",
+    "time": "Oct 29 10:34 ET",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tXzR6aE4tVjI0WWFkZDhaVkRhUUR2S0lfbnFTUW5LWktIM1Z4RVlNUGQ2X0xTVVFaXzJpbDZXNVRZeFhYM1JlOHRXNzRudTdHbm81NXFHcG9aUDU1WnVPN09LUXN5LThtQzlrVDJNX0dVQdIBd0FVX3lxTFBEM0VwX2EyY0JfZ1lGU3FscXFYYnQ5ZnBsM0FGZm1pNlZmbG1wQWpFREhFVGhjSXBDQzRzTGt4LUhzM2dEYVlYbXo3eTF6Y1IwOVdILTVCeXg0WE84UjJHWVZweE9rT3lPdWVKc1NZUXRNcXhGX3Fr?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+    "src": "CNBC",
+    "time": "Oct 29 10:58 ET",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaFd4eFp0OG5ucmFzMXIyaVF0NEJJNU1TMGQxQ185N1ptaktsN2tQZm9aODJkVTRNTjdMRWhZNEZqOE9qbzZFNVFvLTZpZ2lDdjBFOTJ3UURwY2FFLVNYRHBibUpVR250YVA3Q3FOdjFYNmtYSld30gF8QVVfeXFMTWRKSXl6SURkYVVLMGRNdXZ2N1BjWklhb0xxanZFeUljYjZJV0s5Smo3U1R3OHEzWXhBR1E2YWQyWU8wMko2VWVBOXg3cUlKV0lHaTRTcG9DWnF1OHJ2S1N1V3k2UGNMT2VrbUZ1LXRtUWE3Q3RGSUVLMWZyZA?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Google stock plunges 11% on Q3 earnings miss",
+    "src": "Yahoo Finance",
+    "time": "Oct 29 09:06 ET",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVp6V1VmU1hjUmdiZF93cUZHQ1B1QkhyMG9NRHBnNjh2dDhaaWpmbnFQdkNZcWdiVTZTOEZvY3JyZUhEZGRaUjFBUzM4a1BuVlZhOExkUndwa2NRb0hYdEhUazJsSzhFN1BTMzJrWTU1ZnFlQkZQUHEwS2ZvOTVQNDd2ZGl3c0ZqQTdKdXJuRkg3OGQ0VmUtYlNlQ2ZyVUlaUzhzSmNB?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "European Central Bank head resigns, allowing search for successor to begin before French election",
+    "src": "AP News",
+    "time": "Oct 29 09:36 ET",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
     "r": "EUROPE"
    },
    {
-    "t": "Nasdaq-100 futures fall 1% as Alphabet shares sell off after earnings: Live updates",
-    "src": "CNBC",
-    "time": "Oct 29 06:07 ET",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ?oc=5",
-    "r": "US"
+    "t": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    "src": "BBC",
+    "time": "Oct 29 09:19 ET",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dGJhbzZWX0F3SFg4dzFWb3ZOSTlPWW1GUnJjM1BVTmNDOWp3REZOWGRPdTVqclliZ096aVZoWUZaLVl3Ny1CSWtGbUFITTJpQ1g4Z04tX3pfV1k?oc=5",
+    "r": "EUROPE"
    },
    {
-    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
-    "src": "Bloomberg",
-    "time": "Oct 29 06:01 ET",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5",
-    "r": "GLOBAL"
+    "t": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "src": "BBC",
+    "time": "Oct 29 10:17 ET",
+    "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+    "r": "EUROPE"
    },
    {
-    "t": "Marvell Is Said to Near Megadeal for Lumentum In AI Push",
-    "src": "Bloomberg.com",
-    "time": "Oct 29 03:20 ET",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Israelis await final election results as claim of foreign interference emerges",
+    "t": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams",
     "src": "AP News",
-    "time": "Oct 29 05:45 ET",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
+    "time": "Oct 29 08:54 ET",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkdacW5ISTg1djZDV3kzbVhqOUVkNXhyQVh2bFJRT25NZ3VpSHBwZlBLZ3l4Q1lWU0lpdUhCY21BOVRMbzJtbmxxeHZ3b3VkQUZPRUNCVXY5OXdpS056emN4VU5VQjgtbFYwVjdSalkxeF84NWxHTGNoeTFlUGJvQlM2bkRaTlFTTnVQa0REX2Q4eGdISkwwdjIyc2tTYjg?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "src": "BBC",
+    "time": "Oct 29 11:47 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
     "r": "MIDEAST"
    },
    {
-    "t": "Carney to push for closer ties at Canada-EU summit in Montreal",
-    "src": "BBC",
-    "time": "Oct 29 05:51 ET",
-    "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-    "r": "GLOBAL"
+    "t": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
+    "src": "Reuters",
+    "time": "Oct 29 10:38 ET",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
+    "r": "MIDEAST"
    },
    {
-    "t": "Nvidia Chief Seen as Target of Chinese Spy Plot",
-    "src": "The New York Times",
-    "time": "Oct 29 05:01 ET",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+    "t": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "src": "BBC",
+    "time": "Oct 29 08:49 ET",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SzJwQ0N3SEQxUmZkNS1WRE5jU1pNekZpanVwZkk3dWY4RHpzU1RvUThKU1dYQmtJYlFjbkFRVkZtZ0hHTW90LUhCcGxLSGhrR20yTTN2OEpEekU?oc=5",
     "r": "CHINA"
    },
    {
-    "t": "North Korea fires missiles as row over landmine blast intensifies",
-    "src": "Al Jazeera",
-    "time": "Oct 29 03:39 ET",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWNEcnhSM3B4YWNJTXpBeTdYbFUxVFhqV21rVFlZNVpER3cyQ0NsdU5WNkxzaXN1bFVYZHJnTW4waG1XRDJjVWpXaWpud0U5N1Mxc3dWWktEUEtKblRHMDFiM1JBRUtmYTFpeWZTT2xyN0w4eTlGVFI2c3ZXMGZQbGxqb1oxY09ub2JuXzJFTDU5RWNBblh0aERfV25OTU1BaXhPcXViSHd2cjDSAbABQVVfeXFMTXhvRlVoZTFreFNlYXpVZnBXTGhYTm5HMzlTS2MyRndXcjdJWm9Xc3lleHI1V19EOWdZcHNoM0dJdVlSek1MWHFvWTlXbjlBRlJvZHBFWVZJenMxX0M2UlVBbVQta04ydE1VdFJiUHl2VF9jWmRUSGo5ZGJnX093YU85UExiLXdtXy04WXFrLUJUS1ZtOE1XZFBTWnhuMVBqWDJMbi1OWkhPc0tTb01LaVE?oc=5",
-    "r": "ASIA"
-   },
-   {
-    "t": "US and Japan to establish a Japanese facility for joint missile production",
+    "t": "North Korea fires missile barrage toward the sea as tensions with South rise",
     "src": "AP News",
-    "time": "Oct 28 22:46 ET",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGhZTGo4NjhxS19OdlZITUp2US1qdGdMVTJ6eTAtNzFIVlF2ZlNLSGVIMENDSEVTXzV5bFljdS1ZZjM0N05OdzRxOENxYUJ4UE5uWTA0eXhEZG5BcDRGbFpUSG1jQzNBWWV4U3YzOTJCc3BuaFM4QWo5RlkwZWhYSE8yMEJZaV9ZMXhVWEtaMnJwSjk2X1Zoa0ZXZ0l4VjBaOWhmQWpWLXdKLS01dGhTeEdtUUpWX3NRM0lqd25PNFdvdVlJdi1qN2R4QThZMERBQ2xUb1hQaWgwc0poNGJJ?oc=5",
+    "time": "Oct 29 05:52 ET",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
     "r": "ASIA"
    },
    {
-    "t": "Germany and other EU countries block von der Leyen's plan to give Canada 'associate membership'",
-    "src": "DW.com",
-    "time": "Oct 28 21:27 ET",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXlVOTdfOXd3OUNyVWREeGtjRFNub0o4QWItNU81QVh0d3R5cFN1cURpM3hncXpkX3I5U3k1c3MyQWJraWdnZWJHX0FKem9JaklSU2dsWi1xOFZMQ2ZXZkVsOVc2UHFVb1JGbFA2dWFhWkdRX0ZOMXNIN0luR1A0amhVSkY4Y3B1TEdVTE5XSjMta0cyU19vdEFneHjSAZwBQVVfeXFMUEFxSG9FeURWajRtVWNSYkVhQ3p3NkFsS2QtRS1vdk8ybG9jYmc3dFl6dkZPaEY1bmpSVFBHQzEtbEtBX1lPaTNZV1FQcE84SDZvb0ttZTVFY0dZY3BKUkl6ajhkR2NoX05feXVQMWs4YXlPWkdsVkhkWW5PZFc0QzRuRjRfX0xzTXJ4UWRJNFFTTHZMdVhEbFFsWTNI?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "Is Iran moving toward war or peace after Mecca alliance meeting in Tehran?",
-    "src": "DW.com",
-    "time": "Oct 28 20:03 ET",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjRmTHVncW5TX1dTcGFlRmhja1J2Ty02OGlsbGI2b3NyUTFuYWZpSmVfSnFxUTRpMDdRYUdsMlZZY05IaTAyd2d3WkNvYnloT0hLMWhrZEFUUGttSlZFRmJyZnh3MkJaWWJOcElxSFVzdWxxN2NyLUdDR0ZvaUJwcXNZZnJxR252eDQ1VXB6Y2w2YzNvQXpn0gGXAUFVX3lxTE5IQUI1bDlMeWNPWXE0Q0hKOG5pc0ZLb2VWMENld25wd0ZNYXc3S1RMQWhXa0xHZVlVbGdLcGs0Y0dZWTBGSnNzTkViUW53V0RqSmdpMTVQTzVpdk5vdmJ3cmI5UVpMNjdFYmtwa1lwa2tfb1ZSUTVNX09kaEZVQ3VpY25rZHkzOEJ1STMtRnY5MWh5TzlQQXc?oc=5",
-    "r": "MIDEAST"
-   },
-   {
-    "t": "FTC probes whether major US companies charge customers different prices using personal data",
-    "src": "Fox Business",
-    "time": "Oct 29 02:19 ET",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFNoWVI1cnZrWHExM2haeUQzTEdIVy03NHFkU2Nrd1lCU2RWY2VfeHFTbVVfTWFDbXU4b1lVdnFzYW9ORVRYRFRacmRDSzZYbTJsVVdUcWw1eFF1Y1RPMy11Vk83elRocXNuZWtsME1NcTdRU1NkSFJTYmRIQWFqVzBuNTZvc1phOUFWNGQ3Zzhud1ZzcUVDWkFCZUZaeS15Ukl2YTNHNUxLREhsRmkwUl9ROEZZTTZydGY4aV9nZjNoMmdWd0R1OUYwTnlsMXdfcFHSAdcBQVVfeXFMT3R0TUtTS25IVV9yVk52bTRrZFUxdWpxbWZCYXZwZ3I3NHFWVDMwb1BBblpXZ2dkV216ZXdJQnhJc1hmY192QkFDRy1TQkNNNndxbUcxYmJFdHZVaFVxNl9NZHhaN1lMY0tzRTlLUkQyX1BoRWVkUWc5NEFuT184V1d5MEtOOG01bm9US0dRNkIwRlEyNGJjM3VJOE55U2hBNVJaOE5FTWFUUXE4YW9SZ3BmTEJWLWhRMjBORWM4c0tXeW5NVVBuXzAyZ0pBTGJjYTRYWXM3T1U?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-    "src": "CNBC",
-    "time": "Oct 29 00:55 ET",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1ZTVHWDdKR0h1T0hXSk1rMVFuNWRqbjAwNlhqdHprT0ZpMGxaazd4S0lTOENLX1ZyQWxKYkg3SXJ2dkhSalVZaFgxS0dNaEwzc0pURzg4V2FseUlFckl6RllFRGcwSVB1WFFLSHV5bl9VYXJrX2RXdNIBfkFVX3lxTE01WWRramtFZi1MODFVT1dhNkU0NzJBZnAwU2ZJekdCWnljNG12ZmRLTmNrbFF6ZlZyaDkzRFlubDdkV1o5RmRYajVaaGVpYUp1Y21Zb0h6U1ZraFdjemFOanhvU0N4eW9obzFVM083ckNPeGhsRW1fMllraDhGQQ?oc=5",
-    "r": "ASIA"
-   },
-   {
-    "t": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "t": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
     "src": "BBC",
-    "time": "Oct 28 21:14 ET",
-    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+    "time": "Oct 29 10:58 ET",
+    "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
     "r": "LATAM"
    },
    {
-    "t": "Moscow faces over 600 Ukrainian drones overnights, flights grounded at major airports",
-    "src": "The Kyiv Independent",
-    "time": "Oct 28 18:34 ET",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDUxak9rS2xoVThYQVpmYnZaUE1wZVNsaS05cFlFUVZCSW1MN3ZfaTM4RlNSNDI3dEpoOEM5UjBjTjlXRWRYTVdxQmRJdkhFOTNPN1lFak5jby1NdlRzRGlmbmQwUzJXVXhOa2tYVGNCclhyYmE5cDZBcUpJazZrOUtrVkhyaGJtMVh0OXNRQUpBT0d5dXR0dTZLMm5XYW9zbVlka2tzVQ?oc=5",
-    "r": "EUROPE"
+    "t": "EU chief lays out vision for new Canada partnership at Montreal summit",
+    "src": "BBC",
+    "time": "Oct 29 11:14 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+    "r": "GLOBAL"
    }
   ]
  }
