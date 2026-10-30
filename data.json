@@ -1,12 +1,12 @@
 {
- "asOf": "Oct 29, 2026 4:10 PM ET (Thu close)",
+ "asOf": "Oct 30, 2026 7:10 AM ET (Fri pre-market)",
  "mk": [
   {
    "n": "S&P 500",
    "v": "7,720.39",
    "c": "-0.30%",
    "d": -0.3,
-   "s": "Yahoo ^GSPC, Thu Oct 29 close (4:09 PM ET print; vs 7,743.98 Wed close)",
+   "s": "Yahoo ^GSPC, Thu Oct 29 close (vs 7,743.98 Wed). Fri pre-mkt: ES=F 7,671.25 (-1.07%) at 6:55 AM ET",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
@@ -15,7 +15,7 @@
    "v": "26,184.72",
    "c": "-1.38%",
    "d": -1.38,
-   "s": "Yahoo ^IXIC, Thu Oct 29 close (4:09 PM ET print; vs 26,549.85 Wed close); Alphabet worst day on record after earnings",
+   "s": "Yahoo ^IXIC, Thu Oct 29 close (vs 26,549.85 Wed). Fri pre-mkt: NQ=F 28,841.25 (-2.44%) at 6:55 AM ET on Amazon/Intel results",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
@@ -24,97 +24,97 @@
    "v": "52,342.56",
    "c": "-0.25%",
    "d": -0.25,
-   "s": "Yahoo ^DJI, Thu Oct 29 close (4:09 PM ET print; vs 52,475.10 Wed close)",
+   "s": "Yahoo ^DJI, Thu Oct 29 close (vs 52,475.10 Wed). Fri pre-mkt: YM=F 52,535 (+0.04%) at 6:55 AM ET",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,854.85",
-   "c": "+0.86%",
-   "d": 0.86,
-   "s": "Yahoo ^RUT, Thu Oct 29 3:54 PM ET (vs 2,830.51 Wed close); rotation out of megacap tech",
+   "v": "2,859.22",
+   "c": "+1.01%",
+   "d": 1.01,
+   "s": "Yahoo ^RUT, Thu Oct 29 close (vs 2,830.51 Wed)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "16.49",
-   "c": "-2.48%",
-   "d": -2.48,
-   "s": "Yahoo ^VIX, Thu Oct 29 3:54 PM ET (vs 16.91 Wed close)",
+   "v": "18.59",
+   "c": "+8.08%",
+   "d": 8.08,
+   "s": "Yahoo ^VIX, Fri Oct 30 6:50 AM ET (Cboe extended hours; vs 17.20 Thu close)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
   {
    "n": "UST 2Y",
-   "v": "4.70%",
-   "c": "+2bp (10/27)",
-   "d": 0.02,
-   "s": "FRED DGS2, Tue Oct 27 (4.68% Oct 26); Oct 28 not yet posted (checked Thu 4:09 PM ET)",
+   "v": "4.67%",
+   "c": "-3bp (10/28)",
+   "d": -0.03,
+   "s": "FRED DGS2, Wed Oct 28 (4.70% Oct 27). Indicative Fri 7:06 AM ET: CNBC US2Y 4.571% (-8.5bp)",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
   {
    "n": "UST 10Y",
-   "v": "4.989%",
-   "c": "-5.6bp",
-   "d": -0.056,
-   "s": "Yahoo ^TNX, Thu Oct 29 2:59 PM ET (CBOE; vs 5.045% Wed close); Q3 GDP +3.4%",
+   "v": "4.917%",
+   "c": "-7.2bp",
+   "d": -0.072,
+   "s": "CNBC US10Y, Fri Oct 30 7:06 AM ET (vs ~4.989% Thu); FRED DGS10 5.05% Oct 28",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "102.04",
-   "c": "-0.15%",
-   "d": -0.15,
-   "s": "Yahoo DX-Y.NYB, Thu Oct 29 3:59 PM ET (vs 102.19 prior close)",
+   "v": "101.65",
+   "c": "-0.38%",
+   "d": -0.38,
+   "s": "Yahoo DX-Y.NYB, Fri Oct 30 6:55 AM ET (vs 102.04 prior close)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1174",
-   "c": "+0.00%",
-   "d": 0.0,
-   "s": "Yahoo EURUSD=X, Thu Oct 29 4:08 PM ET (vs 1.1174 prior close)",
+   "v": "1.1204",
+   "c": "+0.21%",
+   "d": 0.21,
+   "s": "Yahoo EURUSD=X, Fri Oct 30 7:04 AM ET (vs 1.1181 prior close)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "102.80",
-   "c": "+0.02%",
-   "d": 0.02,
-   "s": "Yahoo CL=F (Dec), Thu Oct 29 3:59 PM ET (vs 102.78 Wed settle); Brent Jan BZF27 111.56 (-0.07% vs 111.64); BZ=F rolled Dec to Jan",
+   "v": "104.28",
+   "c": "+2.24%",
+   "d": 2.24,
+   "s": "Yahoo CL=F (Dec), Fri Oct 30 6:55 AM ET (vs 102.00 Thu settle); Brent BZ=F 113.66; Hormuz tanker attack, Houthi claims",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "4,033.60",
-   "c": "-0.44%",
-   "d": -0.44,
-   "s": "Yahoo GC=F, Thu Oct 29 3:59 PM ET (vs 4,051.60 Wed settle)",
+   "v": "3,987.10",
+   "c": "-1.10%",
+   "d": -1.1,
+   "s": "Yahoo GC=F, Fri Oct 30 6:55 AM ET (vs 4,031.40 Thu settle)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "80,318",
-   "c": "-1.17%",
-   "d": -1.17,
-   "s": "Yahoo BTC-USD, Thu Oct 29 4:09 PM ET (vs 81,268 prior daily close; 24/7 market)",
+   "v": "77,570",
+   "c": "-0.28%",
+   "d": -0.28,
+   "s": "Yahoo BTC-USD, Fri Oct 30 7:05 AM ET (vs 77,791 prior daily close; 24/7); Binance $6.3B hack",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
   {
    "n": "US HY OAS",
    "v": "3.14%",
-   "c": "-4bp (10/28)",
-   "d": -0.04,
-   "s": "FRED BAMLH0A0HYM2, Wed Oct 28 (3.18% Oct 27); Oct 29 not yet posted",
+   "c": "0bp (10/28)",
+   "d": 0.0,
+   "s": "FRED BAMLH0A0HYM2, Wed Oct 28 (3.18% Oct 27; -4bp d/d); Oct 29 not yet posted (checked Fri 7:05 AM ET)",
    "tv": "FRED:BAMLH0A0HYM2",
    "tvn": "FRED ICE BofA HY OAS, daily"
   }
@@ -327,55 +327,59 @@
  "news": {
   "wsj": [
    {
-    "title": "Stock Market Today: Alphabet Stock Sinks in Google Parent's Worst Day on Record",
-    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026"
+    "title": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
+    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026"
    },
    {
-    "title": "DoorDash to Buy Instacart for $17 Billion",
-    "href": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f"
+    "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
+    "href": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f"
    },
    {
-    "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
-    "href": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a"
+    "title": "American Oil Giants See Profits Soar as Wars Crimp Energy Supplies",
+    "href": "https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682"
    },
    {
-    "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
-    "href": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d"
+    "title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
+    "href": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37"
    },
    {
-    "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
-    "href": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9"
+    "title": "Sanofi CEO Sets Sights on Deals to Drive Turnaround",
+    "href": "https://www.wsj.com/business/earnings/sanofi-ceo-sets-sights-on-deals-to-drive-turnaround-b61cc8e3"
    },
    {
-    "title": "Christine Lagarde to Resign Early as ECB President",
-    "href": "https://www.wsj.com/world/europe/christine-lagarde-to-resign-early-as-ecb-president-2ad844e6"
+    "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
+    "href": "https://www.wsj.com/business/deals/asian-private-equity-firm-to-buy-beleaguered-china-evergrandes-property-management-arm-0d0d5259"
    },
    {
-    "title": "Top Admiral Briefs Trump on Iran Attack Options",
-    "href": "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c"
+    "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+    "href": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c"
    },
    {
-    "title": "Chevron Is Back to Searching for Oil and Gas in Far-Flung Places",
-    "href": "https://www.wsj.com/business/energy-oil/chevron-is-back-to-searching-for-oil-and-gas-in-far-flung-places-85082fbf"
+    "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
+    "href": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1"
    },
    {
-    "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
-    "href": "https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f"
+    "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+    "href": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff"
    },
    {
-    "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
-    "href": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d"
+    "title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
+    "href": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763"
    },
    {
-    "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
-    "href": "https://www.wsj.com/world/china/chinas-xi-demands-more-loyalty-as-purges-trim-party-elite-e2cc90ab"
+    "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
+    "href": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c"
    },
    {
-    "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-    "href": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1"
+    "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
+    "href": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17"
    }
   ],
   "econ": [
+   {
+    "title": "Google’s $500bn bloodbath reflects the danger it faces from AI",
+    "href": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai"
+   },
    {
     "title": "Christine Lagarde departs at a moment of peril",
     "href": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril"
@@ -397,10 +401,6 @@
     "href": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis"
    },
    {
-    "title": "The task facing the new head of India’s biggest private bank",
-    "href": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank"
-   },
-   {
     "title": "Weil’s collapse and the death of corporate loyalty",
     "href": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty"
    },
@@ -409,12 +409,12 @@
     "href": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception"
    },
    {
-    "title": "What to make of 25 years of Narendra Modi",
-    "href": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi"
+    "title": "The task facing the new head of India’s biggest private bank",
+    "href": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank"
    },
    {
-    "title": "Andy Burnham’s government talks of change, then does nothing",
-    "href": "https://www.economist.com/leaders/2026/10/29/andy-burnhams-government-talks-of-change-then-does-nothing"
+    "title": "What to make of 25 years of Narendra Modi",
+    "href": "https://www.economist.com/leaders/2026/10/29/what-to-make-of-25-years-of-narendra-modi"
    }
   ]
  },
@@ -439,100 +439,148 @@
     "dir": 1
    }
   ],
-  "note": "Global/YTD: LSEG via Reuters, Oct 1 (Mergermarket 9M: $4.44T, +27%). Exits: PitchBook, Sep 30. Sep 2026 (Dealogic via Paul, Weiss M&A at a Glance, Oct 12): global $387.2B flat m/m; strategic $297.4B vs sponsor $89.8B (-46% m/m). Re-checked Oct 29 7 AM ET; no newer quarterly totals. Q1/Q2 split: unavailable."
+  "note": "Global/YTD: LSEG via Reuters, Oct 1 (Mergermarket 9M: $4.44T, +27%). Exits: PitchBook, Sep 30. Sep 2026 (Dealogic via Paul, Weiss M&A at a Glance, Oct 12): global $387.2B flat m/m; strategic $297.4B vs sponsor $89.8B (-46% m/m). Re-checked Oct 30 7 AM ET; no newer quarterly totals. Q1/Q2 split: unavailable."
  },
  "status": {
   "spx": "7,720.39",
   "spxChg": -0.3,
-  "tnx": "4.989%",
+  "tnx": "4.917%",
   "hy": "3.14%",
-  "updated": "THU OCT 29 2026 4:10 PM ET"
+  "updated": "FRI OCT 30 2026 7:10 AM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "10/29 4:10 PM ET",
-  "note": "X News stories (search_news, M&A 36h + markets 24h) and posts from @business/@Reuters/@FT/@WSJmarkets/@DealBook/@axios (deal keywords, since Thu noon ET plus earlier). One-line paraphrases.",
+  "asOf": "10/30 7:10 AM ET",
+  "note": "X News stories (search_news, M&A 18h + markets 14h) and posts from @business/@Reuters/@FT/@WSJmarkets/@DealBook/@axios (deal keywords, since Thu 4 PM ET plus earlier). One-line paraphrases.",
   "news": [
    {
-    "t": "Weil, Gotshal & Manges plans orderly wind-down after partner exodus",
+    "t": "Fairfax unit's planned 60.72% IDBI Bank stake purchase faces opposition pushback",
     "src": "X News",
-    "time": "10/29 4:07P",
-    "url": "https://x.com/i/trending/2115248558949695761"
+    "time": "10/30 7:03A",
+    "url": "https://x.com/i/trending/2115766736351797335"
    },
    {
-    "t": "Marvell in advanced talks to buy Lumentum (~$82B value); deal could come next week",
+    "t": "trade[XYZ] teams with ICE on US-regulated 24/7 perpetual futures; Druckenmiller invests",
     "src": "X News",
-    "time": "10/29 4:07P",
+    "time": "10/30 6:58A",
+    "url": "https://x.com/i/trending/2115756304312435149"
+   },
+   {
+    "t": "Big Oil Q3: BP earns $8.46B (18-year high), Shell $10.8B on fuel prices and refining margins",
+    "src": "X News",
+    "time": "10/30 6:57A",
+    "url": "https://x.com/i/trending/2116094041414578347"
+   },
+   {
+    "t": "DoorDash–Instacart $17B deal draws antitrust and labor criticism; close seen late 2027–early 2028",
+    "src": "X News",
+    "time": "10/30 6:10A",
+    "url": "https://x.com/i/trending/2115769648897573105"
+   },
+   {
+    "t": "Gold slips toward $4,000 on rate-hike bets after hot September PCE and oil pressure",
+    "src": "X News",
+    "time": "10/30 5:21A",
+    "url": "https://x.com/i/trending/2116044329626067444"
+   },
+   {
+    "t": "Weil Gotshal wind-down: AlixPartners runs process outside bankruptcy; rivals court lawyers",
+    "src": "X News",
+    "time": "10/30 4:07A",
+    "url": "https://x.com/i/trending/2115972939698844065"
+   },
+   {
+    "t": "Stock futures slide: Nasdaq-100 off 2%+, S&P 500 1%+ after Alphabet, Amazon, and Intel results stoke AI-spend doubts",
+    "src": "X News",
+    "time": "10/30 1:45A",
+    "url": "https://x.com/i/trending/2115627536398827983"
+   },
+   {
+    "t": "Thrive–ADT take-private: $7.6B equity, $15.3B incl. debt; Apollo financing; Q1 2027 close",
+    "src": "X News",
+    "time": "10/29 10:24P",
+    "url": "https://x.com/i/trending/2115806833093017750"
+   },
+   {
+    "t": "Marvell–Lumentum talks: announcement possible next week; MRVL fell 10%+ after hours on report",
+    "src": "X News",
+    "time": "10/29 7:20P",
     "url": "https://x.com/i/trending/2115553119920672895"
+   },
+   {
+    "t": "Eli Lilly at record high after Q3 revenue +39% to $24.4B; FY guide raised to $91–92B",
+    "src": "X News",
+    "time": "10/29 7:09P",
+    "url": "https://x.com/i/trending/2115760741894828107"
+   },
+   {
+    "t": "Silver breaks below 200-day average, hits ~$52 lows",
+    "src": "X News",
+    "time": "10/29 6:45P",
+    "url": "https://x.com/i/trending/2115796609602822652"
    },
    {
     "t": "Fed held at 3.75%-4.00% in 10-2 vote; Cook and Hammack dissented for a hike",
     "src": "X News",
-    "time": "10/29 4:07P",
+    "time": "10/29 6:22P",
     "url": "https://x.com/i/trending/2115497447732445567"
-   },
-   {
-    "t": "Q3 GDP +3.4% annualized vs 3.2% expected; AI capex and consumer spending lead",
-    "src": "X News",
-    "time": "10/29 3:53P",
-    "url": "https://x.com/i/trending/2115784882685428127"
-   },
-   {
-    "t": "Shell Q3 adjusted profit nearly doubles to $10.8B on record refining margins",
-    "src": "X News",
-    "time": "10/29 3:52P",
-    "url": "https://x.com/i/trending/2115727771938750743"
-   },
-   {
-    "t": "Thrive Holdings to buy ADT for $15.3B all-cash ($10/sh, 45.6% premium); Apollo funds financing",
-    "src": "X News",
-    "time": "10/29 3:39P",
-    "url": "https://x.com/i/trending/2115806833093017750"
-   },
-   {
-    "t": "DoorDash to acquire Instacart for $17B; holders can elect $65/sh cash, stock, or a mix",
-    "src": "X News",
-    "time": "10/29 3:26P",
-    "url": "https://x.com/i/trending/2115769648897573105"
-   },
-   {
-    "t": "SPY pinned near 768 despite GDP beat",
-    "src": "X News",
-    "time": "10/29 3:14P",
-    "url": "https://x.com/i/trending/2115792662326345999"
-   },
-   {
-    "t": "Fairfax unit's planned 60.72% IDBI Bank stake purchase draws opposition pushback",
-    "src": "X News",
-    "time": "10/29 3:14P",
-    "url": "https://x.com/i/trending/2115766736351797335"
-   },
-   {
-    "t": "Gold hovers near $4,000 after Fed hold",
-    "src": "X News",
-    "time": "10/29 3:02P",
-    "url": "https://x.com/i/trending/2115880095810502970"
-   },
-   {
-    "t": "Small caps rise as megacap tech falters on Alphabet results",
-    "src": "X News",
-    "time": "10/29 1:58P",
-    "url": "https://x.com/i/trending/2115863520990642190"
-   },
-   {
-    "t": "Kalshi raises $1B Series G at $40B valuation",
-    "src": "X News",
-    "time": "10/29 12:11P",
-    "url": "https://x.com/i/trending/2115798600798089301"
-   },
-   {
-    "t": "Trian-led group offers $1.4B ($7.35/sh) to take Wendy's private",
-    "src": "X News",
-    "time": "10/29 12:51A",
-    "url": "https://x.com/i/trending/2115424847480422769"
    }
   ],
   "posts": [
+   {
+    "t": "Evonik refuses talks with BASF even as BASF pursues a €10.3B takeover",
+    "src": "@business",
+    "time": "10/30 6:15A",
+    "url": "https://x.com/business/status/2116111657659154625"
+   },
+   {
+    "t": "Milei's free-market model creates winners and losers; Wall Street eyes re-election risk",
+    "src": "@business",
+    "time": "10/30 6:55A",
+    "url": "https://x.com/business/status/2116121717491879940"
+   },
+   {
+    "t": "Morning Bid: one last central bank surprise",
+    "src": "@Reuters",
+    "time": "10/30 6:30A",
+    "url": "https://x.com/Reuters/status/2116115433556213791"
+   },
+   {
+    "t": "Nvidia in talks to provide credit support for Nscale's deal with Anthropic (The Information)",
+    "src": "@Reuters",
+    "time": "10/30 4:45A",
+    "url": "https://x.com/Reuters/status/2116089003443175853"
+   },
+   {
+    "t": "Tesco agrees to sell Czech and Slovak supermarket division in €1.7B deal",
+    "src": "@business",
+    "time": "10/30 4:25A",
+    "url": "https://x.com/business/status/2116083969259082155"
+   },
+   {
+    "t": "Qatari mediators back in Tehran pushing for a US-Iran deal",
+    "src": "@Reuters",
+    "time": "10/30 3:40A",
+    "url": "https://x.com/Reuters/status/2116072652934635814"
+   },
+   {
+    "t": "Monte dei Paschi fights for its future as Intesa nears takeover",
+    "src": "@Reuters",
+    "time": "10/29 11:10P",
+    "url": "https://x.com/Reuters/status/2116004699874730416"
+   },
+   {
+    "t": "Breakingviews: Marvell's optical deal looks dangerously myopic",
+    "src": "@Reuters",
+    "time": "10/29 10:10P",
+    "url": "https://x.com/Reuters/status/2115989600271261913"
+   },
+   {
+    "t": "Mondelez to acquire majority stake in Undercover Snacks",
+    "src": "@business",
+    "time": "10/29 8:20P",
+    "url": "https://x.com/business/status/2115961924953186476"
+   },
    {
     "t": "Orange unit signs deal for Mistral's latest AI cybersecurity model",
     "src": "@Reuters",
@@ -568,171 +616,117 @@
     "src": "@Reuters",
     "time": "10/29 9:03A",
     "url": "https://x.com/Reuters/status/2115791682171990398"
-   },
-   {
-    "t": "DoorDash to acquire Instacart for $17B",
-    "src": "@FT",
-    "time": "10/29 8:11A",
-    "url": "https://x.com/FT/status/2115778667087368654"
-   },
-   {
-    "t": "Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal",
-    "src": "@Reuters",
-    "time": "10/29 5:45A",
-    "url": "https://x.com/Reuters/status/2115741736366489847"
-   },
-   {
-    "t": "South Africa antitrust authority clears Harith General Partners' FlySafair acquisition",
-    "src": "@business",
-    "time": "10/29 4:55A",
-    "url": "https://x.com/business/status/2115729132403179645"
-   },
-   {
-    "t": "Asia OneHealthcare files draft prospectus for Malaysia IPO",
-    "src": "@Reuters",
-    "time": "10/29 4:45A",
-    "url": "https://x.com/Reuters/status/2115726625199305077"
-   },
-   {
-    "t": "Big Caring launches IPO valuing Malaysian pharmacy chain at $2B",
-    "src": "@Reuters",
-    "time": "10/29 3:20A",
-    "url": "https://x.com/Reuters/status/2115705225004601539"
-   },
-   {
-    "t": "Some Australian investment chiefs cautious on Anthropic's IPO",
-    "src": "@business",
-    "time": "10/29 2:10A",
-    "url": "https://x.com/business/status/2115687610186096816"
-   },
-   {
-    "t": "Big Caring Group offering up to $565M in Malaysia's second-largest IPO this year",
-    "src": "@business",
-    "time": "10/29 1:55A",
-    "url": "https://x.com/business/status/2115683832036749439"
-   },
-   {
-    "t": "Asian investors turn to proxy trades to get Anthropic IPO exposure",
-    "src": "@business",
-    "time": "10/29 1:28A",
-    "url": "https://x.com/business/status/2115677112442958207"
-   },
-   {
-    "t": "Nigerian investors already meet base target for Dangote refinery IPO",
-    "src": "@business",
-    "time": "10/29 12:15A",
-    "url": "https://x.com/business/status/2115658672156057899"
    }
   ]
  },
  "world": {
   "status": "ok",
-  "asOf": "Oct 29 16:10 ET",
+  "asOf": "Oct 30 07:10 ET",
   "sources": "Google News World/Business RSS, BBC World/Business RSS",
   "items": [
    {
-    "t": "Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates",
-    "src": "WSJ",
-    "time": "Oct 29 15:55 ET",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-    "src": "The New York Times",
-    "time": "Oct 29 15:27 ET",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-    "r": "CHINA"
-   },
-   {
-    "t": "Polymarket trading halted after vendor compromise; impacted users will be ‘made whole’",
-    "src": "NBC News",
-    "time": "Oct 29 15:09 ET",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjhhcjAzYkM3ZW9XRGVUSzFFWFpfUGcwYkZ3ZVowWGlVWXN4ZmhWMW5tRzVXckZpejZwTTlrb2NqRnBvOERlTVY1ZTJuVWpvTzh6NVFKWE94dk5NZ1JkTS1OVlJHZnVBRlRKeTZ6a3R6a2QxVTVHcXhyLUFtU3U1cEFNM0toZzdMVXVCMG9ROVpiQXc?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Robust consumer spending, AI-related investment power US economy in third quarter",
+    "t": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
     "src": "Reuters",
-    "time": "Oct 29 13:42 ET",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
+    "time": "Oct 30 05:33 ET",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
     "r": "US"
    },
    {
-    "t": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-    "src": "BBC",
-    "time": "Oct 29 11:05 ET",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wakoteTZBR29NLXlwdTcya3FwV3VEVE42eVRRdzc3ejl1TVlUX2diZ25SV0tRMWxybWN2UVdMZmp3VzBySHNQSTBOcGlDUzZBblBfajh1UDhSamM?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Christine Lagarde to Step Down as President of European Central Bank",
-    "src": "The New York Times",
-    "time": "Oct 29 13:19 ET",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlNTZHA1c0ZVYjVybG1UOVAzU09UdjAydEpmOHgtWmZfWlFDNlpGSjNqWEFyamxqb1V4Rm5fcmhnc0FIUVprMzRoWnp2eGxJaEZrbHlDNUpmRDlIblBrZXRaNDhsZFB0Nl9naElYMHdBa2VtdmJ0bTY2MGFsV0pVT2pGaGY?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "After losing his majority, Netanyahu tries to delegitimize election results",
-    "src": "Axios",
-    "time": "Oct 29 13:47 ET",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1MxOU10cThhNXVWRU1vclF4YkpBaXdscDA4QmFXR2tvS1dXbnRmeFR6dnEwX0I1VlRHcVF1QVJZdjItclJ3d2s2cXl4aW9fSWRXRUc0R0daQkQ4SGZrTTRGX1YtSWVNRWRaN2tfX0ZjanZDbmV0Ym5kNDZOT3hYR1NURVo?oc=5",
-    "r": "MIDEAST"
-   },
-   {
-    "t": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-    "src": "Al Jazeera",
-    "time": "Oct 29 12:52 ET",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
-    "r": "MIDEAST"
-   },
-   {
-    "t": "Greek container ship sinks after drone attack off Bulgaria",
-    "src": "Reuters",
-    "time": "Oct 29 13:42 ET",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "At least 14 people killed in Russian attack on Dnipro train station",
-    "src": "Al Jazeera",
-    "time": "Oct 29 13:27 ET",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "Protests erupt in Spain after train crash kills dozens",
-    "src": "NBC News",
-    "time": "Oct 29 15:05 ET",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5NQUtvdE44Z3FvSHVNNVlqVGpIc0E0ekZJSDdEVC1POHBhd2JYWEpoU2FrLTVOdmVubXA2V1FtX2xtWkJ4dzRkOHlrZHlmMVFvUUZLLUI2d0hhTW5FZTdUeExZWU1KemFkSUJwNlI4RmxjZ1FucEl4T3ZScHBpc2JEbjZtai1haWFCVGozdmFLUDUzZVBvZndHQ3VCaXNlMURtOEZHdHFBUDZ4VTRUemxHZ2Y?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "EU chief lays out vision for new Canada partnership at Montreal summit",
-    "src": "BBC",
-    "time": "Oct 29 13:02 ET",
-    "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+    "t": "Global tech rout deepens as US earnings stoke AI spending fears",
+    "src": "Financial Times",
+    "time": "Oct 30 02:40 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
     "r": "GLOBAL"
    },
    {
-    "t": "North Korea fires missile barrage toward the sea as tensions with South rise",
-    "src": "AP News",
-    "time": "Oct 29 12:57 ET",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
-    "r": "ASIA"
-   },
-   {
-    "t": "US and Japan agree to establish a Japanese facility for joint missile production",
-    "src": "AP News",
-    "time": "Oct 29 10:32 ET",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGhZTGo4NjhxS19OdlZITUp2US1qdGdMVTJ6eTAtNzFIVlF2ZlNLSGVIMENDSEVTXzV5bFljdS1ZZjM0N05OdzRxOENxYUJ4UE5uWTA0eXhEZG5BcDRGbFpUSG1jQzNBWWV4U3YzOTJCc3BuaFM4QWo5RlkwZWhYSE8yMEJZaV9ZMXhVWEtaMnJwSjk2X1Zoa0ZXZ0l4VjBaOWhmQWpWLXdKLS01dGhTeEdtUUpWX3NRM0lqd25PNFdvdVlJdi1qN2R4QThZMERBQ2xUb1hQaWgwc0poNGJJ?oc=5",
-    "r": "ASIA"
-   },
-   {
-    "t": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+    "t": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
     "src": "BBC",
-    "time": "Oct 29 10:58 ET",
-    "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+    "time": "Oct 30 05:33 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+    "r": "GLOBAL"
+   },
+   {
+    "t": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+    "src": "WSJ",
+    "time": "Oct 30 04:14 ET",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxidnBpVnk4eUFpanJoNTlqNS1FUGxkeGl2QVVSc2d0ZU5rRXVDRUF6NXhfRFQwRl83dlZWM19YZzRBM1VOQ0Z6NEZ5emZibm1TTGgya1ZPRXB6YjFPSGstdUh2ZDJidXZfX01PZTMyV0tNd25zc2oySFVEdjdnN0RBYXg5RERSVXFkVlh6ZVBEQmlWRnFBdThiU2trTGI2UjBrNXdxajVHZTZI?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "Qatari mediators return to Tehran to push for US-Iran deal, official says",
+    "src": "Reuters",
+    "time": "Oct 30 03:25 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnF1OHJuNjZ6ekdJU25nLXhCNGFUaXB0V2FHRktTVWo0bjBETVRCSTJLM0tnWm5CaXI1TGV5enRhcUxIOEc1Y0dlcXNTMmd6NWdxWVFGa3BNbi1uazdEeG9ZSmR5QWVPdW5hRzVxek12RlgySGc2MTJ2Wlo0SkVzcmc5ZmRXRnVCYjlXeW9ZUGlwalAxdWJJUUpSUDRhdDEwX0RnMlE4eGlkSlBrY21VbWs2Smw3NkE?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+    "src": "Al Jazeera",
+    "time": "Oct 29 20:15 ET",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+    "src": "CNBC",
+    "time": "Oct 29 23:16 ET",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8talZyVVhDS3lTcklPWGVGZ0RpajdfY0FzaWNYNEhRTzZaSDlqMHU3eFdFRmgyc241UnJSRGN4RHdlOC0zQ0taR3YyeGVwdWJjVXdFbWxLWHFRMVZKLVR4TkNyMDh3VU5RdjVjbnVLcFbSAXZBVV95cUxPVkFxbzREZEFuS3drT0c1ZFpvZWJuYzRqY1dBd0lnRzBNTUJsRDhaYlFHdGo2WkFvWUNHQzVGcFBOd3loYXhXM3FUbmUzS2IwU2I5cXhYTHd5Ykx1WlZERVhFVUhNUUozXzRwRFJsNXBnSDJJWFl3?oc=5",
+    "r": "ASIA"
+   },
+   {
+    "t": "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
+    "src": "AP News",
+    "time": "Oct 29 23:42 ET",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "French centrists' feuding increases odds of Le Pen-Melenchon runoff",
+    "src": "Reuters",
+    "time": "Oct 30 03:55 ET",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+    "src": "Reuters",
+    "time": "Oct 30 01:04 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+    "r": "EUROPE"
+   },
+   {
+    "t": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta",
+    "src": "AP News",
+    "time": "Oct 30 00:02 ET",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05KUnNfZG1OODZTY3RxWXpQTFozVkVHUkp1Sk9NVTVjWG1NVjlCM1hwY2VjSEZaSzJmaWZXNllQZVJUZWdCbkJlc2lBZFZMem5COUNVT2RidUdBTV9RUXZOVC15OFVmUWVnOVotRW5xVzZ3S1VCeWZPTUZoN2tLaVMweVl2NVRaV3l0RHg5ZFA0TXUxOVVTcw?oc=5",
+    "r": "GLOBAL"
+   },
+   {
+    "t": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+    "src": "The Guardian",
+    "time": "Oct 29 23:26 ET",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW1fNEkyLUg4X0xSb3JvcFhReFR1SlA0M0tTaF9QWHhZS1dZOG9ucEhoM3c2ZG1hd3U4elN2RUQzWnlUemRUeGJ2NnhPR1BseHpjOElLWGhvdHdUMmk0Z3NsTXp6MHMwcGZocVRwLWRQQXVkNmRrVWNtRDVham9rVW9NVDA2OHVmbVJwSlRxbno1TTNCdUEyOHZkV0l0cUhkcXdKVGdjMWRudnVZRDlXeTJZRjZwcndWNDFLOTNWY3hDelE5WXkzQQ?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "China trade accord with Swiss bucks wider trend towards protectionism",
+    "src": "Reuters",
+    "time": "Oct 29 19:06 ET",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Netanyahu alleges stolen election as he seeks political survival amid uncertainty",
+    "src": "The Washington Post",
+    "time": "Oct 30 01:35 ET",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnRJTGF6azN5ZXhTaUZKazRnSUVBb2FoVzJldXJTdEQ2MzVxNjZsYndaNWYzb3hROFI4QUUxZlk3SkEybnVjTUpZOS1hbzVUd1dlNkNyQXMtNTkxeVBVLXMzVGk5RVh5TEJMT1MxVVh0S2xwTzduc1YxZjkwemtnWVIyTjFQc05HaTFKbHVLQXo2NnZTTWVnc05QcFFCLWJzUVYwVWNfU0pqY3F6d1Z1ellVVjNnOEZNdU9mdkcyRE5Ic25aTGc?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "Venezuela opposition leader María Machado calls for elections upon return",
+    "src": "BBC",
+    "time": "Oct 29 17:05 ET",
+    "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
     "r": "LATAM"
    }
   ]
