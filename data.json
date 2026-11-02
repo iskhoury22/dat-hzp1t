@@ -1,48 +1,48 @@
 {
- "asOf": "Nov 2, 2026 12:10 PM ET (Mon intraday)",
+ "asOf": "Nov 2, 2026 4:09 PM ET (Mon close)",
  "mk": [
   {
    "n": "S&P 500",
-   "v": "7,620.76",
-   "c": "+0.54%",
-   "d": 0.54,
-   "s": "Yahoo ^GSPC, Mon Nov 2 12:08 PM ET intraday (vs 7,580.07 Fri close)",
+   "v": "7,541.40",
+   "c": "-0.51%",
+   "d": -0.51,
+   "s": "Yahoo ^GSPC, Mon Nov 2 4:09 PM ET close (vs 7,580.07 Fri close); erased a ~1.1% morning gain as chips sold off",
    "tv": "FOREXCOM:SPXUSD",
    "tvn": "S&P 500 CFD (FOREXCOM)"
   },
   {
    "n": "NASDAQ",
-   "v": "25,594.77",
-   "c": "+0.62%",
-   "d": 0.62,
-   "s": "Yahoo ^IXIC, Mon Nov 2 12:08 PM ET intraday (vs 25,437.00 Fri close)",
+   "v": "25,164.32",
+   "c": "-1.07%",
+   "d": -1.07,
+   "s": "Yahoo ^IXIC, Mon Nov 2 4:09 PM ET close (vs 25,437.00 Fri close); chip rout weighed",
    "tv": "FOREXCOM:NSXUSD",
    "tvn": "Nasdaq-100 CFD proxy (FOREXCOM)"
   },
   {
    "n": "DOW",
-   "v": "52,289.07",
-   "c": "+1.00%",
-   "d": 1.0,
-   "s": "Yahoo ^DJI, Mon Nov 2 12:08 PM ET intraday (vs 51,770.31 Fri close)",
+   "v": "51,983.98",
+   "c": "+0.41%",
+   "d": 0.41,
+   "s": "Yahoo ^DJI, Mon Nov 2 4:09 PM ET close (vs 51,770.31 Fri close)",
    "tv": "FOREXCOM:DJI",
    "tvn": "Dow CFD (FOREXCOM)"
   },
   {
    "n": "RUSSELL 2K",
-   "v": "2,841.36",
-   "c": "+1.05%",
-   "d": 1.05,
-   "s": "Yahoo ^RUT, Mon Nov 2 11:53 AM ET intraday (vs 2,811.84 Fri close)",
+   "v": "2,811.25",
+   "c": "-0.02%",
+   "d": -0.02,
+   "s": "Yahoo ^RUT, Mon Nov 2 3:54 PM ET close (vs 2,811.84 Fri close)",
    "tv": "AMEX:IWM",
    "tvn": "IWM ETF proxy"
   },
   {
    "n": "VIX",
-   "v": "18.81",
-   "c": "-3.14%",
-   "d": -3.14,
-   "s": "Yahoo ^VIX, Mon Nov 2 11:53 AM ET intraday (vs 19.42 Fri close)",
+   "v": "21.39",
+   "c": "+10.14%",
+   "d": 10.14,
+   "s": "Yahoo ^VIX, Mon Nov 2 3:54 PM ET close (vs 19.42 Fri close)",
    "tv": "CAPITALCOM:VIX",
    "tvn": "VIX CFD (Capital.com)"
   },
@@ -51,61 +51,61 @@
    "v": "4.61%",
    "c": "-6bp (10/29)",
    "d": -0.06,
-   "s": "FRED DGS2, Thu Oct 29 (latest posted as of Mon 12:05 PM ET; 4.67% Oct 28)",
+   "s": "FRED DGS2, Thu Oct 29 (latest posted as of Mon 4 PM ET; 4.67% Oct 28); Nov 2 close unavailable from FRED",
    "tv": "FRED:DGS2",
    "tvn": "FRED DGS2, daily"
   },
   {
    "n": "UST 10Y",
-   "v": "4.884%",
-   "c": "-4.5bp",
-   "d": -0.045,
-   "s": "Yahoo ^TNX, Mon Nov 2 11:53 AM ET (vs 4.929% Fri); FRED DGS10 4.98% Oct 29 (latest posted)",
+   "v": "4.894%",
+   "c": "-3.5bp",
+   "d": -0.035,
+   "s": "Yahoo ^TNX, Mon Nov 2 2:59 PM ET close (vs 4.929% Fri); FRED DGS10 4.98% Oct 29 (latest posted)",
    "tv": "FRED:DGS10",
    "tvn": "FRED DGS10, daily"
   },
   {
    "n": "DXY",
-   "v": "101.68",
-   "c": "-0.19%",
-   "d": -0.19,
-   "s": "Yahoo DX-Y.NYB, Mon Nov 2 11:58 AM ET latest (vs 101.88 Fri close)",
+   "v": "101.75",
+   "c": "-0.13%",
+   "d": -0.13,
+   "s": "Yahoo DX-Y.NYB, Mon Nov 2 3:59 PM ET latest (vs 101.88 Fri close)",
    "tv": "CAPITALCOM:DXY",
    "tvn": "DXY CFD (Capital.com)"
   },
   {
    "n": "EUR/USD",
-   "v": "1.1210",
-   "c": "+0.24%",
-   "d": 0.24,
-   "s": "Yahoo EURUSD=X, Mon Nov 2 12:08 PM ET latest (vs 1.1183 Thu Oct 29 bar; Fri bar missing)",
+   "v": "1.1194",
+   "c": "+0.10%",
+   "d": 0.1,
+   "s": "Yahoo EURUSD=X, Mon Nov 2 4:08 PM ET latest (vs 1.1183 Thu Oct 29 bar; Fri bar missing)",
    "tv": "FX:EURUSD",
    "tvn": "FXCM spot"
   },
   {
    "n": "WTI",
-   "v": "96.51",
-   "c": "-7.31%",
-   "d": -7.31,
-   "s": "Yahoo CL=F, Mon Nov 2 11:58 AM ET latest (Dec) (vs 104.12 Fri settle); Brent BZ=F 104.51; US-Iran diplomacy eases supply fears",
+   "v": "95.74",
+   "c": "-8.05%",
+   "d": -8.05,
+   "s": "Yahoo CL=F, Mon Nov 2 3:59 PM ET latest (Dec) (vs 104.12 Fri settle); Brent BZ=F 103.84; US-Iran diplomacy eases supply fears",
    "tv": "TVC:USOIL",
    "tvn": "WTI CFD (TVC)"
   },
   {
    "n": "GOLD",
-   "v": "3,977.10",
-   "c": "+2.01%",
-   "d": 2.01,
-   "s": "Yahoo GC=F, Mon Nov 2 11:58 AM ET latest (vs 3,898.90 Fri settle); rebounding from near one-year low",
+   "v": "3,955.50",
+   "c": "+1.45%",
+   "d": 1.45,
+   "s": "Yahoo GC=F, Mon Nov 2 3:59 PM ET latest (vs 3,898.90 Fri settle)",
    "tv": "TVC:GOLD",
    "tvn": "Spot gold (TVC)"
   },
   {
    "n": "BTC",
-   "v": "77,305",
-   "c": "-1.21%",
-   "d": -1.21,
-   "s": "Yahoo BTC-USD, Mon Nov 2 12:08 PM ET latest (vs 78,248 Sat daily close); 24/7",
+   "v": "76,758",
+   "c": "-1.90%",
+   "d": -1.9,
+   "s": "Yahoo BTC-USD, Mon Nov 2 4:09 PM ET latest (vs 78,248 10/31 daily close); 24/7; slipped below $77K in the afternoon",
    "tv": "BITSTAMP:BTCUSD",
    "tvn": "Bitstamp spot"
   },
@@ -114,7 +114,7 @@
    "v": "3.44%",
    "c": "+18bp (10/30)",
    "d": 0.18,
-   "s": "FRED BAMLH0A0HYM2, Fri Oct 30 (3.26% Oct 29); latest posted as of Mon 12:05 PM ET",
+   "s": "FRED BAMLH0A0HYM2, Fri Oct 30 (3.26% Oct 29); latest posted as of Mon 4 PM ET",
    "tv": "FRED:BAMLH0A0HYM2",
    "tvn": "FRED ICE BofA HY OAS, daily"
   }
@@ -347,44 +347,40 @@
  "news": {
   "wsj": [
    {
+    "title": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears",
+    "href": "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0"
+   },
+   {
     "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
     "href": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6"
    },
    {
-    "title": "Oil Down More than 6% on Middle East Diplomatic Breakthrough Hopes",
-    "href": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6"
+    "title": "Stock Market Today: Nasdaq Turns Lower; Dow Rises After Friday's Selloff",
+    "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026"
    },
    {
     "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
     "href": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f"
    },
    {
-    "title": "U.S. Factory Activity Expands in October",
-    "href": "https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-in-october-72c3b8bb"
+    "title": "Estee Lauder Lifts Outlook, Posts Higher Sales as Turnaround Bears Fruit",
+    "href": "https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f"
    },
    {
     "title": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback",
     "href": "https://www.wsj.com/world/middle-east/americas-gulf-allies-prepare-for-new-round-of-strikes-on-iranand-the-blowback-b4041a67"
    },
    {
-    "title": "Stock Futures Higher, Oil Lower as Investors Return to Risk",
-    "href": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294"
+    "title": "U.S. Factory Activity Expands in October",
+    "href": "https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-in-october-72c3b8bb"
    },
    {
-    "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
-    "href": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3"
+    "title": "U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+    "href": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7"
    },
    {
-    "title": "Gold Futures Pick Up Amid Falling Oil Prices",
-    "href": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860"
-   },
-   {
-    "title": "Sterling Could Fall if BOE Dampens Rate-Rise Bets",
-    "href": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350"
-   },
-   {
-    "title": "Estee Lauder Lifts Outlook, Posts Higher Sales as Turnaround Bears Fruit",
-    "href": "https://www.wsj.com/business/retail/estee-lauder-posts-higher-profit-sales-as-turnaround-bears-fruit-14072a3f"
+    "title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
+    "href": "https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858"
    },
    {
     "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
@@ -397,6 +393,14 @@
    {
     "title": "BOE Expected to Join Peers in Raising Key Rate",
     "href": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b"
+   },
+   {
+    "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+    "href": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f"
+   },
+   {
+    "title": "This Bond Measure Says Stocks Are Cheap. Don’t Believe It.",
+    "href": "https://www.wsj.com/finance/investing/this-bond-measure-says-stocks-are-cheap-dont-believe-it-1db3069a"
    }
   ],
   "econ": [
@@ -467,94 +471,160 @@
     "dir": 1
    }
   ],
-  "note": "Global/YTD: LSEG via Reuters, Oct 1 (Mergermarket 9M: $4.44T, +27%). Exits: PitchBook, Sep 30. Sep 2026 (Dealogic via Paul, Weiss M&A at a Glance, Oct 12): global $387.2B flat m/m; strategic $297.4B vs sponsor $89.8B (-46% m/m). Re-checked Nov 2 12 PM ET; no October monthly totals yet. Marvell-Lumentum ($115B, Nov 2) is the largest-ever public tech merger (Axios). Q1/Q2 split: unavailable. Financing: $131B (8.3%) of Morningstar Leveraged Loan Index loans priced below 80 cents, most since May 2020 (PitchBook data via Axios, Oct 29)."
+  "note": "Global/YTD: LSEG via Reuters, Oct 1 (Mergermarket 9M: $4.44T, +27%). Exits: PitchBook, Sep 30. Sep 2026 (Dealogic via Paul, Weiss M&A at a Glance, Oct 12): global $387.2B flat m/m; strategic $297.4B vs sponsor $89.8B (-46% m/m). Re-checked Nov 2 4 PM ET; no October monthly totals yet. Marvell-Lumentum ($115B, Nov 2) is the largest-ever public tech merger (Axios) and gives 2026 the record for most announced $10B+ deals (Bloomberg data, Nov 2). Q1/Q2 split: unavailable. Financing: $131B (8.3%) of Morningstar Leveraged Loan Index loans priced below 80 cents, most since May 2020 (PitchBook data via Axios, Oct 29)."
  },
  "status": {
-  "spx": "7,620.76",
-  "spxChg": 0.54,
-  "tnx": "4.884%",
+  "spx": "7,541.40",
+  "spxChg": -0.51,
+  "tnx": "4.894%",
   "hy": "3.44%",
-  "updated": "MON NOV 02 2026 12:10 PM ET"
+  "updated": "MON NOV 02 2026 4:09 PM ET"
  },
  "x": {
   "status": "ok",
-  "asOf": "11/02 12:10 PM ET",
-  "note": "X News stories (search_news, M&A 12h + markets 8h) and posts from @business/@Reuters/@FT/@WSJmarkets/@DealBook/@axios (deal/market keywords, since 7 AM ET). One-line paraphrases.",
+  "asOf": "11/02 4:09 PM ET",
+  "note": "X News stories (search_news, M&A 6h + markets 5h) and posts from @business/@Reuters/@FT/@WSJmarkets/@DealBook/@axios (deal/market keywords, since noon ET plus earlier). One-line paraphrases.",
   "news": [
    {
-    "t": "JPMorgan wins approval for merchant bank in Nigeria after CBN reforms",
+    "t": "Apple reports fiscal Q4 after the close under new CEO Ternus; Street sees ~$113.4B revenue",
     "src": "X News",
-    "time": "11/02 12:01P",
-    "url": "https://x.com/i/trending/2116956096854118649"
+    "time": "11/02 3:55P",
+    "url": "https://x.com/i/trending/2117358121823740393"
    },
    {
-    "t": "SPY rebounds toward 760 after Friday selloff; Apple, Palantir earnings after close",
+    "t": "Intel extends slide ~6% Monday after Friday's 29% plunge on weak guidance",
     "src": "X News",
-    "time": "11/02 11:39A",
-    "url": "https://x.com/i/trending/2117268955790463228"
+    "time": "11/02 3:47P",
+    "url": "https://x.com/i/trending/2116644676329406627"
+   },
+   {
+    "t": "Micron falls 3.5% Monday, ~20% off October highs despite record revenue",
+    "src": "X News",
+    "time": "11/02 3:47P",
+    "url": "https://x.com/i/trending/2117335960962634202"
+   },
+   {
+    "t": "Stocks shed up to ~$1T in 2.5 hours on Iran warnings; Bitcoin slips below $77K",
+    "src": "X News",
+    "time": "11/02 3:45P",
+    "url": "https://x.com/i/trending/2117354878737764518"
+   },
+   {
+    "t": "Meta prepares at least $20B dollar-and-euro bond sale to fund AI spending",
+    "src": "X News",
+    "time": "11/02 3:30P",
+    "url": "https://x.com/i/trending/2117314829610516501"
+   },
+   {
+    "t": "Amazon rebounds 5%+ after Phillip Securities upgrade to Buy",
+    "src": "X News",
+    "time": "11/02 3:30P",
+    "url": "https://x.com/i/trending/2117285739558027374"
+   },
+   {
+    "t": "Cadillac F1 team owner reportedly seeks ~$3B sale (Sportico)",
+    "src": "X News",
+    "time": "11/02 3:15P",
+    "url": "https://x.com/i/trending/2117347310065651924"
    },
    {
     "t": "Marvell to buy Lumentum in $115B all-stock deal; 4.5 MRVL shares per LITE, 23.9% premium",
     "src": "X News",
-    "time": "11/02 11:39A",
+    "time": "11/02 3:02P",
     "url": "https://x.com/i/trending/2117228744737980854"
    },
    {
-    "t": "Oracle shares fall ~5% after filing full $20B stock-and-bond raise for AI buildout",
+    "t": "Cerebras drops below $100 for first time since IPO ahead of Nov 9 lockup expiry",
     "src": "X News",
-    "time": "11/02 10:32A",
-    "url": "https://x.com/i/trending/2117241746157666319"
+    "time": "11/02 3:01P",
+    "url": "https://x.com/i/trending/2117291067083022537"
    },
    {
     "t": "tZERO to go public via SPAC merger with FG Imperii at $350M pre-money",
     "src": "X News",
-    "time": "11/02 9:50A",
+    "time": "11/02 3:00P",
     "url": "https://x.com/i/trending/2117266690367234429"
    },
    {
-    "t": "Goldman lifts December Brent forecast to $105 from $90 on Mideast supply risk",
+    "t": "US oil majors earned $130B+ Apr–Sep amid Iran war (NYT analysis)",
     "src": "X News",
-    "time": "11/02 9:42A",
-    "url": "https://x.com/i/trending/2117170810037178656"
+    "time": "11/02 2:15P",
+    "url": "https://x.com/i/trending/2117332420902961361"
    },
    {
-    "t": "Foreign investors net buy ₹3,115 cr as Nifty rallies 1.7% on lower oil",
+    "t": "Fifty major US firms object to tokenized trading of their shares on OKX-ICE venue",
     "src": "X News",
-    "time": "11/02 9:42A",
-    "url": "https://x.com/i/trending/2117264575070618092"
+    "time": "11/02 1:32P",
+    "url": "https://x.com/i/trending/2116897105218330962"
    },
    {
-    "t": "Oil plunges below $100 on US-Iran diplomacy hopes; Iran floats fast-track Hormuz deal",
+    "t": "Tesla–SpaceX merger speculation: Kalshi prices 75% odds before 2028; nothing announced",
     "src": "X News",
-    "time": "11/02 9:09A",
-    "url": "https://x.com/i/trending/2117179663432769983"
+    "time": "11/02 1:19P",
+    "url": "https://x.com/i/trending/2117318345263354367"
    },
    {
-    "t": "Gold slides below $3,900 after worst October since 2008; Bitcoin steady near $78K",
+    "t": "Blackstone-led group buys $3.1B stake tied to Mitsubishi's LNG Canada interest",
     "src": "X News",
-    "time": "11/02 8:54A",
-    "url": "https://x.com/i/trending/2117036402999513225"
-   },
-   {
-    "t": "Tankers hit in Gulf and Hormuz; ADNOC says ~1B barrels drained from global inventories",
-    "src": "X News",
-    "time": "11/02 5:34A",
-    "url": "https://x.com/i/trending/2117202601750024680"
-   },
-   {
-    "t": "Fairfax's ~₹52,878 cr IDBI Bank stake deal sparks two-day staff strike",
-    "src": "X News",
-    "time": "11/02 5:00A",
-    "url": "https://x.com/i/trending/2116485292320522742"
-   },
-   {
-    "t": "Big Tech's record $202B Q3 AI capex pushes combined FCF negative",
-    "src": "X News",
-    "time": "11/02 1:26A",
-    "url": "https://x.com/i/trending/2117140266285158564"
+    "time": "11/02 12:50P",
+    "url": "https://x.com/i/trending/2117311683211170109"
    }
   ],
   "posts": [
+   {
+    "t": "Wolfe: midterms may not clear the AI 'wall of worry' holding stocks back",
+    "src": "@business",
+    "time": "11/02 3:45P",
+    "url": "https://x.com/business/status/2117357367675301995"
+   },
+   {
+    "t": "Anthropic's loss shrinks and revenue jumps ahead of IPO",
+    "src": "@Reuters",
+    "time": "11/02 3:40P",
+    "url": "https://x.com/Reuters/status/2117356109828649084"
+   },
+   {
+    "t": "Gulf Arab producers shipping crude near pre-war rates, tempering prices",
+    "src": "@business",
+    "time": "11/02 2:10P",
+    "url": "https://x.com/business/status/2117333451166666989"
+   },
+   {
+    "t": "Treasuries rise, extending biggest monthly gain in 2+ years as oil tumbles",
+    "src": "@business",
+    "time": "11/02 1:45P",
+    "url": "https://x.com/business/status/2117327165708505506"
+   },
+   {
+    "t": "Anthropic IPO faces a midterm political hurdle",
+    "src": "@business",
+    "time": "11/02 1:20P",
+    "url": "https://x.com/business/status/2117320870540476849"
+   },
+   {
+    "t": "Venezuelan oil exports near lowest since Maduro's ouster on shipping costs",
+    "src": "@business",
+    "time": "11/02 1:05P",
+    "url": "https://x.com/business/status/2117317090394751203"
+   },
+   {
+    "t": "Daily: Marvell M&A milestones, Ray-Ban heir's family buyout proposal, and Intesa's Paschi bid",
+    "src": "@business",
+    "time": "11/02 12:55P",
+    "url": "https://x.com/business/status/2117314572826599688"
+   },
+   {
+    "t": "FTSE 100 notches fourth straight gain as oil slides on US-Iran deal hopes",
+    "src": "@Reuters",
+    "time": "11/02 12:35P",
+    "url": "https://x.com/Reuters/status/2117309545311502392"
+   },
+   {
+    "t": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+    "src": "@FT",
+    "time": "11/02 12:29P",
+    "url": "https://x.com/FT/status/2117308028412198993"
+   },
    {
     "t": "Marvell's $115B Lumentum takeover pushes 2026 M&A past several milestones",
     "src": "@business",
@@ -568,34 +638,10 @@
     "url": "https://x.com/Reuters/status/2117298188193616098"
    },
    {
-    "t": "JPMorgan sees Greek stock outflows as MSCI upgrade to developed market forces EM selling",
-    "src": "@business",
-    "time": "11/02 11:40A",
-    "url": "https://x.com/business/status/2117295723771220212"
-   },
-   {
-    "t": "Anthropic reports Q3 revenue of nearly $17B, up twelve-fold y/y",
-    "src": "@business",
-    "time": "11/02 11:25A",
-    "url": "https://x.com/business/status/2117291924113494465"
-   },
-   {
     "t": "Intesa plans to launch its €33B Monte Paschi takeover bid by end of month",
     "src": "@business",
     "time": "11/02 11:05A",
     "url": "https://x.com/business/status/2117286891124920830"
-   },
-   {
-    "t": "Anthropic's spending commitments surge to nearly $900B",
-    "src": "@axios",
-    "time": "11/02 10:12A",
-    "url": "https://x.com/axios/status/2117273618505666963"
-   },
-   {
-    "t": "ADNOC and G42 sign deal with OpenAI as Altman visits UAE",
-    "src": "@Reuters",
-    "time": "11/02 9:35A",
-    "url": "https://x.com/Reuters/status/2117264241501549033"
    },
    {
     "t": "Oracle kicks off $10B US investment-grade bond sale",
@@ -610,96 +656,87 @@
     "url": "https://x.com/FT/status/2117263001489224120"
    },
    {
-    "t": "US equity futures advance led by tech as falling oil offers relief",
-    "src": "@business",
-    "time": "11/02 8:50A",
-    "url": "https://x.com/business/status/2117252918952784364"
-   },
-   {
-    "t": "Breakingviews: PAG's China property deal blueprint comes together",
-    "src": "@Reuters",
-    "time": "11/02 8:10A",
-    "url": "https://x.com/Reuters/status/2117242852832878707"
-   },
-   {
-    "t": "Marvell to buy Lumentum at $115B EV, one of the biggest tech tie-ups ever",
-    "src": "@business",
-    "time": "11/02 8:00A",
-    "url": "https://x.com/business/status/2117240479825752322"
-   },
-   {
-    "t": "China's slow US farm purchases test $17B trade pledge",
-    "src": "@Reuters",
-    "time": "11/02 8:00A",
-    "url": "https://x.com/Reuters/status/2117240383168012557"
-   },
-   {
     "t": "Ex-Shell CEO van Beurden to chair Castrol as Stonepeak closes BP deal",
     "src": "@Reuters",
     "time": "11/02 7:45A",
     "url": "https://x.com/Reuters/status/2117236564656865298"
-   },
-   {
-    "t": "Indian bonds post biggest gain in six months as crude extends losses",
-    "src": "@business",
-    "time": "11/02 7:15A",
-    "url": "https://x.com/business/status/2117229012091031621"
    }
   ]
  },
  "world": {
   "status": "ok",
-  "asOf": "Nov 02 12:00 ET",
+  "asOf": "Nov 02 16:00 ET",
   "sources": "Google News World/Business RSS, BBC World/Business RSS",
   "items": [
    {
-    "t": "Stocks jump as oil prices tumble before midterms, tech shares rebound: Live updates",
-    "src": "CNBC",
-    "time": "Nov 02 11:55 ET",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
-    "src": "Reuters",
-    "time": "Nov 02 09:37 ET",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Wall St rises as oil falls heading into US midterm elections, more earnings",
-    "src": "Reuters",
-    "time": "Nov 02 09:38 ET",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5",
-    "r": "US"
-   },
-   {
-    "t": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled",
-    "src": "CBS News",
-    "time": "Nov 02 11:36 ET",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWVWWDlkaXg5ZDdDZ1c5R21YM3FiSm5xbkVDYTBFTHFQdmlLdFRCOFdBbWtNVjBBLVBmTVM3aUFQZGg2c3duOFFINjNKSkxTbkgwd2NXYXhZQ0hiM2FTYjdkTUk5V2g4ZFdiQnhGZmN1VklkQlozamlESzdYYWNmSFBZdw?oc=5",
-    "r": "MIDEAST"
-   },
-   {
-    "t": "Oil Prices Fall More Than 6% as Iran Peace Talks Ease Supply Fears",
+    "t": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears",
     "src": "WSJ",
-    "time": "Nov 02 10:55 ET",
+    "time": "Nov 02 15:42 ET",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlnQ2hWb0xhREU3dG5ZeGtaV3cxb1kzRk9TT2FOanNnRW8yWWVkd0xCLWpmbDRLVkVqRVpMWXJuY2E1N2tfMGRnV3hkWE1IRmtjYWU0M3Z0V1FlMmoyaTlGSXl2Y1R1ZVZYUUdvdnJnZjNVRzBTNzhtb0FnaWJuV3hhWkpVQU1iRkVtSmFhWjQ0XzM3T0NBVmFudVVldWhZemFoeDJPSy1hWXhCbmdEbUVB?oc=5",
     "r": "MIDEAST"
    },
    {
-    "t": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback",
-    "src": "WSJ",
-    "time": "Nov 02 09:53 ET",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ?oc=5",
+    "t": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled",
+    "src": "CBS News",
+    "time": "Nov 02 14:40 ET",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWVWWDlkaXg5ZDdDZ1c5R21YM3FiSm5xbkVDYTBFTHFQdmlLdFRCOFdBbWtNVjBBLVBmTVM3aUFQZGg2c3duOFFINjNKSkxTbkgwd2NXYXhZQ0hiM2FTYjdkTUk5V2g4ZFdiQnhGZmN1VklkQlozamlESzdYYWNmSFBZdw?oc=5",
     "r": "MIDEAST"
    },
    {
-    "t": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-    "src": "The New York Times",
-    "time": "Nov 02 05:02 ET",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
-    "r": "MIDEAST"
+    "t": "Stock market today: S&P 500, Nasdaq rebound sputters, Dow edges higher as oil prices fall",
+    "src": "Yahoo Finance",
+    "time": "Nov 02 14:15 ET",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEN3YWd4QU9NOS12cVJFSVU2NGFBb3VpcXpaSmlCbXlYY1Q0bDNETEY2UDc5REw0Q3BndGhvb3ZCQVdhNDFOMTV3RVJBWkR2dlJibXZ1UnFEaVNhdkxCZlZKM1FLemVoeHZfY0VUNzFVRjJoeEtKWnZFSHJKZWdtd04zLW1ZT01WZ2FodENVNktQZDRuNGlNa1dncGdtQzdNeUNsNXBKanQyQnpI?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Trump to remove Rwanda and South Africa from US trade deal",
+    "src": "BBC",
+    "time": "Nov 02 14:33 ET",
+    "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+    "r": "GLOBAL"
+   },
+   {
+    "t": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "src": "BBC",
+    "time": "Nov 02 15:23 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+    "r": "EUROPE"
+   },
+   {
+    "t": "US midterms campaign 'shattering' spending records to be most expensive ever",
+    "src": "BBC",
+    "time": "Nov 02 15:54 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+    "r": "US"
+   },
+   {
+    "t": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
+    "src": "Reuters",
+    "time": "Nov 02 13:05 ET",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTVhdFlwU2VQcjVwVnVwdGZHQkpGcEtJbWVjcW1uOC1aQ2ZuZ3hmblRmWkRRMU1RdWZrM1ZoN3k5eDZfem1UVTZRMVQtbkRTV1hnR1RZNUN4VndSMzJEV0FRUGprVWtmbnVhZFc5WDdrX3EyWWw4WDNyTEk3UmgtUy1uWGtvejg2MWI3RDhJVVFrZFBOUDRxLXFFS1I4WHhHOFc3LU5BbWVuR1pPY09OMTlubFI4dHduM2RaMExUUQ?oc=5",
+    "r": "CHINA"
+   },
+   {
+    "t": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+    "src": "Financial Times",
+    "time": "Nov 02 11:31 ET",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
+    "src": "Bloomberg",
+    "time": "Nov 02 11:25 ET",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3N2ZVdrWVZaekU3UUdvbWgzZE4wTUF5X2tsajg4V042UDRJeEpwa2RqY1RxLWlNNk5sWTl4QUFlQk1mQjhsTzh3STlDR0lVN3ByaVQyUFRFUnlpZG95dGpuZjVtN3lMX3lfQkZRWnUyM3FqSnAyeE9sQ25fSHI1Mmo2M1dPT3d4RkwxM1hjSkRYbFBrdlFtUXpnUlNCc05aRkJvOWNFSFZBQjRqaXFHUVVGZzQ?oc=5",
+    "r": "US"
+   },
+   {
+    "t": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+    "src": "Reuters",
+    "time": "Nov 02 12:16 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+    "r": "GLOBAL"
    },
    {
     "t": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
@@ -709,53 +746,32 @@
     "r": "US"
    },
    {
-    "t": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
-    "src": "Reuters",
-    "time": "Nov 02 09:13 ET",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
-    "r": "GLOBAL"
-   },
-   {
-    "t": "European stocks edge down, oil drops as midterm caution prevails",
-    "src": "Yahoo Finance",
-    "time": "Nov 02 07:41 ET",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2lCUmNHMEFyNjNyRXFBa09oMXZDZGdJX3dldjI2X2pqc2dvYmFRb19rVzRFcmc2V0JGTDYxOW9sM25sN1poaV9IaEVZdVBHeXJiWGVFTE5zdXc5VzUwZXR3aXlvTUc4ek5NTElWdy0zbkJOODhPZG9KWk9FMHdLSEs1TFVfNGwtN1ZDOEc0ajlBYi1O?oc=5",
+    "t": "Major Russian Oil Hub on Fire After Strike, NASA Data Show",
+    "src": "Bloomberg",
+    "time": "Nov 02 11:17 ET",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFCejIyQUpkbjc1R1RBTlp5Nlgya1g5eFg3Wi1Wcklab0pBaWJiWVI1NjVlc2dVR3dCZEZWbXNWOU9HUG5HMTV5TnBTams3SktNR1pGSk1oeV9RemhXcTQ4dl9scE1YVVpIVzB6czAxTDhQS1p3S2VUY3pQa1RLZ0JKeEw0b2czNjNQODNNUnp3eWd5M1R5U0twWDZ5UjZNbE9JWDB2bzh1WWJZ?oc=5",
     "r": "EUROPE"
    },
    {
-    "t": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-    "src": "Al Jazeera",
-    "time": "Nov 02 10:22 ET",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUx5d3lreC1NSnotQWs1NU0wOUtrWnZTTlEzWGtZWHpNNlgxZUsyWlZVbXVSTzl6TTN4TU00WDFncTRxV2s1WWRENmkyX1ZsQ2FuS045eEJnQjFTLVNiNVBnR3FoM29IT00xdkx6cnc4VWdzSnNSWHUzU0pfNnlpOTNta3hGanBkTDF6ZFdUWGZEcHFSeWstOGZpbG1RSDA4YWJJOXNSWjZHRlhR0gGyAUFVX3lxTE5CbmNadnJmSmdjSFNaT0NhZ1VNSnR6WFdHSC00azNVZGhhN3dLWFJFbV9iVERSenJHRnlvYTVFTWlxTGl5bTk0RmVVV21HSnhKRzRldHgtcUp5dkROUXA2MzJES1lfREpqTEZZMUVodU53NEMwa0xHZUlkYzIyR1ZiUjFpRVFvMGVNVDgtTEpsYjhyeU5YMG90cUtRWlp1Q0cyeFl0dXZaWDJJZzI3UnhKT1E?oc=5",
+    "t": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab",
+    "src": "Fox News",
+    "time": "Nov 02 14:37 ET",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjBrd3FTdWlWY1A1aU5LUERrSHlYdUFVcnBzZVZSSVV0cnlMcG5naTY2WW1rRkVtcnZHa2tqNkkzYmc1d2tLZDJ0WlRIZS1PdUpuMWlxYUJXRk1CWFZnSW5iLXN3WGlFUU4wVXJPUHBmaGswTzhjMTlTYkFCbjNPcU9vdS1BampBbGs0WFp6WmJOTVpBaERMbENpVnl2T3g0dWxVeW4zbF9JVTZWbXdlVTFaOUJQc1XSAbwBQVVfeXFMTnZOZFpGMVJqQUsyNUwzWnVjYl9laFkyNHpkcWVmNkstdlZ1VlNuZkx2T1pHVU1EdGQyT2p4NWZRTHpPeWNzZmJtZVNKdXppN1RMNlFUTThON3JNREdLTWVPLXlzTjRGM1pZU2tMVE9TT2lPMWVMVklUb1pjdjhvMVk0bFJLaE14dU5tT0g5WVQ5UExGVFViSWlWeWRRd1NNcHZ6MGNFV0hPcUlORXFaZmUtVkZDYXNDNjJ1QjY?oc=5",
     "r": "EUROPE"
    },
    {
-    "t": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+    "t": "Netanyahu lost his majority in parliament. Now he claims elections were stolen",
+    "src": "CNN",
+    "time": "Nov 02 11:42 ET",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzFGMkNHTDBwaW5NRjR2R0xiYzNVd1ZMejBfSUZVLUNnUXgzdHlQQmp0Q0hmSTBTcDdTUVl4eHB6SjAzTGFNX0ZhMEJsM2M2RzJEd3FmRjFVdERaTWFhZXBGb2xiM203Y1oyemgtallVdTlDWm1ZbV80Z2RNNDR6SlpTbmlfUkk?oc=5",
+    "r": "MIDEAST"
+   },
+   {
+    "t": "Shop freezers in seven European countries hit by cyber-attack",
     "src": "BBC",
-    "time": "Nov 02 09:35 ET",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+    "time": "Nov 02 12:38 ET",
+    "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "r": "EUROPE"
-   },
-   {
-    "t": "Belgian prime minister quits after budget talks fail as king mulls whether to accept his resignation",
-    "src": "AP News",
-    "time": "Nov 02 06:40 ET",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZQTk9uS2tNZXUyeDA0WUFCaUpXNGZkN1VCX2xVY2pqUWE4LXExczlDS3pXRlNFSHZIT2VLektDTXBZYVB4NzFaY2RjY3kzaFgzOURYRkE3RFpLdFR6c2ZHbXlPaDgycXRHaTh4TVk1MTBOd0YtMFZwNGJxSm1mdGZ5TjlNRTBiNThKMzRiN2c0NmJiYlJ5T2RyY0RJTjlBUXhVaUV2YzhLQnhR?oc=5",
-    "r": "EUROPE"
-   },
-   {
-    "t": "Argentina's austerity-hit economy reels towards recession, testing Milei ahead of 2027 vote",
-    "src": "Yahoo Finance",
-    "time": "Nov 02 05:07 ET",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHZsLVBqT1JJWFZOYVhFQ1paWlRPQmlFN2ZsUW9pV0hwTk9jNFcxRGlxLTBic2hYWEhUQnh4bDhFZkRXNmFhNU9UaHZFSFBmNTJyR21CRXkyaDhJTzktM3ZIZ3NCQ3MwUlJjcDI4eUR6ejAycFFmU1pBcmRYRUZIMlB4X1BzYW1teFBZUnZNWjJ4cEVNb0hZTUl5aDg?oc=5",
-    "r": "LATAM"
-   },
-   {
-    "t": "Nine big oil firms on track to share more than $95bn profit two quarters in a row",
-    "src": "The Guardian",
-    "time": "Nov 02 02:00 ET",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBJYWlwMjdwM3djOG81dHVZNHlIX1dUZWM2dEYya2YzOVp1TTR6bmN1dm9hbWxqLU5zMFYzYTVtTzFkOHdVdG9hWGlaWmEtaGM2dmlveGVCODZDY3FiYk5BeTFaLW5QeF9FVGxPQmdBOWwteEc5bjFZMTh2d0I2c2NCVm94VTlHT1M1REhIWU9WeTJReTFRV3ZfWm5rc05EUWFjLTN2dHhETE1pWXRNWS0xOFZ0dw?oc=5",
-    "r": "GLOBAL"
    }
   ]
  }
